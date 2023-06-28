@@ -1,1 +1,1 @@
-A blanket Creative Commons 4.0 BY-NC-ND international license (https://creativecommons.org/licenses/by-nc-nd/4.0/) applies to all files unless otherwise noted. All other rights reserved.
+Resources and code are copyright (c) 2023 by Mark G. Bilby unless otherwise noted in the files. A blanket Creative Commons 4.0 BY-NC-ND international license (https://creativecommons.org/licenses/by-nc-nd/4.0/) applies to all files unless otherwise noted in the files. All other rights reserved.
