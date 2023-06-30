@@ -1,0 +1,489 @@
+Chapter.Verse.Version.Script
+03.01.06R ἐν@pd (ὁ@ddns) ἔτος@ndnsc πεντεκαιδέκατος@aodnsn (ὁ@dgfs ἡγεμονία@ngfsc) Τιβέριος@ngmsp Καῖσαρ@ngmsp ἐπί@pg ὁ@dgmp χρόνος@ngmpc (Πόντιος@ngmsp) Πιλᾶτος@ngmsp () 
+04.31.06R () κατέρχομαι@viaa3s εἰς@pa Καφαρναούμ@nafsp πόλις@nafsc ὁ@dgfs Γαλιλαία@ngfsp () εἰμί@viia3s διδάσκω@vppanms () ἐν@pd ὁ@ddfs συναγωγή@ndfsc 
+04.32.06R () ἐκπλήσσω@viip3p (δέ@cc) πᾶς@ainmpn ἐπί@pd ὁ@ddfs διδαχή@ndfsc αὐτός@rpgms ὅτι@cs ἐν@pd ἐξουσία@ndfsc εἰμί@viia3s ὁ@dnms λόγος@nnmsc αὐτός@rpgms 
+04.34.06R () τίς@rqnns ἐγώ@rpd-p καί@cc σύ@rpd-s Ἰησοῦς@nvmsp ἔρχομαι@viaa2s ἀπόλλυμι@vnaa ἐγώ@rpa-p οἶδα@vixa1s (σύ@rpa-s) τίς@rqnms εἰμί@vipa2s ὁ@dnms ἅγιος@annmsn ὁ@dgms θεός@ngmsc 
+04.35.06R () ἐπιτιμάω@viaa3s αὐτός@rpdns ὁ@dnms Ἰησοῦς@nnmsp () 
+04.16.06R () Ναζαρά@nafsp () 
+04.23.06R () (ἰατρός@nvmsc θεραπεύω@vdaa2s σεαυτοῦ@rxams) () 
+04.29.06R () ἐκβάλλω@viaa3p αὐτός@rpams () ἄγω@viaa3p αὐτός@rpams ἕως@pg ὀφρύς@ngfsc ὁ@dgns ὄρος@ngnsc () 
+04.30.06R () διά@pg μέσος@angnsn αὐτός@rpgmp πορεύομαι@viim3s () 
+04.40.06R () ὁ@dafp χείρ@nafpc (ἐπιτίθημι@vppanms θεραπεύω@viia3s) αὐτός@rpamp 
+04.41.06R (ἐξέρχομαι@viim3p) (δέ@cc καί@b) δαιμόνιον@nnnpc () (κραυγάζω@vppannp) ()  σύ@rpn-s εἰμί@vipa2s ὁ@dnms υἱός@nnmsc ὁ@dgms θεός@ngmsc (καί@cc) ἐπιτιμάω@vppanms (οὐ@b ἐάω@viia3s αὐτός@rpanp λαλέω@vnpa) () 
+04.42.06R () (πορεύομαι@viap3s) εἰς@pa ἔρημος@anamsn () ὁ@dnmp ὄχλος@nnmpc () κατέχω@viia3p αὐτός@rpams () 
+04.43.06R () δεῖ@vipa3s ἐγώ@rpa-s (καί@b ὁ@ddfp ἕτερος@aidfpn πόλις@ndfpc) εὐαγγελίζω@vnam ὁ@dafs βασιλεία@nafsc ὁ@dgms θεός@ngmsc () 
+05.02.06R () (ὁ@dnmp ἁλιεύς@nnmpc) () 
+05.09.06R θάμβος@nnmsc (γάρ@cc περιέχω@viaa3s) αὐτός@rpams () ἐπί@pd ὁ@ddfs ἄγρα@ndfsc ὁ@dgmp ἰχθύς@ngmpc () 
+05.10.06R () (υἱός@nampc) Ζεβεδαῖος@ngmsp () (ὁ@ddms Σίμων@ndmsp) () (λέγω@viaa3s πρός@pa ὁ@dams Σίμων@namsp) () μή@x φοβέω@vdpm2s ἀπό@pg ὁ@dgms νῦν@b (γάρ@cc) ἄνθρωπος@nampc εἰμί@vifm2s ζωγρέω@vppanms 
+05.11.06R () πλοῖον@nanpc () ἀφίημι@vpaanmp () ἀκολουθέω@viaa3p αὐτός@rpdms 
+05.12.06R () (λέπρα@ngfsc) () 
+05.13.06R () ἅπτω@viam3s () (λέγω@vppanms θέλω@vipa1s καθαρίζω@vdap2s καί@cc εὐθέως@b ὁ@dnfs λέπρα@nnfsc ἀπέρχομαι@viaa3s ἀπό@pg αὐτός@rpgms) 
+05.14.06R ἀπέρχομαι@vpaanms δείκνυμι@vdaa2s σεαυτοῦ@rxams ὁ@ddms ἱερεύς@ndmsc καί@cc προσφέρω@vdaa2s (ὁ@dans δῶρον@nansc) περί@pg ὁ@dgms καθαρισμός@ngmsc σύ@rpg-s καθώς@cs προστάσσω@viaa3s Μωϋσῆς@nnmsp ἵνα@cs εἰμί@vspa3s εἰς@pa μαρτύριον@nansc οὗτος@rdans σύ@rpd-p 
+05.17.06R () 
+05.18.06R () (ἄνθρωπος@namsc ὅς@rrnms εἰμί@viia3s παραλύω@vpxpnms) () 
+05.20.06R () 
+05.21.06R () τίς@rqnms (δύναμαι@vipm3s) ἀφίημι@vnaa ἁμαρτία@nafpc εἰ@cs μή@x μόνος@annmsn ὁ@dnms θεός@nnmsc 
+05.24.06R ἵνα@cs δέ@cc οἶδα@vsxa2p ὅτι@cs ἐξουσία@nafsc ἔχω@vipa3s ὁ@dnms υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc ἀφίημι@vnpa ἁμαρτία@nafpc ἐπί@pg ὁ@dgfs γῆ@ngfsc () ἐγείρω@vdpa2s καί@cc αἴρω@vdaa2s ὁ@dams κράβαττος@namsc σύ@rpg-s () 
+05.26.06R () (ὁράω@viaa1p παράδοξος@ananpn σήμερον@b) 
+05.27.06R () τελώνης@namsc () (λέγω@viaa3s αὐτός@rpdms ἀκολουθέω@vdpa2s ἐγώ@rpd-s) 
+05.30.06R () μετά@pg ὁ@dgmp τελώνης@ngmpc (καί@cc ἁμαρτωλός@angmpn) () 
+05.31.06R () οὐ@b χρεία@nafsc ἔχω@vipa3p ὁ@dnmp ὑγιαίνω@vppanmp ἰατρός@ngmsc ἀλλά@cc ὁ@dnmp κακῶς@b ἔχω@vppanmp 
+05.33.06R () ὁ@dnmp μαθητής@nnmpc Ἰωάννης@ngmsp νηστεύω@vipa3p πυκνός@b/ananpn καί@cc δέησις@nafpc ποιέω@vipm3p () (ὁ@dnmp δέ@cc σός@asnmpn) ἐσθίω@vipa3p καί@cc πίνω@vipa3p 
+05.34.06R μή@x (δύναμαι@vipm3p νηστεύω@vnpa ὁ@dnmp υἱός@nnmpc) ὁ@dgms νυμφών@ngmsc (ἐπί@pa ὅσος@rrans) μετά@pg αὐτός@rpgmp εἰμί@vipa3s ὁ@dnms νυμφίος@nnmsc 
+05.35.06R () ὅταν@cs ἀπαίρω@vsap3s ἀπό@pg αὐτός@rpgmp ὁ@dnms νυμφίος@nnmsc () νηστεύω@vifa3p () 
+05.37.06R () ὁ@dnms οἶνος@nnmsc () 
+05.36.06R () ὁ@dnns ἐπίβλημα@nnnsc () (ἐπίβλημα@nansc ῥάκος@ngnsc ἄγναφος@angnsn) 
+06.01.06R () ἐν@pd σάββατον@ndnsc () (πεινάω@viaa3p ὁ@dnmp μαθητής@nnmpc τίλλω@viia3p ὁ@damp στάχυς@nampc) ψώχω@vppanmp ὁ@ddfp χείρ@ndfpc 
+06.02.06R () ὁ@dgmp Φαρισαῖος@ngmpp () 
+06.03.06R () οὐδέ@b οὗτος@rdans ἀναγινώσκω@viaa2p τίς@rqans ποιέω@viaa3s Δαυίδ@nnmsp () 
+06.04.06R εἰσέρχομαι@viaa3s εἰς@pa ὁ@dams οἶκος@namsc ὁ@dgms θεός@ngmsc () ὁ@damp ἄρτος@nampc ὁ@dgfs πρόθεσις@ngfsc () 
+06.05.06R () κύριος@nnmsc εἰμί@vipa3s ὁ@dnms υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc καί@cc ὁ@dgns σάββατον@ngnsc 
+06.06.06R () χείρ@nnfsc () ξηρός@annfsn 
+06.07.06R παρατηρέω@viim3p () ὁ@dnmp Φαρισαῖος@nnmpp (εἰ@x ἐν@pd ὁ@ddns σάββατον@ndnsc θεραπεύω@vipa3s ἵνα@cs εὑρίσκω@vsaa3p κατηγορέω@vnpa αὐτός@rpgms) 
+06.08.06R () 
+06.09.06R () ἔξειμι@vipa3s (ὁ@ddnp σάββατον@ndnpc) ἀγαθοποιέω@vnaa ἤ@cc (μή@x); ψυχή@nafsc σῴζω@vnaa ἤ@cc ἀπόλλυμι@vnaa; 
+06.12.06R () (ἀναβαίνω@viaa3s) εἰς@pa ὁ@dans ὄρος@nansc () διανυκτερεύω@vppanms ἐν@pd ὁ@ddfs προσευχή@ndfsc () 
+06.13.06R () ἐκλέγω@vpamnms () δώδεκα@ac---n () ἀπόστολος@nampc () 
+06.14.06R Σίμων@namsp () ὀνομάζω@viaa3s Πέτρος@namsp () 
+06.16.06R () Ἰούδας@namsp (Ἰσκαριώθ@namsp []) ὅς@rrnms γίνομαι@viam3s προδότης@nnmsc 
+06.17.06R () (καταβαίνω@viaa3s) ἐν@pd αὐτός@rpdmp () πλῆθος@nnnsc () ἀπό@pg (πᾶς@aigfsn ὁ@dgfs Ἰουδαία@ngfsp καί@cc Ἰερουσαλήμ@ngfsp καί@cc) () Τύρος@ngfsp (καί@cc Σιδών@ngfsp) (καί@cc ὁ@dgfs περαῖος@angfsn) 
+06.19.06R καί@cc πᾶς@ainmsn ὁ@dnms ὄχλος@nnmsc ζητέω@viia3s ἅπτω@vnpm αὐτός@rpgms () 
+06.20.06R καί@cc αὐτός@rtnms ἐπαίρω@vpaanms ὁ@damp ὀφθαλμός@nampc αὐτός@rpgms () μακάριος@annmpn ὁ@dnmp πτωχός@annmpn ὅτι@cs αὐτός@rpgmp εἰμί@vipa3s ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc 
+06.21.06R μακάριος@annmpn ὁ@dnmp πεινάω@vppanmp () ὅτι@cs (χορτάζω@vifp3p) μακάριος@annmpn ὁ@dnmp κλαίω@vppanmp () ὅτι@cs (γελάω@vifa3p) 
+06.22.06R μακάριος@annmpn εἰμί@vipa2p ὅταν@cs (μισέω@vifa3p) σύ@rpa-p ὁ@dnmp ἄνθρωπος@nnmpc () καί@cc (ὀνειδίζω@vifa3p) καί@cc (ἐκβάλλω@vifa3p) ὁ@dans ὄνομα@nansc σύ@rpg-p ὡς@cs πονηρός@anansn ἕνεκα@pg ὁ@dgms υἱός@ngmsc ὁ@dgms ἄνθρωπος@ngmsc 
+06.23.06R () κατά@pa (οὗτος@rdanp []) ποιέω@viia3p ὁ@ddmp προφήτης@ndmpc ὁ@dnmp πατήρ@nnmpc αὐτός@rpgmp 
+06.24.06R (πλήν@cc) οὐαί@i (σύ@rpd-p) ὁ@ddmp πλούσιος@andmpn ὅτι@cs ἀπέχω@vipa2p ὁ@dafs παράκλησις@nafsc σύ@rpg-p 
+06.25.06R οὐαί@i (σύ@rpd-p) ὁ@dnmp ἐμπίπλημι@vpxpnmp ὅτι@cs πεινάω@vifa2p οὐαί@i (σύ@rpd-p) ὁ@dnmp γελάω@vppanmp νῦν@b ὅτι@cs πενθέω@vifa2p καί@cc κλαίω@vifa2p 
+06.26.06R οὐαί@i (σύ@rpd-p) ὅταν@cs σύ@rpa-p καλῶς@b λέγω@vsaa3p ὁ@dnmp ἄνθρωπος@nnmpc κατά@pa οὗτος@rdanp (γάρ@cc) ποιέω@viia3p (καί@cc) ὁ@ddmp ψευδοπροφήτης@ndmpc ὁ@dnmp πατήρ@nnmpc αὐτός@rpgmp 
+06.27.06R ἀλλά@cc σύ@rpd-p λέγω@vipa1s ὁ@ddmp ἀκούω@vppadmp ἀγαπάω@vdpa2p ὁ@damp ἐχθρός@anampn σύ@rpg-p () 
+06.28.06R (εὐλογέω@vdpa2p ὁ@damp μισέω@vppaamp σύ@rpa-p καί@cc) προσεύχομαι@vdpm2p περί@pg ὁ@dgmp ἐπηρεάζω@vppagmp σύ@rpa-p 
+06.29.06R () (ὁ@dafs σιαγών@nafsc) (παρέχω@vdpa2s) καί@b ὁ@dafs ἄλλος@aiafsn () (ἀπό@pg ὁ@dgms αἴρω@vppagms) (σύ@rpg-s) ὁ@dams χιτών@namsc (ἀφίημι@vdaa2s αὐτός@rpdms καί@b) ὁ@dans ἱμάτιον@nansc 
+06.30a.06R πᾶς@aidmsn () αἰτέω@vppadms σύ@rpa-s δίδωμι@vdpa2s () 
+06.31.06R καί@cc καθώς@cs σύ@rpd-p γίνομαι@vnpm θέλω@vipa2p παρά@pd (ὁ@dgmp) ἄνθρωπος@ngmpc (οὕτω@b καί@cc σύ@rpn-p ποιέω@vdpa2p αὐτός@rpdmp) 
+06.34a.06R καί@cc ἐάν@cs (δανίζω@vsaa2p) παρά@pg ὅς@rrgmp ἐλπίζω@vipa2p (σύ@rpn-p) ἀπολαμβάνω@vnaa ποῖος@aqnfsn χάρις@nnfsc εἰμί@vipa3s σύ@rpd-p 
+06.35b.06R καί@cc εἰμί@vifm2p υἱός@nnmpc (θεός@ngmsc) ὅτι@cs αὐτός@rtnms χρηστός@annmsn εἰμί@vipa3s ἐπί@pa ὁ@damp ἀχάριστος@anampn καί@cc πονηρός@anampn 
+06.36.06R γίνομαι@vdpm2p οἰκτίρμων@annmpn καθώς@cs ὁ@dnms πατήρ@nnmsc σύ@rpg-p (οἰκτίρμων@viaa3s σύ@rpa-p) 
+06.37.06R μή@x κρίνω@vdpa2p ἵνα@cs μή@x κρίνω@vsap2p μή@x καταδικάζω@vdpa2p ἵνα@cs μή@x καταδικάζω@vsap2p ἀπολύω@vdpa2p καί@cc ἀπολύω@vifp2p 
+06.38.06R δίδωμι@vdpa2p καί@cc δίδωμι@vifp3s σύ@rpd-p μέτρον@nansc καλός@anansn πιέζω@vpxpans καί@cc (σαλεύω@vpxpans) ὑπερεκχύννω@vpppans δίδωμι@vifa3p εἰς@pa ὁ@dams κόλπος@namsc σύ@rpg-p ὁ@ddms () αὐτός@atdmsn μέτρον@ndnsc ὅς@rrdns μετρέω@vipa2p ἀντιμετρέω@vifp3s σύ@rpd-p 
+06.39.06R () 
+06.40.06R οὐ@b εἰμί@vipa3s μαθητής@nnmsc ὑπέρ@pa ὁ@dams διδάσκαλος@namsc 
+06.41.06R () 
+06.42.06R () 
+06.43.06R (δένδρον@nnnsc καλός@annnsn) (ποιέω@vnpa) (δένδρον@nnnsc σαπρός@annnsn) 
+06.45.06R (ὁ@dnms ἀγαθός@annmsn ἄνθρωπος@nnmsc ἐκ@pg ὁ@dgms ἀγαθός@angmsn θησαυρός@ngmsc ὁ@dgfs καρδία@ngfsc αὐτός@rpgms προφέρω@vipa3s ὁ@dans ἀγαθός@anansn καί@cc ὁ@dnms πονηρός@annmsn ἐκ@pg ὁ@dgms πονηρός@angmsn προφέρω@vipa3s ὁ@dans πονηρός@anansn) 
+06.46.06R τίς@rqans (δέ@cc) (ἐγώ@rpa-s) καλέω@vipa2p κύριος@nvmsc κύριος@nvmsc καί@cc οὐ@b ποιέω@vipa2p ὅς@rranp λέγω@vipa1s; 
+07.02.06R ([ἑκατοντάρχης@ngmsc]) 
+07.09.06R () λέγω@vipa1s σύ@rpd-p (τοσοῦτος@adafsn) πίστις@nafsc οὐδέ@b ἐν@pd ὁ@ddms Ἰσραήλ@ndmsp εὑρίσκω@viaa1s 
+07.12.06R () 
+07.14.06R () 
+07.15.06R () 
+07.16.06R () δοξάζω@viia3p ὁ@dams θεός@namsc () (ὅτι@cs) μέγας@annmsn προφήτης@nnmsc (ἐγείρω@vixp3s) ἐν@pd ἐγώ@rpd-p καί@cc (ὅτι@cs) ἐπισκέπτομαι@viam3s ὁ@dnms θεός@nnmsc ὁ@dams λαός@namsc αὐτός@rpgms 
+07.18.06R () 
+07.19.06R () σύ@rpn-s εἰμί@vipa2s ὁ@dnms ἔρχομαι@vppmnms ἤ@cc ἄλλος@aiamsn προσδοκάω@vipa1p/vspa1p; 
+07.20.06R () 
+07.22.06R () (τυφλός@annmpn ἀναβλέπω@vipa3p χωλός@annmpn περιπατέω@vipa3p) () (νεκρός@annmpn ἐγείρω@vipp3p) 
+07.23.06R () μακάριος@annmsn (εἰμί@vipa3s) ὅς@rrnms (οὐ@b) μή@x σκανδαλίζω@vsap3s ἐν@pd ἐγώ@rpd-s 
+07.24.06R () περί@pg Ἰωάννης@ngmsp τίς@rqans ἐξέρχομαι@viaa2p θεάομαι@vnam εἰς@pa ὁ@dafs ἔρημος@nafsc; () 
+07.26.06R () προφήτης@namsc; ναί@x () καί@cc/b περισσός@anamsc/anansc 
+07.27.06R (οὗτος@rdnms) εἰμί@vipa3s περί@pg ὅς@rrgms γράφω@vixp3s ἰδού@i ἀποστέλλω@vipa1s ὁ@dams ἄγγελος@namsc ἐγώ@rpg-s πρό@pg πρόσωπον@ngnsc σύ@rpg-s ὅς@rrnms κατασκευάζω@vifa3s ὁ@dafs ὁδός@nafsc σύ@rpg-s ([]) 
+07.28.06R () μέγας@annmsc (ἐν@pd γεννητός@andmpn) γυνή@ngfpc Ἰωάννης@ngmsp (οὐδείς@rinms εἰμί@vipa3s) (ὁ@dnms δέ@cc μικρός@annmsc ἐν@pd ὁ@ddfs βασιλεία@ndfsc ὁ@dgms θεός@ngmsc μέγας@annmsc αὐτός@rpgms εἰμί@vipa3s) 
+07.36.06R () καί@cc εἰσέρχομαι@vpaanms εἰς@pa ὁ@dams οἶκος@namsc ὁ@dgms Φαρισαῖος@ngmsp κατακλίνω@viap3s 
+07.37.06R () γυνή@nnfsc () ἁμαρτωλός@annfsn () 
+07.38.06R () ἵστημι@vpaanfs ὀπίσω@b παρά@pa ὁ@damp πούς@nampc () ὁ@ddnp δάκρυον@ndnpc βρέχω@viaa3s () ὁ@ddfp θρίξ@ndfpc () ἐκμάσσω@viia3s () καταφιλέω@viia3s ὁ@damp πούς@nampc () ἀλείφω@viia3s () 
+07.44.06R () βρέχω@viaa3s ὁ@damp πούς@nampc ἐγώ@rpg-s () 
+07.45.06R () καταφιλέω@vppanfs () 
+07.46.06R () ἀλείφω@viaa3s () 
+07.47.06R () 
+07.48.06R () 
+07.50.06R () ὁ@dnfs πίστις@nnfsc σύ@rpg-s σῴζω@vixa3s σύ@rpa-s () 
+08.02.06R () γυνή@nnfpc () 
+08.03.06R () γυνή@nnfsc () ἐπίτροπος@ngmsc Ἡρῴδης@ngmsp () ὅστις@rrnfp (καί@cc) διακονέω@viia3p (αὐτός@rpdms) ἀπό@pg ὁ@dgnp ὑπάρχω@vppagnp αὐτός@rpdfp 
+08.04.06R () διά@pg παραβολή@ngfsc 
+08.08.06R () (ὁ@dnms ἔχω@vppanms οὖς@nanpc ἀκούω@vdpa3s) 
+08.16.06R (οὐδείς@rinms) () λύχνος@namsc () καλύπτω@vipa3s () 
+08.17.06R () κρυπτός@annnsn () φανερός@annnsn (γίνομαι@vifm3s) () 
+08.18.06R βλέπω@vdpa2p () πῶς@b ἀκούω@vipa2p ὅς@rrnms () ἄν@x ἔχω@vspa3s δίδωμι@vifp3s αὐτός@rpdms (καί@cc) ὅς@rrnms ἄν@x μή@x ἔχω@vspa3s καί@b ὅς@rrans δοκέω@vipa3s ἔχω@vnpa αἴρω@vifp3s ἀπό@pg αὐτός@rpgms 
+08.20.06R ἀπαγγέλλω@viap3s () αὐτός@rpdms ὁ@dnfs μήτηρ@nnfsc σύ@rpg-s καί@cc ὁ@dnmp ἀδελφός@nnmpc σύ@rpg-s ἔξω@b ἵστημι@vixa3p ὁράω@vnaa θέλω@vppanmp σύ@rpa-s 
+08.21.06R τίς@rqnfs (ἐγώ@rpd-s) μήτηρ@nnfsc καί@cc τίς@rqnmp (ἐγώ@rpd-s) ἀδελφός@nnmpc εἰ@cs μή@x ὁ@dnmp ὁ@damp λόγος@nampc ἐγώ@rpg-s ἀκούω@vppanmp καί@cc ποιέω@vppanmp αὐτός@rpamp 
+08.22.06R () διέρχομαι@vsaa1p εἰς@pa ὁ@dans πέραν@b () 
+08.23.06R πλέω@vppagmp (δέ@cc) αὐτός@rpgmp ἀφυπνόω@viaa3s () (λαῖλαψ@nnfsc ἄνεμος@ngmsc εἰς@pa ὁ@dafs λίμνη@nafsc) () 
+08.24.06R () ὁ@dnms δέ@cc (ἐγείρω@vpapnms) ἐπιτιμάω@viaa3s ὁ@ddms ἄνεμος@ndmsc καί@cc (ὁ@ddfs θάλασσα@ndfsc) () 
+08.25.06R () τίς@rqnms δέ@cc οὗτος@rdnms εἰμί@vipa3s (ὅς@rrnms) (καί@cc/b) ὁ@ddmp ἄνεμος@ndmpc (καί@cc ὁ@ddfs θάλασσα@ndfsc) ἐπιτάσσω@vipa3s;  
+08.27.06R () ἀνήρ@nnmsc () δαιμόνιον@nanpc () 
+08.28.06R () Ἰησοῦς@nvmsp υἱός@nvmsc ὁ@dgms θεός@ngmsc () μή@x ἐγώ@rpa-s βασανίζω@vsaa2s 
+08.30.06R () τίς@aqnnsn σύ@rpd-s εἰμί@vipa3s ὄνομα@nnnsc; ὁ@dnms δέ@cc λέγω@viaa3s λεγιών@nnfsc () δαιμόνιον@nnnpc πολύς@annnpn () 
+08.31.06R () παρακαλέω@viia3p () εἰς@pa ὁ@dafs ἄβυσσος@nafsc () 
+08.32.06R () (ἐπιτρέπω@viaa3s αὐτός@rpdnp) 
+08.42b.06R () συμπνίγω@viia3p αὐτός@rpams ὁ@dnmp ὄχλος@nnmpc 
+08.43.06R () γυνή@nnfsc (τὶς@ainfsn) (εἰμί@vppanfs ἐν@pd ῥύσις@ndfsc αἷμα@ngnsc) () 
+08.44.06R () ἅπτω@viam3s () ὁ@dgns ἱμάτιον@ngnsc αὐτός@rpgms () (ἵστημι@viaa3s ὁ@dnfs ῥύσις@nnfsc ὁ@dgns αἷμα@ngnsc αὐτός@rpgfs) 
+08.45.06R καί@cc λέγω@viaa3s ὁ@dnms (κύριος@nnmsc) τίς@rqnms ἐγώ@rpg-s ἅπτω@viam3s (ὁ@dnmp μαθητής@nnmpc) (ἐπιστάτης@nvmsc ὁ@dnmp ὄχλος@nnmpc συνέχω@vipa3p σύ@rpa-s καί@cc ἀποθλίβω@vipa3p;) 
+08.46.06R () ἅπτω@viam3s ἐγώ@rpg-s τὶς@rinms (καί@cc) γάρ@cc γινώσκω@viaa1s δύναμις@nafsc ἐξέρχομαι@vpaaafs ἀπό@pg ἐγώ@rpg-s 
+08.48.06R () ὁ@dnfs πίστις@nnfsc σύ@rpg-s σῴζω@vixa3s σύ@rpa-s () 
+09.01.06R (συγκαλέω@vpamnms δέ@cc ὁ@damp δώδεκα@ac---n δίδωμι@viaa3s αὐτός@rpdmp δύναμις@nafsc καί@cc ἐξουσία@nafsc ἐπί@pa πᾶς@aianpn ὁ@danp δαιμόνιον@nanpc καί@cc νόσος@nafpc θεραπεύω@vnpa) 
+09.02.06R καί@cc ἀποστέλλω@viaa3s αὐτός@rpamp κηρύσσω@vnpa ὁ@dafs βασιλεία@nafsc ὁ@dgms θεός@ngmsc καί@cc ἰάομαι@vnpm 
+09.03.06R () 
+09.05.06R μή@x (δέχομαι@vspm3p) (σύ@rpa-p) () ὁ@dams κονιορτός@namsc ἀπό@pg ὁ@dgmp πούς@ngmpc (σύ@rpg-p) (ἀποτινάσσω@vdaa2p) εἰς@pa μαρτύριον@nansc () 
+09.06.06R ἐξέρχομαι@vppmnmp δέ@cc διέρχομαι@viim3p (κατά@pa πόλις@nafpc καί@cc κώμη@nafpc) εὐαγγελίζω@vppmnmp καί@cc θεραπεύω@vppanmp πανταχοῦ@b 
+09.07.06R () Ἡρῴδης@nnmsp () ὑπό@pg τὶς@rigmp (ὅτι@cs) Ἰωάννης@nnmsp (ἐγείρω@viap3s ἐκ@pg νεκρός@angmpn) 
+09.08.06R ὑπό@pg τὶς@rigmp () Ἠλίας@nnmsp () ἄλλος@rigmp () (ὅτι@cs) προφήτης@nnmsc εἷς@acnmsn ὁ@dgmp ἀρχαῖος@angmpn (ἀνίστημι@viaa3s) 
+09.12.06R () ἐν@pd ἔρημος@andmsn () 
+09.13.06R () ἄρτος@nnmpc () καί@cc ἰχθύς@nnmpc () 
+09.14.06R () ἀνήρ@nnmpc πεντακισχίλιοι@acnmpn () 
+09.16.06R () ἀναβλέπω@vpaanms εἰς@pa ὁ@dams οὐρανός@namsc εὐλογέω@viaa3s ἐπί@pa αὐτός@rpamp () 
+09.17.06R () ὁ@dnns περισσεύω@vpaanns () 
+09.18.06R () (τίς@rqams ἐγώ@rpa-s λέγω@vipa3p ὁ@dnmp ἄνθρωπος@nnmpc ὁ@dams υἱός@namsc ὁ@dgms ἄνθρωπος@ngmsc;) 
+09.19.06R (ὁ@dnmp δέ@cc ἀποκρίνομαι@vpapnmp λέγω@viaa3p) Ἰωάννης@namsp ὁ@dams βαπτιστής@namsc ἄλλος@ainmpn δέ@cc Ἠλίας@namsp ἄλλος@ainmpn δέ@cc ὅτι@cs προφήτης@nnmsc τὶς@ainmsn ὁ@dgmp ἀρχαῖος@angmpn ἀνίστημι@viaa3s 
+09.20.06R (σύ@rpn-p δέ@cc τίς@rqams) (); ἀποκρίνομαι@vpapnms (δέ@cc) Πέτρος@nnmsp (λέγω@viaa3s) σύ@rpn-s εἰμί@vipa2s ὁ@dnms Χριστός@nnmsp 
+09.21.06R () παραγγέλλω@viaa3s μηδείς@ridms λέγω@vnpa οὗτος@rdans 
+09.22.06R () δεῖ@vipa3s ὁ@dams υἱός@namsc ὁ@dgms ἄνθρωπος@ngmsc πολύς@ananpn πάσχω@vnaa καί@cc ἀποδοκιμάζω@vnap ἀπό@pg ὁ@dgmp πρεσβύτερος@angmpc καί@cc γραμματεύς@ngmpc καί@cc ἀρχιερεύς@ngmpc καί@cc ἀποκτείνω@vnap καί@cc μετά@pa τρεῖς@acafpn ἡμέρα@nafpc ἐγείρω@vnap 
+09.24.06R ὅς@rrnms (γάρ@cc ἄν@x) θέλω@vspa3s ὁ@dafs ψυχή@nafsc αὐτός@rpgms σῴζω@vnaa ἀπόλλυμι@vifa3s αὐτός@rpafs (καί@cc ὅς@rrnms) ἀπόλλυμι@vsaa3s (αὐτός@rpafs) ἕνεκα@pg ἐγώ@rpg-s () σῴζω@vifa3s αὐτός@rpafs 
+09.26.06R ὅς@rrnms (γάρ@cc) ἄν@x ἐπαισχύνομαι@vsap3s ἐγώ@rpa-s (καί@b ἐγώ@rpnms ἐπαισχύνομαι@vifp1s αὐτός@rpams) 
+09.28.06R () (παραλαμβάνω@vpaanms Πέτρος@namsp καί@cc Ἰωάννης@namsp καί@cc Ἰάκωβος@namsp ἀναβαίνω@viaa3s) εἰς@pa ὁ@dans ὄρος@nansc () 
+09.29.06R () καί@cc ὁ@dnms ἱματισμός@nnmsc αὐτός@rpgms (λευκός@annmsn) ἐξαστράπτω@vppanms 
+09.30.06R καί@cc ἰδού@i δύο@acnmpn ἀνήρ@nnmpc συλλαλέω@viia3p αὐτός@rpdms () Μωϋσῆς@nnmsp καί@cc Ἠλίας@nnmsp 
+09.31a.06R () (ὁράω@vpapnmp) ἐν@pd δόξα@ndfsc 
+09.32.06R () ὁράω@viaa3p ὁ@dafs δόξα@nafsc αὐτός@rpgms () συνίστημι@vpxaamp αὐτός@rpdms 
+09.33.06R () (ἐν@pd ὁ@ddns διαχωρίζω@vnpp) () ὁ@dnms Πέτρος@nnmsp () καλός@annnsn εἰμί@vipa3s ὧδε@b ἐγώ@rpa-p εἰμί@vnpa καί@cc ποιέω@vsaa1p ὧδε@b τρεῖς@acafpn σκηνή@nafpc εἷς@acafsn σύ@rpd-s καί@cc Μωϋσῆς@ndmsp εἷς@acafsn καί@cc Ἠλίας@ndmsp εἷς@acafsn μή@x οἶδα@vpxanms ὅς@rrans λέγω@vipa3s 
+09.34.06R () νεφέλη@nnfsc () (ἐπισκιάζω@viia3s αὐτός@rpamp) () 
+09.35.06R () φωνή@nnfsc (γίνομαι@viam3s) ἐκ@pg ὁ@dgfs νεφέλη@ngfsc οὗτος@rdnms (λέγω@vppanfs) εἰμί@vipa3s ὁ@dnms υἱός@nnmsc ἐγώ@rpg-s ὁ@dnms ἀγαπητός@annmsn αὐτός@rpgms ἀκούω@vdpa2p 
+09.40.06R () δέομαι@viap1s ὁ@dgmp μαθητής@ngmpc σύ@rpg-s () (οὐ@b δύναμαι@viap3p ἐκβάλλω@vnaa αὐτός@rpans) 
+09.41.06R () πρός@pa αὐτός@rpamp ὦ@i γενεά@nvfsc ἄπιστος@anvfsn ἕως@b/pp πότε@b εἰμί@vifm1s πρός@pa σύ@rpa-p; ἕως@b/pp πότε@b ἀνέχω@vifm1s σύ@rpg-p ();
+09.44.06R () ὁ@dnms γάρ@cc υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc μέλλω@vipa3s παραδίδωμι@vnpp εἰς@pa χείρ@nafpc ἄνθρωπος@ngmpc 
+09.46.06R () μέγας@annmsc () 
+09.47.06R () 
+09.48.06R () παιδίον@nansc () 
+09.54.06R () 
+09.55.06R () 
+09.57.06R () ἀκολουθέω@vifa1s σύ@rpd-s ὅπου@cs ἐάν@x ἀπέρχομαι@vspm2s 
+09.58.06R () 
+09.59.06R () θάπτω@vnaa ὁ@dams πατήρ@namsc ἐγώ@rpg-s 
+09.60.06R ἀφίημι@vdaa2s ὁ@damp νεκρός@anampn θάπτω@vnaa ὁ@damp νεκρός@anampn ἑαυτοῦ@rxgmp σύ@rpnms δέ@cc (ἀπέρχομαι@vdaa2s καί@cc) διαγγέλλω@vdpa2s ὁ@dafs βασιλεία@nafsc ὁ@dgms θεός@ngmsc 
+09.61.06R () ἀποτάσσω@vnam (ὁ@ddmp εἰς@pa ὁ@dams οἶκος@namsc ἐγώ@rpg-s) 
+09.62.06R () βλέπω@vppanms εἰς@pa ὁ@danp ὀπίσω@b () 
+10.01.06R () (ἀναδείκνυμι@viaa3s) () ἕτερος@aiampn ἑβδομήκοντα@ac---n () ἀποστέλλω@viaa3s () εἰς@pa () πόλις@nafsc () 
+10.04.06R () (μηδέ@x ῥάβδος@nafsc μή@x) ὑπόδημα@nanpc () μηδείς@riams κατά@pa ὁ@dafs ὁδός@nafsc ἀσπάζομαι@vsam2p 
+10.05.06R εἰς@pa ὅς@rrafs () ἄν@x εἰσέρχομαι@vsaa2p οἰκία@nafsc () λέγω@vdpa2p εἰρήνη@nnfsc (ὁ@ddms οἶκος@ndmsc οὗτος@rddms) 
+10.07.06R () ἄξιος@annmsn (γάρ@cc) ὁ@dnms ἐργάτης@nnmsc ὁ@dgms μισθός@ngmsc αὐτός@rpgms () 
+10.08.06R () δέχομαι@vspm3p () 
+10.09.06R () (λέγω@vdpa2p αὐτός@rpdmp) ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc () ἐγγίζω@vixa3s 
+10.10.06R μή@x δέχομαι@vspm3p σύ@rpa-p () (λέγω@vdaa2p) 
+10.11.06R () ὁ@dams κονιορτός@namsc () (ἀπομάσσω@vipm1p) () πλήν@cc () γινώσκω@vdpa2p (ὅτι@cs) ἐγγίζω@vixa3s ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc 
+10.16.06R () ὁ@dnms ἀθετέω@vppanms σύ@rpa-p ἐγώ@rpa-s ἀθετέω@vipa3s () 
+10.19.06R () (δίδωμι@vipa1s []) () ὁ@dafs ἐξουσία@nafsc ὁ@dgns πατέω@vnpa ἐπάνω@pg () ὄφις@ngmpc καί@cc σκορπίος@ngmpc () 
+10.21.06R () εὐχαριστέω@vipa1s σύ@rpd-s καί@cc ἐξομολογέω@vipm1s κύριος@nvmsc ὁ@dgms οὐρανός@ngmsc ὅτι@cs ὅστις@rrnnp εἰμί@viia3s κρυπτός@annnpn σοφός@andmpn καί@cc συνετός@andmpn ἀποκαλύπτω@viaa2s νήπιος@andmpn ναί@x ὁ@dnms πατήρ@nnmsc () 
+10.22.06R πᾶς@ainnpn ἐγώ@rpd-s παραδίδωμι@viap3s ὑπό@pg ὁ@dgms πατήρ@ngmsc () οὐδείς@rinms γινώσκω@vipa3s τίς@rqnms εἰμί@vipa3s ὁ@dnms πατήρ@nnmsc εἰ@cs μή@x ὁ@dnms υἱός@nnmsc καί@cc τίς@rqnms εἰμί@vipa3s ὁ@dnms υἱός@nnmsc εἰ@cs μή@x ὁ@dnms πατήρ@nnmsc καί@cc ὅς@rrdms ἐάν@x () ὁ@dnms υἱός@nnmsc ἀποκαλύπτω@vsaa3s 
+10.23.06R () μακάριος@annmpn ὁ@dnmp ὀφθαλμός@nnmpc ὁ@dnmp βλέπω@vppanmp ὅς@rranp βλέπω@vipa2p 
+10.24.06R λέγω@vipa1s γάρ@cc σύ@rpd-p ὅτι@cs (προφήτης@nnmpc οὐ@b ὁράω@viaa3p ὅς@rranp σύ@rpn-p βλέπω@vipa2p) 
+10.25.06R () νομικός@annmsn () (τὶς@ainmsn ἐκπειράζω@vppanms αὐτός@rpams) () τίς@rqans ποιέω@vpaanms ζωή@nafsc κληρονομέω@vifa1s; 
+10.26.06R () λέγω@viaa3s () ἐν@pd ὁ@ddms νόμος@ndmsc τίς@rqnns γράφω@vixp3s; () 
+10.27.06R () ἀγαπάω@vifa2s κύριος@namsc ὁ@dams θεός@namsc σύ@rpg-s (ἐκ@pg ὅλος@angfsn ὁ@dgfs καρδία@ngfsc σύ@rpg-s καί@cc ἐκ@pg ὅλος@angfsn ὁ@dgfs ψυχή@ngfsc σύ@rpg-s καί@cc) () (ὅλος@angfsn ὁ@dgfs ἰσχύς@ngfsc) () 
+10.28.06R () ὀρθῶς@b (λέγω@viaa2s) οὗτος@rdans ποιέω@vdpa2s καί@cc ζάω@vifm2s 
+11.01.06R () ἐν@pd ὁ@ddns εἰμί@vnpa () ἐν@pd τόπος@ndmsc τὶς@aidmsn προσεύχομαι@vppmams () (λέγω@viaa3s) τὶς@rinms ὁ@dgmp μαθητής@ngmpc (πρός@pa αὐτός@rpams) κύριος@nvmsc διδάσκω@vdaa2s ἐγώ@rpa-p προσεύχομαι@vnpm καθώς@cs (καί@b) Ἰωάννης@nnmsp διδάσκω@viaa3s ὁ@damp μαθητής@nampc αὐτός@rpgms 
+11.02.06R πατήρ@nvmsc () ὁ@dnns ἅγιος@annnsn πνεῦμα@nnnsc () ἔρχομαι@vdaa3s ὁ@dnfs βασιλεία@nnfsc σύ@rpg-s 
+11.03.06R ὁ@dams ἄρτος@namsc σύ@rpgms ὁ@dams ἐπιούσιος@anamsn δίδωμι@vdpa2s ἐγώ@rpd-p ὁ@dans κατά@pa ἡμέρα@nafsc 
+11.04.06R () ἀφίημι@vdaa2s ἐγώ@rpd-p ὁ@dafp ἁμαρτία@nafpc () (μή@x ἀφίημι@vdaa2s ἐγώ@rpa-p εἰσφέρω@vnap) εἰς@pa πειρασμός@namsc 
+11.05.06R (καί@cc λέγω@viaa3s) () τίς@rqnms ἐκ@pg σύ@rpg-p ἔχω@vifa3s φίλος@anamsn καί@cc πορεύομαι@vifm3s πρός@pa αὐτός@rpams μεσονύκτιον@ngnsc (καί@cc λέγω@vsaa3s αὐτός@rpdms φίλος@anvmsn κίχρημι@vdaa2s ἐγώ@rpd-s) τρεῖς@acampn ἄρτος@nampc; 
+11.07.06R () (καί@cc ὁ@dnnp παιδίον@nnnpc ἐγώ@rpg-s μετά@pg ἐγώ@rpg-s εἰς@pa ὁ@dafs κοίτη@nafsc εἰμί@vipa3p) () 
+11.08.06R () (εἰ@cs καί@cc οὐ@b δίδωμι@vifa3s αὐτός@rpdms ἀνίστημι@vpaanms διά@pa ὁ@dans εἰμί@vnpa φίλος@anamsn αὐτός@rpgms διά@pa γέ@x ὁ@dafs ἀναίδεια@nafsc αὐτός@rpgms) () 
+11.09.06R () αἰτέω@vdpa2p καί@cc δίδωμι@vifp3s () ζητέω@vdpa2p καί@cc (εὑρίσκω@vifa2p) κρούω@vdpa2p καί@cc ἀνοίγω@vifp3s () 
+11.11.06R τίς@aqamsn (γάρ@cc) ἐκ@pg σύ@rpg-p ὁ@dams πατήρ@namsc υἱός@nnmsc αἰτέω@vifa3s ἰχθύς@namsc καί@cc ἀντί@pg ἰχθύς@ngmsc ὄφις@namsc ἐπιδίδωμι@vifa3s αὐτός@rpdms 
+11.12.06R ἤ@cc (καί@b αἰτέω@vifa3s) ᾠόν@nansc (μή@x ἐπιδίδωμι@vifa3s αὐτός@rpdms) σκορπίος@namsc; 
+11.13.06R εἰ@cs οὖν@cc σύ@rpn-p πονηρός@annmpn () οἶδα@vixa2p δόμα@nanpc ἀγαθός@ananpn (δίδωμι@vnpa ὁ@ddnp τέκνον@ndnpc σύ@rpg-p) πόσος@aqdnsn μᾶλλον@b ὁ@dnms πατήρ@nnmsc () δίδωμι@vifa3s πνεῦμα@nansc ἅγιος@anansn () 
+11.14.06R () δαιμόνιον@nansc () κωφός@annnsn () 
+11.15.06R () ἐν@pd Βεελζεβούλ@ndmsp () ἐκβάλλω@vipa3s ὁ@danp δαιμόνιον@nanpc 
+11.18.06R (εἰ@cs δέ@cc καί@b ὁ@dnms Σατανᾶς@nnmsp ἐπί@pa ἑαυτοῦ@rxams διαμερίζω@viap3s) () 
+11.19.06R εἰ@cs (δέ@cc) ἐγώ@rpn-s ἐν@pd Βεελζεβούλ@ndmsp ἐκβάλλω@vipa1s ὁ@danp δαιμόνιον@nanpc ὁ@dnmp υἱός@nnmpc σύ@rpg-p ἐν@pd τίς@rqdms ἐκβάλλω@vipa3p; () 
+11.20.06R εἰ@cs δέ@cc (ἐγώ@rpn-s) ἐν@pd δάκτυλος@ndmsc θεός@ngmsc ἐκβάλλω@vipa1s ὁ@danp δαιμόνιον@nanpc ἄρα@x (ἐγγίζω@vixa3s) ἐπί@pa σύ@rpa-p ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc 
+11.21.06R () ὁ@dnms ἰσχυρός@annmsn καθοπλίζω@vpxpnms () 
+11.22.06R () ἰσχυρός@annmsc () (νικάω@vsaa3s []) () 
+11.27.06R () (ἐπαίρω@vpaanfs) () (φωνή@nafsc) γυνή@nnfsc ἐκ@pg ὁ@dgms ὄχλος@ngmsc () μακάριος@annfsn ὁ@dnfs κοιλία@nnfsc ὁ@dnfs βαστάζω@vpaanfs σύ@rpa-s καί@cc μαστός@nnmpc ὅς@rramp θηλάζω@viaa2s 
+11.28.06R () μενοῦν@x () μακάριος@annmpn ὁ@dnmp ἀκούω@vppanmp ὁ@dams λόγος@namsc ὁ@dgms θεός@ngmsc καί@cc (ποιέω@vppanmp) () 
+11.29.06R () ὁ@dnfs γενεά@nnfsc οὗτος@rdnfs () σημεῖον@nnnsc οὐ@b δίδωμι@vifp3s αὐτός@rpdfs () 
+11.33.06R () λύχνος@namsc () (εἰς@pa κρύπτη@nafsc) () ἐπί@pa ὁ@dafs λυχνία@nafsc () (ἵνα@cs πᾶς@aidmpn λάμπω@vspa3s) () 
+11.37.06R () (ἐρωτάω@vipa3s) αὐτός@rpams Φαρισαῖος@nnmsp () ὅπως@cs ἀριστάω@vsaa3s (παρά@pd αὐτός@rpdms) () ἀναπίπτω@viaa3s 
+11.38.06R () (ἄρχω@viam3s) διακρίνω@vppmnms ἐν@pd ἑαυτοῦ@rxdns (λέγω@vnpa) διά@pa τίς@rqans/cor οὐ@b πρῶτος@b βαπτίζω@viap3s () 
+11.39.06R () (ὁ@dnmp Φαρισαῖος@nnmpp) ὁ@dgns ποτήριον@ngnsc καί@cc ὁ@dgms πίναξ@ngmsc ὁ@dans ἔξωθεν@b καθαρίζω@vipa2p ὁ@dnns δέ@cc ἔσωθεν@b σύ@rpg-p γέμω@vipa3s ἁρπαγή@ngfsc καί@cc πονηρία@ngfsc 
+11.40.06R () οὐ@b ὁ@dnms ποιέω@vpaanms ὁ@dans ἔξωθεν@b καί@b ὁ@dans ἔσωθεν@b ποιέω@viaa3s; 
+11.41.06R () δίδωμι@vdaa2p (ὁ@danp ὑπάρχω@vppaanp) ἐλεημοσύνη@nafsc () πᾶς@ainnpn καθαρός@annnpn (εἰμί@vifm3s) σύ@rpd-p 
+11.42.06R () (ὅτι@cs ἀποδεκατόω@vipa2p ὁ@dans ἡδύοσμον@nansc καί@cc ὁ@dans πήγανον@nansc καί@cc πᾶς@aiansn λάχανον@nansc καί@cc) παρέρχομαι@vipm2p ὁ@dafs κλῆσις@nafsc καί@cc ὁ@dafs ἀγάπη@nafsc ὁ@dgms θεός@ngmsc () 
+11.43.06R () πρωτοκαθεδρία@nafsc () ἀσπασμός@nampc () 
+11.46.06R () (καί@cc σύ@rpd-p ὁ@ddmp νομικός@andmpn οὐαί@i) ὅτι@cs φορτίζω@vipa2p (ὁ@damp ἄνθρωπος@nampc) φορτίον@nanpc δυσβάστακτος@ananpn () (ὁ@ddms δάκτυλος@ndmsc) () (οὐ@b) προσψαύω@vipa2p () 
+11.47.06R οὐαί@i σύ@rpd-p ὅτι@cs οἰκοδομέω@vipa2p (ὁ@danp μνῆμα@nanpc) ὁ@dgmp προφήτης@ngmpc (καί@cc ὁ@dnmp) πατήρ@nnmpc σύ@rpg-p ἀποκτείνω@viaa3p αὐτός@rpamp 
+11.48.06R () μαρτυρέω@vipa2p μή@x συνευδοκέω@vpna ὁ@ddnp ἔργον@ndnpc ὁ@dgmp πατήρ@ngmpc σύ@rpg-p () 
+11.52.06R () ὁ@ddmp νομικός@andmpn () ὁ@dafs κλείς@nafsc ὁ@dgfs γνῶσις@ngfsc (αὐτός@rtnmp οὐ@b εἰσέρχομαι@viaa2p καί@cc ὁ@damp εἰσέρχομαι@vppmamp κωλύω@viaa2p) 
+12.01.06R () (ἄρχω@viam3s λέγω@vnpa) πρός@pa ὁ@damp μαθητής@nampc () προσέχω@vdpa2p () ἀπό@pg ὁ@dgfs ζύμη@ngfsc ὁ@dgmp Φαρισαῖος@ngmpp ὅστις@rrnfs εἰμί@vipa3s ὑπόκρισις@nnfsc 
+12.02.06R οὐδείς@rinns δέ@cc (συγκαλύπτω@vpxpnns) [] (εἰμί@vipa3s) ὅς@rrnns οὐ@b ἀποκαλύπτω@vifp3s καί@cc (οὐδείς@rinns) κρυπτός@annnsn ὅς@rrnns οὐ@b γινώσκω@vifp3s 
+12.03.06R () (πρός@pa ὁ@dans οὖς@nansc λαλέω@viaa2p) () (κηρύσσω@vifp3s) () 
+12.04.06R λέγω@vipa1s δέ@cc σύ@rpd-p ὁ@ddmp φίλος@andmpn ἐγώ@rpg-s μή@x φοβέω@vsap2p ἀπό@pg ὁ@dgmp ἀποκτείνω@vppagmp/cor ὁ@dans σῶμα@nansc καί@cc μετά@pa οὗτος@rdanp (μή@x ἔχω@vppagmp περισσός@anansc τὶς@rians ποιέω@vnaa) 
+12.05.06R ὑποδείκνυμι@vifa1s δέ@cc σύ@rpd-p τίς@rqams φοβέω@vsap2p φοβέω@vdap2p ὁ@dams μετά@pa ὁ@dans ἀποκτείνω@vnaa ἔχω@vppaams ἐξουσία@nafsc βάλλω@vnaa εἰς@pa γέεννα@nafsc ναί@x λέγω@vipa1s σύ@rpd-p οὗτος@rdams φοβέω@vdap2p 
+12.08.06R λέγω@vipa1s (γάρ@cc) σύ@rpd-p πᾶς@ainmsn ὅς@rrnms ὁμολογέω@vsaa3s ἐγώ@rpa-s ὁ@dgmp ἄνθρωπος@ngmpc (ὁμολογέω@vifa1s) ἐν@pd αὐτός@rpdms (ἐνώπιον@pg) ὁ@dgms θεός@ngmsc 
+12.09.06R ὁ@dnms δέ@cc ἀρνέομαι@vpamnms ἐγώ@rpa-s (ἐνώπιον@pg) ὁ@dgmp ἄνθρωπος@ngmpc ἀπαρνέομαι@vifp3s (ἐνώπιον@pg) ὁ@dgms θεός@ngmsc 
+12.10.06R (καί@cc πᾶς@ainmsn) ὅς@rrnms ἄν@x λέγω@vsaa3s (λόγος@namsc) εἰς@pa ὁ@dams υἱός@namsc ὁ@dgms ἄνθρωπος@ngmsc ἀφίημι@vifp3s αὐτός@rpdms ὁ@ddms δέ@cc ἄν@x λέγω@vsaa3s εἰς@pa ὁ@dans πνεῦμα@nansc (ὁ@dans) ἅγιος@anansn οὐ@b ἀφίημι@vifp3s αὐτός@rpdms 
+12.11.06R () (προσφέρω@vspa3p) () ἐπί@pa () ὁ@dafp ἀρχή@nafpc () (μή@x μεριμνάω@vsaa2p πῶς@b ἤ@cc τίς@rqans ἀπολογέομαι@vsam2p ἤ@cc τίς@rqans λέγω@vsaa2p) 
+12.12.06R ὁ@dnns γάρ@cc ἅγιος@annnsn πνεῦμα@nnnsc διδάσκω@vifa3s σύ@rpa-p ἐν@pd αὐτός@atdfsn/rtdfs ὁ@ddfs ὥρα@ndfsc ὅς@rranp δεῖ@vipa3s λέγω@vnaa 
+12.13.06R () τὶς@rinms () λέγω@vdaa2s ὁ@ddms ἀδελφός@ndmsc ἐγώ@rpg-s μερίζω@vnam μετά@pg ἐγώ@rpg-s ὁ@dafs κληρονομία@nafsc 
+12.14.06R () τίς@rqnms ἐγώ@rpa-s καθίστημι@viaa3s κριτής@namsc ἐπί@pa σύ@rpa-p 
+12.16.06R () παραβολή@nafsc () (ἄνθρωπος@ngmsc τὶς@aigmsn) πλούσιος@angmsn () 
+12.19.06R () 
+12.20.06R λέγω@viaa3s (δέ@cc) αὐτός@rpdms ὁ@dnms θεός@nnmsc ἄφρων@anvmsn [] οὗτος@rddfs ὁ@ddfs νύξ@ndfsc ὁ@dafs ψυχή@nafsc σύ@rpg-s ἀπαιτέω@vipa3p (ἀπό@pg σύ@rpg-s) ὅς@rranp δέ@cc ἑτοιμάζω@viaa2s τίς@rqgms εἰμί@vifm3s; 
+12.22.06R () (μή@x μεριμνάω@vdpa2p) ὁ@ddfs ψυχή@ndfsc (τίς@rqans ἐσθίω@vsaa2p μηδέ@x) ὁ@ddns σῶμα@ndnsc (τίς@rqans ἐνδύω@vsam2p) 
+12.23.06R ὁ@dnfs () ψυχή@nnfsc (πολύς@anansc εἰμί@vipa3s) ὁ@dgfs τροφή@ngfsc () ὁ@dnns σῶμα@nnnsc ὁ@dgns ἔνδυμα@ngnsc 
+12.24.06R () κόραξ@nampc/nnmpc () οὐ@b σπείρω@vipa3p οὐδέ@cc θερίζω@vipa3p (οὐδέ@cc συνάγω@vipa3p εἰς@pa ἀποθήκη@nafpc) () 
+12.27.06R () ὁ@danp κρίνον@nanpc () (οὐ@b) ὑφαίνω@vipa3s (οὐδέ@cc) νήθω@vipa3s () οὐδέ@cc Σολομών@nnmsp (ἐν@pd πᾶς@aidfsn ὁ@ddfs δόξα@ndfsc αὐτός@rpgms περιβάλλω@viam3s ὡς@cs εἷς@acnnsn οὗτος@rdgnp) 
+12.28.06R () ὀλιγόπιστος@anvmpn 
+12.30.06R οὗτος@rdanp γάρ@cc ὁ@dnnp ἔθνος@nnnpc ὁ@dgms κόσμος@ngmsc (ἐπιζητέω@vipa3p) οἶδα@vixa3s δέ@cc ὁ@dnms πατήρ@nnmsc ὅτι@cs χρῄζω@vipa2p οὗτος@rdgnp 
+12.31.06R () ζητέω@vdpa2p (δέ@cc) ὁ@dafs βασιλεία@nafsc ὁ@dgms θεός@ngmsc καί@cc οὗτος@rdnnp προστίθημι@vifp3s σύ@rpd-p 
+12.32.06R () ὁ@dnms πατήρ@nnmsc () 
+12.35.06R () ὁ@dnfp ὀσφύς@nnfpc περιζώννυμι@vpxpnfp () ὁ@dnmp λύχνος@nnmpc καίω@vpppnmp 
+12.36.06R () προσδέχομαι@vppmdmp ὁ@dams κύριος@namsc () ἀναλύω@vsaa3s ἐκ@pg ὁ@dgmp γάμος@ngmpc () 
+12.37.06R () δοῦλος@nnmpc () κύριος@nnmsc () 
+12.38.06R () ἑσπερινός@andfsn φυλακή@ndfsc () 
+12.39.06R () εἰ@cs οἶδα@viya3s ὁ@dnms οἰκοδεσπότης@nnmsc ποῖος@aqdfsn ὥρα@ndfsc ὁ@dnms κλέπτης@nnmsc (ἔρχομαι@vipm3s) οὐ@b ἄν@x ἀφίημι@viaa3s διορύσσω@vnap ὁ@dams οἶκος@namsc αὐτός@rpgms 
+12.40.06R () γίνομαι@vdpm2p ἕτοιμος@annmpn ὅτι@cs ὅς@rrdfs ὥρα@ndfsc οὐ@b δοκέω@vipa2p ὁ@dnms υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc ἔρχομαι@vipm3s 
+12.41.06R () ὁ@dnms Πέτρος@nnmsp () πρός@pa ἐγώ@rpa-p ἤ@cc καί@b πρός@pa πᾶς@aiampn ὁ@dafs παραβολή@nafsc () λέγω@vipa2s; 
+12.42.06R () 
+12.43.06R () ἔρχομαι@vpaanms ὁ@dnms κύριος@nnmsc () 
+12.44.06R () ἐπί@pd πᾶς@aidnpn ὁ@ddnp ὑπάρχω@vppadnp (αὐτός@rpgms) καθίστημι@vifa3s αὐτός@rpams 
+12.45.06R () 
+12.46.06R ἥκω@vifa3s ὁ@dnms κύριος@nnmsc ὁ@dgms δοῦλος@ngmsc ἐκεῖνος@rdgms () ἡμέρα@ndfsc () οὐ@b προσδοκάω@vipa3s () ὥρα@ndfsc () οὐ@b γινώσκω@vipa3s καί@cc διχοτομέω@vifa3s αὐτός@rpams καί@cc ὁ@dans μέρος@nansc αὐτός@rpgms μετά@pg ὁ@dgmp ἄπιστος@angmpn τίθημι@vifp3s 
+12.47.06R () δοῦλος@nnmsc (ὁ@dnms γινώσκω@vpaanms) () (καί@cc μή@x ποιέω@vpaanms) () δέρω@vifp3s (πολύς@ananpn) 
+12.48.06R (ὁ@dnms δέ@cc μή@x γινώσκω@vpaanms ποιέω@vpaanms δέ@cc ἄξιος@ananpn πληγή@ngfpc) δέρω@vifp3s (ὀλίγος@ananpn πᾶς@aidmsn δέ@cc ὅς@rrdms δίδωμι@viap3s πολύς@annnsn πολύς@annnsn ζητέω@vifp3s παρά@pg αὐτός@rpgms καί@cc ὅς@rrdms παρατίθημι@viam3p πολύς@anansn περισσός@anansc αἰτέω@vifa3p αὐτός@rpams) 
+12.49a.06R πῦρ@nansc ἔρχομαι@viaa1s βάλλω@vnaa εἰς@pa ὁ@dafs γῆ@nafsc () 
+12.51.06R δοκέω@vipa2p (ὅτι@cs) (παραγίνομαι@viam1s) εἰρήνη@nafsc (βάλλω@vnaa ἐπί@pa ὁ@dafs γῆ@nafsc); οὐχί@b λέγω@vipa1s σύ@rpd-p (ἀλλά@cc) διαμερισμός@namsc 
+12.53.06R διαμερίζω@vifp3s πατήρ@nnmsc (ἐπί@pd) υἱός@ndmsc καί@cc υἱός@nnmsc ἐπί@pd πατήρ@ndmsc (καί@cc) μήτηρ@nnfsc ἐπί@pd (θυγάτηρ@ndfsc) καί@cc θυγάτηρ@nnfsc ἐπί@pa (μήτηρ@ndfsc καί@cc πενθερά@nnfsc) ἐπί@pa ὁ@dafs νύμφη@nafsc () καί@cc νύμφη@nnfsc ἐπί@pa ὁ@dafs πενθερά@nafsc () 
+12.56.06R ὑποκριτής@nvmpc ὁ@dans (μέν@x) πρόσωπον@nansc ὁ@dgms οὐρανός@ngmsc καί@cc ὁ@dgfs γῆ@ngfsc (δοκιμάζω@vipa2p) ὁ@dams δέ@cc καιρός@namsc οὗτος@rdams οὐ@b (οἶδα@vixa2p δοκιμάζω@vnpa) 
+12.57.06R () καί@b ἀπό@pg ἑαυτοῦ@rxgmp οὐ@b κρίνω@vipa2p ὁ@dans δίκαιος@anansn 
+12.58.06R () μήποτε@cs κατασύρω@vspa3s σύ@rpa-s πρός@pa ὁ@dams κριτής@namsc καί@cc ὁ@dnms κριτής@nnmsc παραδίδωμι@vifa3s σύ@rpa-s ὁ@ddms πράκτωρ@ndmsc () βάλλω@vifa3s εἰς@pa φυλακή@nafsc 
+12.59.06R () οὐ@b μή@x ἐξέρχομαι@vsaa2s ἐκεῖθεν@b ἕως@cs καί@b (ἀποδίδωμι@vsaa2s ὁ@dams ἔσχατος@anamsn κοδράντης@namsc) 
+13.14.06R () (ὁ@ddns σάββατον@ndnsc θεραπεύω@viaa3s) () 
+13.15.06R () ἕκαστος@ainmsn σύ@rpg-p (ὁ@ddnp σάββατον@ndnpc) οὐ@b λύω@vipa3s ὁ@dams ὄνος@namsc ἤ@cc ὁ@dams βοῦς@namsc αὐτός@rpgms ἀπό@pg ὁ@dgfs φάτνη@ngfsc καί@cc ἀπάγω@vpaanms ποτίζω@vipa3s; 
+13.16.06R οὗτος@rdafs δέ@cc θυγάτηρ@nafsc Ἀβραάμ@ngmsp () δέω@viaa3s ὁ@dnms Σατανᾶς@nnmsp () 
+13.19.06R ὅμοιος@annfsn εἰμί@vipa3s (ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc) κόκκος@ndmsc σίναπι@ngnsc ὅς@rrams λαμβάνω@vpaanms ἄνθρωπος@nnmsc (σπείρω@viaa3s ἐν@pd ὁ@ddms κῆπος@ndmsc ἑαυτοῦ@rxgms) 
+13.20.06R () ὁ@dafs βασιλεία@nafsc ὁ@dgms θεός@ngmsc 
+13.21.06R ὅμοιος@annfsn εἰμί@vipa3s ζύμη@ndfsc () 
+13.25.06R ἀπό@pg ὅς@rrgns ἄν@x ἐγείρω@vsap3s ὁ@dnms οἰκοδεσπότης@nnmsc καί@cc ἀποκλείω@vsaa3s ὁ@dafs θύρα@nafsc () κρούω@vnpa () ἀποκρίνομαι@vpapnms (λέγω@vifa3s) () οὐ@b οἶδα@vixa1s (σύ@rpa-p) πόθεν@b εἰμί@vipa2p 
+13.26.06R () ἐσθίω@viaa1p ἐνώπιον@pg σύ@rpg-s καί@cc πίνω@viaa1p καί@cc ἐν@pd ὁ@ddfp πλατύς@andfpn ἐγώ@rpg-p διδάσκω@viaa2s 
+13.27.06R () ἀφίστημι@vdaa2p ἀπό@pg ἐγώ@rpg-s πᾶς@aivmpn ἐργάτης@nvmpc (ἀδικία@ngfsc) 
+13.28.06R ἐκεῖ@b εἰμί@vifm3s ὁ@dnms κλαυθμός@nnmsc καί@cc ὁ@dnms βρυγμός@nnmsc ὁ@dgmp ὀδούς@ngmpc (ὅταν@cs ὁράω@vifm2p) (πᾶς@aiampn) ὁ@damp δίκαιος@anampn (εἰσέρχομαι@vppmamp) (ἐν@pd ὁ@ddfs βασιλεία@ndfsc) ὁ@dgms θεός@ngmsc σύ@rpa-p δέ@cc κρατέω@vpppamp ἔξω@b 
+14.12.06R () ἄριστον@nansc ἤ@cc δεῖπνον@nansc () φωνέω@vdpa2s () 
+14.14.06R () οὐ@b ἔχω@vipa3p ἀνταποδίδωμι@vnaa () ἐν@pd ὁ@ddfs ἀνάστασις@ndfsc () 
+14.16.06R () ἄνθρωπος@nnmsc τὶς@ainmsn (ποιέω@viaa3s) δεῖπνον@nansc (μέγας@anansn) καί@cc καλέω@viaa3s πολύς@anampn 
+14.17.06R () ἀποστέλλω@viaa3s () 
+14.18.06R () (ἄρχω@viam3p) () παραιτέομαι@vnpm () ἀγρός@namsc ἀγοράζω@viaa1s () 
+14.19.06R () (ζεῦγος@nanpc) βοῦς@ngmpc ἀγοράζω@viaa1s () 
+14.20.06R () γυνή@nafsc γαμέω@viaa1s () 
+14.21.06R () ἀπαγγέλλω@viaa3s () τότε@b (ἐπαίρω@vpapnms) ὁ@dnms οἰκοδεσπότης@nnmsc () ἐξέρχομαι@vdaa2s () εἰς@pa ὁ@dafp πλατύς@anafpn καί@cc ῥύμη@nafpc ὁ@dgfs πόλις@ngfsc () 
+14.22.06R () ἔτι@b τόπος@nnmsc εἰμί@vipa3s 
+14.23.06R () εἰς@pa ὁ@dafp ὁδός@nafpc καί@cc φραγμός@nampc () 
+14.24.06R () οὐδείς@rinms () γεύω@vifm3s () 
+15.03.06R () παραβολή@nafsc () 
+15.04.06R () πρόβατον@nanpc () ἀπόλλυμι@vpaanms () 
+15.05.06R () εὑρίσκω@vpaanms () 
+15.06.06R () συγχαίρω@vdap2p () 
+15.07.06R (χαρά@nnfsc) () (ἐπί@pd) () (ἁμαρτωλός@andmsn μετανοέω@vppadms) 
+15.08.06R () δραχμή@nafpc () ἀπόλλυμι@vsaa3s () ζητέω@vipa3s () 
+15.09.06R () εὑρίσκω@vpaanfs () συγχαίρω@vdap2p () 
+15.10.06R (χαρά@nnfsc) () (ἐπί@pd) () (ἁμαρτωλός@andmsn μετανοέω@vppadms) 
+16.02.06R () 
+16.04.06R () 
+16.05.06R () 
+16.06.06R () 
+16.07.06R () 
+16.09a.06R (καί@cc ἐγώ@rpn-s []) λέγω@vipa1s σύ@rpd-p ποιέω@vdaa2p (σύ@rpd-p) φίλος@anampn ἐκ@pg ὁ@dgms μαμωνᾶς@ngmsc ὁ@dgfs ἀδικία@ngfsc () 
+16.11.06R εἰ@cs (οὖν@cc) ἐν@pd ὁ@ddms μαμωνᾶς@ndmsc ἄδικος@andmsn πιστός@annmpn οὐ@b γίνομαι@viam2p ὁ@dans ἀληθινός@anansn τίς@rqnms σύ@rpd-p πιστεύω@vifa3s; 
+16.12.06R (καί@cc) εἰ@cs ἐν@pd ὁ@ddns ἀλλότριος@andnsn πιστός@annmpn οὐ@b εὑρίσκω@viap2p ὁ@dans ἐμός@asansn τίς@rqnms δίδωμι@vifa3s σύ@rpd-p; 
+16.13.06R οὐδείς@ainmsn () δύναμαι@vipm3s δύο@acdmpn κύριος@ndmpc δουλεύω@vnpa () εἷς@acgmsn καταφρονέω@vifa3s καί@cc ὁ@dgms ἕτερος@aigmsn ἀντέχω@vifm3s οὐ@b δύναμαι@vipm2p θεός@ndmsc δουλεύω@vnpa καί@cc μαμωνᾶς@ndmsc 
+16.14.06R () ὁ@dnmp Φαρισαῖος@nnmpp φιλάργυρος@annmpn () ἐκμυκτηρίζω@viia3p () 
+16.15.06R () σύ@rpn-p εἰμί@vipa2p ὁ@dnmp δικαιόω@vppanmp ἑαυτοῦ@rxamp ἐνώπιον@pg ὁ@dgmp ἄνθρωπος@ngmpc () ὁ@dnms δέ@cc θεός@nnmsc γινώσκω@vipa3s ὁ@dafp καρδία@nafpc σύ@rpg-p (ὁ@dnns ὑψηλός@annnsn εἰμί@vipa3s παρά@pd ἄνθρωπος@ndmpc βδέλυγμα@nnnsc εἰμί@vipa3s ὁ@ddms θεός@ndmsc) 
+16.16.06R ὁ@dnms νόμος@nnmsc καί@cc ὁ@dnmp προφήτης@nnmpc ἕως@cs Ἰωάννης@ngmsp (ἐκ@pg []) ὅς@rrgns ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc εὐαγγελίζω@vipp3s καί@cc πᾶς@ainmsn εἰς@pa αὐτός@rpafs βιάζομαι@vipm3s 
+16.17.06R εὔκοπος@annnsc () ὁ@dams οὐρανός@namsc καί@cc ὁ@dafs γῆ@nafsc παρέρχομαι@vnaa ἤ@cc ὁ@dgmp λόγος@ngmpc ἐγώ@rpg-s εἷς@acafsn κεραία@nafsc (παρέρχομαι@vnaa) 
+16.18.06R (πᾶς@ainmsn) ὁ@dnms ἀπολύω@vppanms ὁ@dafs γυνή@nafsc αὐτός@rpgms καί@cc πᾶς@ainmsn γαμέω@vppanms ἕτερος@aiafsn μοιχεύω@vipa3s καί@cc () ὁ@dnms ἀπολύω@vpxpafs ἀπό@pg ἀνήρ@ngmsc γαμέω@vppanms (ὁμοίως@b μοιχός@nnmsc εἰμί@vipa3s) 
+16.19.06R ἄνθρωπος@nnmsc τὶς@ainmsn εἰμί@viia3s πλούσιος@annmsn καί@cc ἐνδιδύσκω@viim3s πορφύρα@nafsc καί@cc βύσσος@nafsc εὐφραίνω@vpppnms κατά@pa ἡμέρα@nafsc λαμπρῶς@b 
+16.20.06R πτωχός@annmsn δέ@cc τὶς@ainmsn ὄνομα@ndnsc Λάζαρος@nnmsp βάλλω@viyp3s (εἰς@pa) ὁ@dams πυλών@namsc () (ἑλκόω@vpxpnms) 
+16.21.06R καί@cc ἐπιθυμέω@vppanms χορτάζω@vnap ἀπό@pg ὁ@dgnp πίπτω@vppagnp ἀπό@pg ὁ@dgfs τράπεζα@ngfsc ὁ@dgms πλούσιος@angmsn ἀλλά@cc καί@b ὁ@dnmp κύων@nnmpc ἔρχομαι@vppmnmp λείχω@viia3p ὁ@danp (τραῦμα@nanpc) αὐτός@rpgms 
+16.22.06R γίνομαι@viam3s () ἀποθνῄσκω@vnaa ὁ@dams πτωχός@anamsn καί@cc ἀποφέρω@vnap αὐτός@rpams ὑπό@pg ὁ@dgmp ἄγγελος@ngmpc εἰς@pa ὁ@dams κόλπος@namsc (ὁ@dgms) Ἀβραάμ@ngmsp ἀποθνῄσκω@viaa3s δέ@cc καί@b ὁ@dnms πλούσιος@annmsn καί@cc θάπτω@viap3s 
+16.23.06R () ἐν@pd ὁ@ddms ᾅδης@ndmsc ἐπαίρω@vpaanms (οὖν@cc) ὁ@damp ὀφθαλμός@nampc αὐτός@rpgms ὑπάρχω@vppanms ἐν@pd βάσανος@ndfpc ὁράω@vipa3s Ἀβραάμ@namsp ἀπό@pg μακρόθεν@b καί@cc Λάζαρος@namsp ἐν@pd ὁ@ddms κόλπος@ndmsc αὐτός@rpgms 
+16.24.06R καί@cc αὐτός@rtnms φωνέω@vpaanms λέγω@viaa3s πατήρ@nvmsc Ἀβραάμ@nvmsp ἐλεέω@vdaa2s ἐγώ@rpa-s καί@cc πέμπω@vdaa2s Λάζαρος@namsp ἵνα@cs βάπτω@vsaa3s ὁ@dans ἄκρον@nansc ὁ@dgms δάκτυλος@ngmsc αὐτός@rpgms ὕδωρ@ngnsc καί@cc καταψύχω@vsaa3s ὁ@dafs γλῶσσα@nafsc ἐγώ@rpg-s ὅτι@cs ὀδυνάω@vipp1s ἐν@pd ὁ@ddfs φλόξ@ndfsc οὗτος@rddfs 
+16.25.06R Ἀβραάμ@nnmsp δέ@cc λέγω@viaa3s τέκνον@nvnsc μιμνῄσκομαι@vdap2s ὅτι@cs ἀπολαμβάνω@viaa2s σύ@rpn-s ὁ@danp ἀγαθός@ananpn () ἐν@pd ὁ@ddfs ζωή@ndfsc σύ@rpg-s καί@cc Λάζαρος@nnmsp ὁμοίως@b ὁ@danp κακός@ananpn νῦν@b δέ@cc (ὧδε@b) παρακαλέω@vipp3s σύ@rpn-s δέ@cc ὀδυνάω@vipp2s 
+16.26.06R καί@cc (ἐπί@pd) πᾶς@aidnpn οὗτος@rddnp μεταξύ@pg σύ@rpg-p καί@cc ἐγώ@rpg-p χάσμα@nnnsc μέγας@annnsn στηρίζω@vixp3s ὅπως@cs ὁ@dnmp (ἐνταῦθα@b) διαβαίνω@vnaa () πρός@pa σύ@rpa-p μή@x δύναμαι@vspm3p μηδέ@cc ἐκεῖθεν@b ὧδε@b διαπεράω@vspa3p 
+16.27.06R () ἐρωτάω@vipa1s οὖν@cc σύ@rpa-s πατήρ@nvmsc ἵνα@cs πέμπω@vsaa2s αὐτός@rpams εἰς@pa (ὁ@dams οἶκος@namsc) ὁ@dgms πατήρ@ngmsc ἐγώ@rpg-s 
+16.28.06R ἔχω@vipa1s γάρ@cc (ἐκεῖ@b) πέντε@ac---n ἀδελφός@nampc ὅπως@cs διαμαρτύρομαι@vspm3s αὐτός@rpdmp () μή@x καί@b αὐτός@rtnmp ἔρχομαι@vsaa3p εἰς@pa οὗτος@rdams ὁ@dams τόπος@namsc ὁ@dgfs βάσανος@ngfsc 
+16.29.06R λέγω@vipa3s αὐτός@rpdms () ἔχω@vipa3p ἐκεῖ@b Μωϋσῆς@namsp καί@cc ὁ@damp προφήτης@nampc ἀκούω@vdaa3p αὐτός@rpgmp 
+16.30.06R ὁ@dnms δέ@cc λέγω@viaa3s οὐχί@b πατήρ@nvmsc () ἀλλά@cc ἐάν@cs τὶς@rinms (ἐκ@pg νεκρός@angmpn) πορεύομαι@vsap3s πρός@pa αὐτός@rpamp μετανοέω@vifa3p 
+16.31.06R ὁ@dnms (δέ@cc λέγω@viaa3s) εἰ@cs Μωϋσῆς@ngmsp καί@cc ὁ@dgmp προφήτης@ngmpc οὐ@b (ἀκούω@viaa3p) οὐδέ@b ἄν@x τὶς@rinms ἐκ@pg νεκρός@angmpn ἀπέρχομαι@vsaa3s ἀκούω@vifa3p αὐτός@rpgms 
+17.01.06R () ὁ@danp σκάνδαλον@nanpc () οὐαί@i () 
+17.02.06R (συμφέρω@viia3s) αὐτός@rpdms (εἰ@cs οὐ@b γεννάω@viap3s ἤ@cc) εἰ@cs μυλικός@annmsn λίθος@nnmsc περί@pa ὁ@dams τράχηλος@namsc αὐτός@rpgms (περίκειμαι@viip3s) καί@cc (ῥίπτω@vixp3s) εἰς@pa ὁ@dafs θάλασσα@nafsc ἤ@cc ἵνα@cs εἷς@acamsn ὁ@dgmp μικρός@angmpn οὗτος@rdgmp σκανδαλίζω@vsaa3s 
+17.03b.06R () ἁμαρτάνω@vsaa3s () ὁ@dnms ἀδελφός@nnmsc () ἐπιτιμάω@vdaa2s () 
+17.04.06R () ἐάν@cs ἑπτάκις@b (ὁ@dgfs ἡμέρα@ngfsc) ἁμαρτάνω@vsaa3s εἰς@pa σύ@rpa-s () (ἀφίημι@vifa2s []) 
+17.11.06R () Σαμάρεια@ngfsp () 
+17.12.06R () δέκα@ac---n λεπρός@annmpn () 
+04.27.06R ἀποστέλλω@viaa3s αὐτός@rpamp λέγω@vppanms πολύς@annmpn λεπρός@annmpn εἰμί@viia3p ἐν@pd ὁ@ddms Ἰσραήλ@ndmsp ἐν@pd ἡμέρα@ndfpc Ἐλισαῖος@ngmsp [] ὁ@dgms προφήτης@ngmsc καί@cc οὐδείς@rinms αὐτός@rpgmp καθαρίζω@viap3s εἰ@cs μή@x Ναιμάν@nnmsp [] ὁ@dnms Σύρος@nnmsp 
+17.14.06R () πορεύομαι@vpapnmp (δείκνυμι@vdaa2p) ἑαυτοῦ@rxamp ὁ@ddmp ἱερεύς@ndmpc () ἐν@pd ὁ@ddns ὑπάγω@vnpa καθαρίζω@viap3p 
+17.15.06R εἷς@acnmsn (δέ@cc) ἐκ@pg αὐτός@rpgmp () 
+17.16.06R () (αὐτός@rtnms εἰμί@viia3s) Σαμαρίτης@nnmsp 
+17.17.06R () 
+17.18.06R () δίδωμι@vnaa δόξα@nafsc ὁ@ddms θεός@ndmsc () 
+17.19.06R () ὁ@dnfs πίστις@nnfsc σύ@rpg-s σῴζω@vixa3s σύ@rpa-s 
+17.20.06R ἐπερωτάω@vpapnms δέ@cc ὑπό@pg ὁ@dgmp Φαρισαῖος@ngmpp πότε@b ἔρχομαι@vipm3s ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc () οὐ@b ἔρχομαι@vipm3s ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc μετά@pg παρατήρησις@ngfsc 
+17.21.06R οὐδέ@cc (λέγω@vipa3p) ἰδού@i ὧδε@b () ἰδού@i ἐκεῖ@b ἰδού@i γάρ@cc ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc ἐντός@pg σύ@rpg-p εἰμί@vipa3s 
+17.22.06R () ἔρχομαι@vifm3p ἡμέρα@nnfpc ὅταν@cs ἐπιθυμέω@vifa2p ὁράω@vnaa εἷς@acafsn ὁ@dgfp ἡμέρα@ngfpc ὁ@dgms υἱός@ngmsc ὁ@dgms ἄνθρωπος@ngmsc () 
+17.25.06R πρῶτος@b (δέ@cc) δεῖ@vipa3s (ὁ@dams υἱός@namsc ἄνθρωπος@ngmsc) πολύς@ananpn πάσχω@vnaa καί@cc ἀποδοκιμάζω@vnap () 
+17.26.06R () (ἐν@pd) ὁ@ddfp ἡμέρα@ndfpc Νῶε@ngmsp () 
+17.28.06R () (ἐν@pd) ὁ@ddfp ἡμέρα@ndfpc Λώτ@ngmsp () 
+17.32.06R μνημονεύω@vdpa2p ὁ@dgfs γυνή@ngfsc Λώτ@ngmsp 
+18.01.06R () παραβολή@nafsc () (πρός@pa ὁ@dans δεῖ@vnpa πάντοτε@b προσεύχομαι@vnpm αὐτός@rpamp καί@cc μή@x ἐγκακέω@vnpa) 
+18.02.06R () κριτής@nnmsc () 
+18.03.06R χήρα@nnfsc () 
+18.05.06R () 
+18.07.06R ὁ@dnms (δέ@cc) θεός@nnmsc () (ποιέω@vifa3s) ὁ@dafs ἐκδίκησις@nafsc ὁ@dgmp ἐκλεκτός@angmpn αὐτός@rpgms ὁ@dgmp βοάω@vppagmp πρός@pa αὐτός@rpdms ἡμέρα@ngfsc καί@cc νύξ@ngfsc () 
+18.10.06R ἄνθρωπος@nnmpc δύο@acnmpn () εἰς@pa ὁ@dans ἱερόν@nansc προσεύχομαι@vnam () Φαρισαῖος@nnmsp () τελώνης@nnmsc 
+18.11.06R () 
+18.12.06R () 
+18.13.06R () 
+18.14.06R () καταβαίνω@viaa3s (οὗτος@rdnms) δικαιόω@vpxpnms () (παρά@pa ἐκεῖνος@rdams) 
+18.16.06R () (ἀφίημι@vdaa2p ὁ@danp παιδίον@nanpc ἔρχομαι@vnpm πρός@pa ἐγώ@rpa-s) () (ὁ@dgnp γάρ@cc τοιοῦτος@adgnpn εἰμί@vipa3s ὁ@dnfs βασιλεία@nnfsc ὁ@dgmp οὐρανός@ngmpc) 
+18.18.06R () (τὶς@ainmsn αὐτός@rpams) () (λέγω@vppanms) διδάσκαλος@nvmsc ἀγαθός@anvmsn τίς@rqans ποιέω@vpaanms ζωή@nafsc αἰώνιος@anafsn κληρονομέω@vifa1s; 
+18.19.06R (λέγω@viaa3s) () (Ἰησοῦς@nnmsp) τίς@rqans ἐγώ@rpa-s λέγω@vipa2s [] ἀγαθός@anamsn; οὐδείς@rinms ἀγαθός@annmsn εἰ@cs μή@x εἷς@acnmsn [] ὁ@dnms θεός@nnmsc ὁ@dnms πατήρ@nnmsc [] 
+18.20.06R ὁ@dafp ἐντολή@nafpc οἶδα@vixa2s []; μή@x φονεύω@vsaa2s μή@x μοιχεύω@vsaa2s μή@x κλέπτω@vsaa2s μηδέ@cc ψευδομαρτυρέω@vsaa2s τιμάω@vdpa2s ὁ@dams πατήρ@namsc σύ@rpg-s καί@cc ὁ@dafs μήτηρ@nafsc (σύ@rpg-s) 
+18.21.06R () (οὗτος@rdanp πᾶς@aianpn φυλάσσω@viaa1s ἐκ@pg νεότης@ngfsc) 
+18.22.06R (ἀκούω@vpaanms) () (οὗτος@rdanp ὁ@dnms Ἰησοῦς@nnmsp λέγω@viaa3s αὐτός@rpdms) εἷς@acnnsn σύ@rpd-s λείπω@vipa3s πᾶς@aianpn ὅσος@rranp ἔχω@vipa2s πωλέω@vdaa2s καί@cc δίδωμι@vdaa2s πτωχός@andmpn καί@cc ἔχω@vifa2s θησαυρός@namsc ἐν@pd οὐρανός@ndmsc καί@cc δεῦρο@b ἀκολουθέω@vdpa2s ἐγώ@rpd-s 
+18.23.06R () 
+18.35.06R γίνομαι@viam3s δέ@cc ἐν@pd ὁ@ddns ἐγγίζω@vnpa αὐτός@rpams εἰς@pa Ἰεριχώ@nafsp (καί@cc) [] (τὶς@ainmsn) τυφλός@annmsn ἐπαιτέω@vppanms κάθημαι@viim3s παρά@pa ὁ@dafs ὁδός@nafsc 
+18.36.06R ἀκούω@vpaanms δέ@cc ὄχλος@ngmsc διαπορεύομαι@vppmgms πυνθάνομαι@viim3s τίς@rqnns (ἄν@x) εἰμί@vopa3s οὗτος@rdnns 
+18.37.06R (ἀπαγγέλλω@vsap3s) δέ@cc αὐτός@rpdms ὅτι@cs Ἰησοῦς@nnmsp παρέρχομαι@vipm3s 
+18.38.06R καί@cc βοάω@viaa3s λέγω@vppanms Ἰησοῦς@nvmsp υἱός@nvmsc Δαυίδ@ngmsp ἐλεέω@vdaa2s ἐγώ@rpa-s 
+18.39.06R (ὁ@dnmp δέ@cc) προάγω@vppanmp ἐπιτιμάω@viia3p (ὁ@ddms τυφλός@andmsn) (αὐτός@rtnms) ἵνα@cs σιγάω@vsaa3s () 
+18.40.06R ἵστημι@vpapnms δέ@cc () κελεύω@viaa3s αὐτός@rpams ἄγω@vnap () ἐγγίζω@vpaagms δέ@cc αὐτός@rpgms ἐπερωτάω@viaa3s αὐτός@rpams 
+18.41.06R τίς@rqans σύ@rpd-s θέλω@vipa2s ποιέω@vsaa1s; ὁ@dnms δέ@cc λέγω@viaa3s κύριος@nvmsc ἵνα@cs ἀναβλέπω@vsaa1s 
+18.42.06R (καί@cc ἀποκρίνομαι@vpapnms λέγω@viaa3s ὁ@dnms Ἰησοῦς@nnmsp) ἀναβλέπω@vdaa2s ὁ@dnfs πίστις@nnfsc σύ@rpg-s σῴζω@vixa3s σύ@rpa-s 
+18.43.06R καί@cc παραχρῆμα@b ἀναβλέπω@viaa3s () καί@cc πᾶς@ainmsn ὁ@dnms λαός@nnmsc () αἶνος@namsc δίδωμι@viaa3s ὁ@ddms θεός@ndmsc 
+19.02.06R () Ζακχαῖος@nnmsp () 
+19.06.06R () ὑποδέχομαι@viam3s αὐτός@rpams () 
+19.08.06R () ὁ@danp ἥμισυς@ananpn () ὁ@dgnp ὑπάρχω@vppagnp () (ὁ@ddmp πτωχός@andmpn) δίδωμι@vipa1s καί@cc εἰ@cs τὶς@rigms τὶς@rians συκοφαντέω@viaa1s τετραπλοῦς@anansn ἀποδίδωμι@vipa1s 
+19.09.06R () σήμερον@b σωτηρία@nnfsc οὗτος@rddms ὁ@ddms οἶκος@ndmsc () 
+19.10.06R ἔρχομαι@viaa3s γάρ@cc ὁ@dnms υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc σῴζω@vnaa ὁ@dans ἀπόλλυμι@vpxaans 
+19.11.06R () παραβολή@nafsc () 
+19.13.06R () δοῦλος@nampc () δίδωμι@viaa3s αὐτός@rpdmp () μνᾶ@nafpc () 
+19.22.06R () αὐστηρός@annmsn () (αἴρω@vppanms) ὅς@rrans οὐ@b τίθημι@viaa1s καί@cc (θερίζω@vppanms) ὅς@rrans οὐ@b σπείρω@viaa1s 
+19.23.06R () (σύν@pd τόκος@ndmsc) () 
+19.26.06R () καί@b ὅς@rrans (δοκέω@vipa3s ἔχω@vnpa αἴρω@vifp3s) () 
+20.01.06R () ὁ@dnmp Φαρισαῖος@nnmpp () 
+20.04.06R βάπτισμα@nnnsc Ἰωάννης@ngmsp ἐκ@pg οὐρανός@ngmsc (εἰμί@viia3s ἤ@cc) ἐκ@pg ἄνθρωπος@ngmpc 
+20.05.06R () ἐκ@pg οὐρανός@ngmsc () διά@pa τίς@rqans () οὐ@b πιστεύω@viaa2p αὐτός@rpdms 
+20.06.06R () ἄνθρωπος@ngmpc () καταλιθάζω@vifa3s ἐγώ@rpa-p () 
+20.07.06R () 
+20.08.06R () οὐδέ@cc ἐγώ@rpn-s λέγω@vipa1s σύ@rpd-p ἐν@pd ποῖος@aqdfsn ἐξουσία@ndfsc οὗτος@rdanp ποιέω@vipa1s 
+20.19.06R (γίνομαι@viam3s ἐν@pd εἷς@acdfsn ὁ@dgfp ἡμέρα@ngfpc διδάσκω@vppagms αὐτός@rpgms ἐν@pd ὁ@ddns ἱερόν@ndnsc) καί@cc ζητέω@viaa3p () ἐπιβάλλω@vnaa ἐπί@pa αὐτός@rpams ὁ@dafp χείρ@nafpc () καί@cc φοβέω@viap3p () 
+20.24.06R () δηνάριον@nansc () Καῖσαρ@ngmsp 
+20.25.06R () ἀποδίδωμι@vdaa2p τοίνυν@cc ὁ@danp Καῖσαρ@ngmsp Καῖσαρ@ndmsp καί@cc ὁ@danp ὁ@dgms θεός@ngmsc ὁ@ddms θεός@ndmsc 
+20.27.06R () (τὶς@rinmp ὁ@dgmp Σαδδουκαῖος@ngmpp ὁ@dnmp λέγω@vppanmp ἀνάστασις@nafsc μή@x εἰμί@vnpa) 
+20.28.06R () (Μωϋσῆς@nnmsp γράφω@viaa3s) () 
+20.29.06R ἑπτά@ac---n () ἀδελφός@nnmpc () (λαμβάνω@vpaanms) γυνή@nafsc () 
+20.30.06R () 
+20.31.06R () 
+20.33.06R () ἐν@pd ὁ@ddfs ἀνάστασις@ndfsc (τίς@rqgms αὐτός@rpgmp γίνομαι@vipm3s γυνή@nnfsc) () 
+20.34.06R () ἀποκρίνομαι@vpapnms () ὁ@dnmp υἱός@nnmpc οὗτος@rdgms ὁ@dgms αἰών@ngmsc γαμέω@vipa3p καί@cc (γαμίσκω@vipp3p) 
+20.35.06R ὅς@rramp (δέ@cc) καταξιόω@viaa3s ὁ@dnms θεός@nnmsc ὁ@dgms αἰών@ngmsc ἐκεῖνος@rdgms ὁ@dgfs κληρονομία@ngfsc καί@cc ὁ@dgfs ἀνάστασις@ngfsc ὁ@dgfs ἐκ@pg νεκρός@angmpn οὔτε@cc γαμέω@vipa3p οὔτε@cc (γαμίζω@vipp3p) 
+20.36.06R οὐδέ@cc γάρ@cc ἀποθνῄσκω@vnaa ἔτι@b μέλλω@vipa3p ἰσάγγελος@annmpn γάρ@cc εἰμί@vipa3p (καί@cc υἱός@nnmpc εἰμί@vipa3p) () θεός@ngmsc ὁ@dgfs ἀνάστασις@ngfsc υἱός@nnmpc εἰμί@vppanmp 
+20.39.06R () (τὶς@rinmp ὁ@dgmp) γραμματεύς@ngmpc λέγω@viaa3p διδάσκαλος@nvmsc καλῶς@b λέγω@viaa2s 
+20.41.06R () (πῶς@b λέγω@vipa3p ὁ@dams Χριστός@namsp εἰμί@vnpa Δαυίδ@ngmsp υἱός@namsc;) 
+20.44.06R Δαυίδ@nnmsp () κύριος@namsc αὐτός@rpams καλέω@vipa3s () 
+21.07.06R ἐπερωτάω@viaa3p (δέ@cc) αὐτός@rpams (ὁ@dnmp μαθητής@nnmpc) 
+21.08.06R () πολύς@annmpn (γάρ@cc) ἔρχομαι@vifm3p ἐπί@pd ὁ@ddns ὄνομα@ndnsc (ἐγώ@rpg-s) λέγω@vppanmp (ὅτι@cs) ἐγώ@rpn-s εἰμί@vipa1s (ὁ@dnms Χριστός@nnmsp) () 
+21.09.06R () πόλεμος@nampc () δεῖ@vipa3s (γάρ@cc) οὗτος@rdanp γίνομαι@vnam 
+21.10.06R () βασιλεία@nnfsc ἐπί@pa βασιλεία@nafsc καί@cc ἔθνος@nnnsc ἐπί@pa ἔθνος@nansc 
+21.11.06R λοιμός@nnmpc καί@cc λιμός@nnfpc/nnmpc σεισμός@nnmpc τέ@cc () φόβητρον@nnnpc τέ@cc καί@cc σημεῖον@nnnpc ἀπό@pg οὐρανός@ngmsc () 
+21.12.06R πρό@pg δέ@cc οὗτος@rdgnp () διώκω@vifa3p () (ἀπάγω@vpppamp ἐπί@pa βασιλεύς@nampc καί@cc ἡγεμών@nampc) () 
+21.13.06R (ἀποβαίνω@vifm3s σύ@rpd-p) εἰς@pa μαρτύριον@nansc 
+21.14.06R () μή@x προμελετάω@vnpa ἀπολογέομαι@vnap 
+21.15.06R () σοφία@nafsc ὅς@rrdfs οὐ@b δύναμαι@vifm3p ἀνθίστημι@vnaa (οὐδέ@cc) ἀντιλέγω@vnaa (πᾶς@annmpn) 
+21.16.06R (παραδίδωμι@vifp2p δέ@cc καί@cc ὑπό@pg γονεύς@ngmpc καί@cc ἀδελφός@ngmpc καί@cc συγγενής@angmpn καί@cc φίλος@angmpn) () 
+21.17.06R () μισέω@vpppnmp () διά@pa ὁ@dans ὄνομα@nansc ἐγώ@rpg-s 
+21.19.06R ἐν@pd ὁ@ddfs ὑπομονή@ndfsc (σῴζω@vifa2p ἑαυτοῦ@rxamp) 
+21.20.06R () κυκλόω@vpppafs ὑπό@pg στρατόπεδον@ngnpc Ἰερουσαλήμ@nafsp () ὁ@dnfs ἐρήμωσις@nnfsc αὐτός@rpgfs 
+21.25.06R () ἐν@pd ἥλιος@ndmsc καί@cc σελήνη@ndfsc καί@cc ἄστρον@ndnpc σημεῖον@nnnpc καί@cc ἐπί@pg ὁ@dgfs γῆ@ngfsc συνοχή@nnfsc ἔθνος@ngnpc ἐν@pd ἀπορία@ndfsc (ὡς@cs ἦχος@ngnsc θάλασσα@ngfsc κυμαίνω@vppagfs) 
+21.26.06R () προσδοκία@ngfsc ὁ@dgnp ἐπέρχομαι@vppmgnp ὁ@ddfs οἰκουμένη@ndfsc (κακός@angnpn) (αὐτός@rpnfp) γάρ@cc ὁ@dnfp δύναμις@nnfpc ὁ@dgmp οὐρανός@ngmpc σαλεύω@vifp3p 
+21.27.06R καί@cc τότε@b ὁράω@vifm3p ὁ@dams υἱός@namsc ὁ@dgms ἄνθρωπος@ngmsc ἔρχομαι@vppmams ἀπό@pg ὁ@dgmp οὐρανός@ngmpc μετά@pg δύναμις@ngfsc πολύς@angfsn 
+21.28.06R (οὗτος@rdgnp δέ@cc γίνομαι@vppmgnp) ἀνακύπτω@vdaa2p καί@cc ἐπαίρω@vdaa2p ὁ@dafp κεφαλή@nafpc διότι@cs (ἐγγίζω@vipa3s) ὁ@dnfs ἀπολύτρωσις@nnfsc σύ@rpg-p 
+21.29.06R () παραβολή@nafsc () ὁράω@vdaa2p ὁ@dafs συκῆ@nafsc καί@cc ὁ@danp δένδρον@nanpc πᾶς@aianpn 
+21.30.06R (ὅταν@cs προβάλλω@vsaa3p ὁ@dams καρπός@namsc γινώσκω@vipa3p ὁ@dnmp ἄνθρωπος@nnmpc ὅτι@cs ὁ@dnns θέρος@nnnsc ἐγγίζω@vixa3s) 
+21.31.06R οὕτω@b καί@b σύ@rpn-p ὅταν@cs ὁράω@vsaa2p οὗτος@rdanp γίνομαι@vppmanp γινώσκω@vipa2p/vdpa2p ὅτι@cs ἐγγύς@b εἰμί@vipa3s ὁ@dnfs βασιλεία@nnfsc ὁ@dgms θεός@ngmsc 
+21.32.06R () (οὐ@b μή@x παρέρχομαι@vsaa3s ὁ@dnms οὐρανός@nnmsc καί@cc ὁ@dnfs γῆ@nnfsc εἰ@cs μή@x πᾶς@ainnpn γίνομαι@vsam3s) 
+21.33.06R ὁ@dnms οὐρανός@nnmsc καί@cc ὁ@dnfs γῆ@nnfsc (παρέρχομαι@vifm3s) ὁ@dnms δέ@cc (λόγος@nnmsc) ἐγώ@rpgms (μένω@vipa3s εἰς@pa ὁ@dams αἰών@namsc) 
+21.34.06R (προσέχω@vdpa2p δέ@cc ἑαυτοῦ@rxdmp) μήποτε@cs (βαρέω@vsap3p) ὁ@dnfp καρδία@nnfpc σύ@rpg-p (ἐν@pd) κραιπάλη@ndfsc καί@cc μέθη@ndfsc καί@cc βιωτικός@andfpn μέριμνα@ndfpc καί@cc ἐφίστημι@vsaa3s ἐπί@pa σύ@rpa-p αἰφνίδιος@annfsn ἡμέρα@nnfsc ἐκεῖνος@rdnfs 
+21.35a.06R ὡς@cs παγίς@nnfsc () 
+21.37.06R () ὁ@dafp ἡμέρα@nafpc ἐν@pd ὁ@ddns ἱερόν@ndnsc διδάσκω@vppanms ὁ@dafp () νύξ@nafpc ἐξέρχομαι@vppmnms () εἰς@pa () ἐλαία@ngfpc 
+21.38.06R () ὀρθρίζω@viia3s () ἀκούω@vnpa αὐτός@rpgms 
+22.01.06R () πάσχα@nnnsc 
+22.03.06R Ἰούδας@namsp () (εἰμί@vppaams ἐκ@pg ὁ@dgms ἀριθμός@ngmsc ὁ@dgmp δώδεκα@ac---n) 
+22.04.06R () συλλαλέω@viaa3s ὁ@ddmp () στρατηγός@ndmpc ὁ@dans πῶς@b αὐτός@rpdmp παραδίδωμι@vsaa3s αὐτός@rpdmp 
+22.05.06R () ἀργύριον@nansc () 
+22.08.06R (καί@cc λέγω@viaa3s ὁ@ddms Πέτρος@ndmsp καί@cc ὁ@ddmp λοιπός@andmpn ἀπέρχομαι@vpaanmp ἑτοιμάζω@vdaa2p ἵνα@cs ἐσθίω@vsaa1p ὁ@dans πάσχα@nansc) 
+22.14.06R καί@cc () ἀναπίπτω@viaa3s καί@cc ὁ@dnmp δώδεκα@ac---n ἀπόστολος@nnmpc σύν@pd αὐτός@rpdms 
+22.15.06R καί@cc λέγω@viaa3s () ἐπιθυμία@ndfsc ἐπιθυμέω@viaa1s οὗτος@rdans ὁ@dans πάσχα@nansc ἐσθίω@vnaa μετά@pg σύ@rpg-p πρό@pg ὁ@dgns ἐγώ@rpa-s πάσχω@vnaa 
+22.17.06R (ποτήριον@nansc) 
+22.19.06R () λαμβάνω@vpaanms ἄρτος@namsc () δίδωμι@viaa3s (αὐτός@rpdmp) () οὗτος@rdnns εἰμί@vipa3s ὁ@dnns σῶμα@nnnsc ἐγώ@rpg-s (ὁ@dnns ὑπέρ@pg σύ@rpg-p δίδωμι@vpppnns) () 
+22.20.06R () οὗτος@rdnns ὁ@dnns ποτήριον@nnnsc ὁ@dnfs () διαθήκη@nnfsc ἐν@pd ὁ@ddns αἷμα@ndnsc ἐγώ@rpg-s () 
+22.22b.06R () οὐαί@i () διά@pg ὅς@rrgms παραδίδωμι@vipp3s (ὁ@dnms υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc) 
+22.33.06R () 
+22.34.06R () ἀπαρνέομαι@vsam2s () 
+22.41.06R () ἀποσπάω@viap3s ἀπό@pg αὐτός@rpgmp ὡσεί@b λίθος@ngmsc βολή@nafsc καί@cc τίθημι@vpaanms ὁ@danp γόνυ@nanpc προσεύχομαι@viim3s 
+22.47.06R () (Ἰούδας@nnmsp) () καί@cc ἐγγίζω@viaa3s () (καταφιλέω@vnaa) αὐτός@rpams (καί@cc λέγω@viaa3s) 
+22.48.06R () φίλημα@ndnsc () παραδίδωμι@vipa2s 
+22.63.06R () ὁ@dnmp συνέχω@vppanmp () ἐμπαίζω@viia3p () δέρω@vppanmp 
+22.64.06R () (τύπτω@viia3p) () λέγω@vppanmp προφητεύω@vdaa2s τίς@rqnms εἰμί@vipa3s ὁ@dnms παίω@vpaanms σύ@rpa-s; 
+22.66.06R () ἀπάγω@viaa3p () εἰς@pa ὁ@dans συνέδριον@nansc 
+22.67.06R () σύ@rpn-s εἰμί@vipa2s ὁ@dnms Χριστός@nnmsp () ἐάν@cs λέγω@vsaa1s σύ@rpd-p οὐ@b μή@x πιστεύω@vsaa2p 
+22.69.06R ἀπό@pg ὁ@dgns νῦν@b (δέ@cc) εἰμί@vifm3s ὁ@dnms υἱός@nnmsc ὁ@dgms ἄνθρωπος@ngmsc κάθημαι@vppmnms ἐκ@pg δεξιός@angnpn ὁ@dgfs δύναμις@ngfsc ὁ@dgms θεός@ngmsc 
+22.70.06R () σύ@rpn-s οὖν@cc εἰμί@vipa2s ὁ@dnms υἱός@nnmsc ὁ@dgms θεός@ngmsc () σύ@rpn-p λέγω@vipa2p () 
+22.71.06R () 
+23.01.06R () ἄγω@viaa3p αὐτός@rpams ἐπί@pa ὁ@dams Πιλᾶτος@namsp 
+23.02.06R ἄρχω@viam3p () κατηγορέω@vnpa () οὗτος@rdams εὑρίσκω@viaa1p διαστρέφω@vppaams ὁ@dans ἔθνος@nansc () καί@cc καταλύω@vppaams ὁ@dams νόμος@namsc καί@cc ὁ@damp προφήτης@nampc () (κωλύω@vppaams φόρος@nampc) () (δίδωμι@vnpa) καί@cc ἀποστρέφω@vppaams ὁ@dafp γυνή@nafpc καί@cc ὁ@danp τέκνον@nanpc () λέγω@vppaams ἑαυτοῦ@rxams βασιλεύς@namsc Χριστός@namsp () 
+23.03.06R ὁ@dnms (δέ@cc) Πιλᾶτος@nnmsp (ἐρωτάω@viaa3s) () σύ@rpn-s εἰμί@vipa2s (ὁ@dnms χριστός@annmsn); () σύ@rpn-s λέγω@vipa2s 
+23.07.06R () ἀναπέμπω@viaa3s αὐτός@rpams πρός@pa Ἡρῴδης@namsp () 
+23.08.06R ὁ@dnms δέ@cc Ἡρῴδης@nnmsp ὁράω@vpaanms ὁ@dams Ἰησοῦς@namsp χαίρω@viap3s λίαν@b () 
+23.09.06R () (αὐτός@rtnms δέ@cc οὐδείς@rians ἀποκρίνομαι@viam3s αὐτός@rpdms) 
+23.18.06R () Βαραββᾶς@namsp 
+23.19.06R () (διά@pa στάσις@nafsc) () (καί@cc φόνος@namsc βάλλω@vpapnms ἐν@pd ὁ@ddfs φυλακή@ndfsc) 
+23.22.06R () 
+23.23.06R () 
+23.25.06R ἀπολύω@viaa3s () 
+23.32.06R () κακοῦργος@annmpn δύο@acnmpn () 
+23.33.06R καί@cc (ἔρχομαι@vpaanmp εἰς@pa) τόπος@namsc (λέγω@vpppams) κρανίον@nnnsc (τόπος@nnmsc) σταυρόω@viaa3p αὐτός@rpams (ὅς@rrams μέν@x ἐκ@pg δεξιός@angnpn ὅς@rrams δέ@cc ἐκ@pg ἀριστερός@angnpn) 
+23.34a.06R ([]) 
+23.34b.06R ([]) 
+23.44.06R () ὥρα@nnfsc ἕκτος@aonfsn καί@cc σκότος@nnnsc () ἐπί@pa () ὁ@dafs γῆ@nafsc () 
+23.45.06R () σκοτίζω@viap3s ὁ@dnms ἥλιος@nnmsc () (καί@cc) σχίζω@viap3s ὁ@dnns καταπέτασμα@nnnsc ὁ@dgms ναός@ngmsc () 
+23.46.06R καί@cc φωνέω@vpaanms φωνή@ndfsc μέγας@andfsn (ὁ@dnms Ἰησοῦς@nnmsp λέγω@viaa3s πατήρ@nvmsc εἰς@pa χείρ@nafpc σύ@rpg-s παρατίθημι@vifm1s ὁ@dans πνεῦμα@nansc ἐγώ@rpg-s) οὗτος@rdans () λέγω@vpaanms ἐκπνέω@viaa3s 
+23.50.06R (καί@cc) ἰδού@i ἀνήρ@nnmsc ὄνομα@ndnsc Ἰωσήφ@nnmsp () 
+23.51.06R οὐ@b εἰμί@viia3s συγκατατίθεμαι@vpxpnms (ὁ@ddfs βουλή@ndfsc καί@cc ὁ@ddfs πρᾶξις@ndfsc αὐτός@rpgmp) () 
+23.52.06R () ὁ@ddms Πιλᾶτος@ndmsp αἰτέω@viam3s ὁ@dans σῶμα@nansc () 
+23.53.06R () καθαιρέω@vpaanms (ὁ@dans σῶμα@nansc) ἐντυλίσσω@viaa3s () (ἐν@pd) σινδών@ndfsc καί@cc τίθημι@viaa3s () ἐν@pd (καινός@andnsn) μνῆμα@ndnsc λαξευτός@andnsn () 
+23.55.06R () ὁ@dnfp γυνή@nnfpc () 
+23.56.06R ὑποστρέφω@vpaanfp () ἡσυχάζω@viaa3p ὁ@dans () σάββατον@nansc κατά@pa (ὁ@dams νόμος@namsc) 
+24.01.06R () ὄρθρος@ngmsc βαθύς@angmsn ἔρχομαι@viaa3p ἐπί@pa ὁ@dans μνῆμα@nansc (φέρω@vppanfp ὅς@rranp) ἑτοιμάζω@viaa3p ἄρωμα@nanpc 
+24.03.06R () οὐ@b εὑρίσκω@viaa3p ὁ@dans σῶμα@nansc () 
+24.04.06R () (ἐν@pd ὁ@ddns ἀπορέω@vnpm αὐτός@rpafp περί@pg οὗτος@rdgns) () δύο@acnmpn ἀνήρ@nnmpc [] () (ἐν@pd ἐσθής@ndfsc ἀστράπτω@vppadfs) 
+24.05.06R () τίς@rqans ζητέω@vipa2p ὁ@dams ζάω@vppaams μετά@pg ὁ@dgmp νεκρός@angmpn 
+24.06.06R () ἐγείρω@viap3s μιμνῄσκομαι@vdap2p ὅσος@rranp λαλέω@viaa3s (σύ@rpd-p ἔτι@b εἰμί@vppanms ἐν@pd ὁ@ddfs Γαλιλαία@ndfsp) 
+24.07.06R () ὅτι@cs δεῖ@vipa3s ὁ@dams υἱός@namsc ὁ@dgms ἄνθρωπος@ngmsc παραδίδωμι@vnap () καί@cc σταυρόω@vnap καί@cc ὁ@ddfs τρίτος@aodfsn ἡμέρα@ndfsc ἀνίστημι@vnaa 
+24.09.06R () ὑποστρέφω@vpaanfp ἀπό@pg ὁ@dgns μνημεῖον@ngnsc ἀπαγγέλλω@viaa3p (οὗτος@rdanp πᾶς@aianpn) 
+24.11.06R () (καί@cc ἀπιστέω@viia3p αὐτός@rpdfp) 
+24.13.06R () δύο@acnmpn ἐκ@pg αὐτός@rpgmp () 
+24.15.06R () Ἰησοῦς@nnmsp ἐγγίζω@vpaanms () 
+24.16.06R () 
+24.18.06R () Κλεοπᾶς@nnmsp () 
+24.19.06R () 
+24.21a.06R ἐγώ@rpn-p δέ@cc (νομίζω@viia1p) (ὅτι@cs) αὐτός@rtnms εἰμί@vipa3s (ὁ@dnms λυτρωτής@nnmsc ὁ@dams Ἰσραήλ@namsp) () 
+24.25.06R () ὦ@i ἀνόητος@anvmpn καί@cc βραδύς@anvmpn ὁ@ddfs καρδία@ndfsc ὁ@dgns πιστεύω@vnpa ἐπί@pd πᾶς@aidnpn ὅς@rrdnp (λαλέω@viap3s) πρός@pa σύ@rpamp [] 
+24.26.06R οὐχί@b οὗτος@rdanp δεῖ@viia3s πάσχω@vnaa ὁ@dams Χριστός@namsp () 
+24.30.06R () (ὁ@dams ἄρτος@namsc) () (κλάω@vpaanms) () 
+24.31.06R (αὐτός@rpgmp δέ@cc διανοίγω@viap3p) ὁ@dnmp ὀφθαλμός@nnmpc καί@cc ἐπιγινώσκω@viaa3p (αὐτός@rpams) () 
+24.37.06R () (δοκέω@viia3p) (φάντασμα@nansc) (θεωρέω@vnpa) 
+24.38.06R () τίς@rqans ταράσσω@vpxpnmp εἰμί@vipa2p καί@cc () τίς@rqans διαλογισμός@nnmpc ἀναβαίνω@vipa3p (εἰς@pa ὁ@dafp καρδία@nafpc) σύ@rpg-p 
+24.39.06R ὁράω@vdaa2p ὁ@dafp χείρ@nafpc (ἐγώ@rpg-s) καί@cc ὁ@damp πούς@nampc (ἐγώ@rpg-s) ὅτι@cs ἐγώ@rpn-s εἰμί@vipa1s αὐτός@rtnms ὅτι@cs πνεῦμα@nnnsc ὀστέον@nanpc οὐ@b ἔχω@vipa3s καθώς@cs ἐγώ@rpa-s θεωρέω@vipa2p ἔχω@vppaams 
+24.41.06R ἔτι@b (δέ@cc) ἀπιστέω@vppagmp αὐτός@rpgmp () τὶς@rians βρώσιμος@anansn () 
+24.42.06R () (ἰχθύς@ngmsc) () 
+24.43.06R () (ἐσθίω@viaa3s) 
+24.47.06R () κηρύσσω@vnap () εἰς@pa πᾶς@aianpn ὁ@danp ἔθνος@nanpc () 
