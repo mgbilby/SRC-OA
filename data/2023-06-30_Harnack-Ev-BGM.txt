@@ -159,7 +159,7 @@
 08.31.03V παρακαλέω@viia3p (αὐτός@rpams ἵνα@cs μή@x ἐπιτάσσω@vsaa3s αὐτός@rpdnp) εἰς@pa ὁ@dafs ἄβυσσος@nafsc (ἀπέρχομαι@vnaa) 
 08.32.03V [ἐπιτρέπω@viaa3s αὐτός@rpdnp] 
 08.33.03V () 
-08.42b.03V γίνομαι@viam3s δέ@cc ἐν@pd ὁ@ddns ὑπάγω@vnpa αὐτός@rpams συμπνίγω@viia3p αὐτός@rpams ὁ@dnmp ὄχλος@nnmpc 
+08.42b.03V γίνομαι@viam3s δέ@cc ἐν@pd ὁ@ddns ὑπάγω@vnpa αὐτός@rpamp συμπνίγω@viia3p αὐτός@rpams ὁ@dnmp ὄχλος@nnmpc 
 08.43.03V ἐν@pd ῥύσις@ndfsc αἷμα@ngnsc () 
 08.44.03V ἅπτω@viam3s () ὁ@dgns ἱμάτιον@ngnsc αὐτός@rpgms () 
 08.45.03V ὁ@dnmp μαθητής@nnmpc () 

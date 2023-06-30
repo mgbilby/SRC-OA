@@ -103,7 +103,7 @@ Chapter.Verse.Version.Script
 08.16.06R (οὐδείς@rinms) () λύχνος@namsc () καλύπτω@vipa3s () 
 08.17.06R () κρυπτός@annnsn () φανερός@annnsn (γίνομαι@vifm3s) () 
 08.18.06R βλέπω@vdpa2p () πῶς@b ἀκούω@vipa2p ὅς@rrnms () ἄν@x ἔχω@vspa3s δίδωμι@vifp3s αὐτός@rpdms (καί@cc) ὅς@rrnms ἄν@x μή@x ἔχω@vspa3s καί@b ὅς@rrans δοκέω@vipa3s ἔχω@vnpa αἴρω@vifp3s ἀπό@pg αὐτός@rpgms 
-08.20.06R ἀπαγγέλλω@viap3s () αὐτός@rpdms ὁ@dnfs μήτηρ@nnfsc σύ@rpg-s καί@cc ὁ@dnmp ἀδελφός@nnmpc σύ@rpg-s ἔξω@b ἵστημι@vixa3p ὁράω@vnaa θέλω@vppanmp σύ@rpa-s 
+08.20.06R ἀπαγγέλλω@viap3s/cor () αὐτός@rpdms ὁ@dnfs μήτηρ@nnfsc σύ@rpg-s καί@cc ὁ@dnmp ἀδελφός@nnmpc σύ@rpg-s ἔξω@b ἵστημι@vixa3p ὁράω@vnaa θέλω@vppanmp σύ@rpa-s 
 08.21.06R τίς@rqnfs (ἐγώ@rpd-s) μήτηρ@nnfsc καί@cc τίς@rqnmp (ἐγώ@rpd-s) ἀδελφός@nnmpc εἰ@cs μή@x ὁ@dnmp ὁ@damp λόγος@nampc ἐγώ@rpg-s ἀκούω@vppanmp καί@cc ποιέω@vppanmp αὐτός@rpamp 
 08.22.06R () διέρχομαι@vsaa1p εἰς@pa ὁ@dans πέραν@b () 
 08.23.06R πλέω@vppagmp (δέ@cc) αὐτός@rpgmp ἀφυπνόω@viaa3s () (λαῖλαψ@nnfsc ἄνεμος@ngmsc εἰς@pa ὁ@dafs λίμνη@nafsc) () 
