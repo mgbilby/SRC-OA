@@ -1,4 +1,4 @@
-Chapter.Verse.Version.Script" 
+"Chapter","Verse","Version","Script" 
 "03","01","06R","ἐν@pd (ὁ@ddns) ἔτος@ndnsc πεντεκαιδέκατος@aodnsn (ὁ@dgfs ἡγεμονία@ngfsc) Τιβέριος@ngmsp Καῖσαρ@ngmsp ἐπί@pg ὁ@dgmp χρόνος@ngmpc (Πόντιος@ngmsp) Πιλᾶτος@ngmsp ()" 
 "04","31","06R","() κατέρχομαι@viaa3s εἰς@pa Καφαρναούμ@nafsp πόλις@nafsc ὁ@dgfs Γαλιλαία@ngfsp () εἰμί@viia3s διδάσκω@vppanms () ἐν@pd ὁ@ddfs συναγωγή@ndfsc" 
 "04","32","06R","() ἐκπλήσσω@viip3p (δέ@cc) πᾶς@ainmpn ἐπί@pd ὁ@ddfs διδαχή@ndfsc αὐτός@rpgms ὅτι@cs ἐν@pd ἐξουσία@ndfsc εἰμί@viia3s ὁ@dnms λόγος@nnmsc αὐτός@rpgms" 
