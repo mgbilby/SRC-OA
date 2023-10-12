@@ -140,7 +140,7 @@
 "1Cr","03","13","03AH","()" 
 "1Cr","03","14","03AH","()" 
 "1Cr","03","15","03AH","()" 
-"1Cr","03","16","03AH","οὐ@b οἶδα@vixa2p ὅτι@cs ναός@nnmsc θεός@ngmsc εἰμί@vipa2p καί@cc ἐν@pd σύ@rpd-p οἰκέω@vipa3s ὁ@dnns πνεῦμα@nnnsc ὁ@dgms θεός@ngmsc" 
+"1Cr","03","16","03AH","οὐ@b οἶδα@vixa2p ὅτι@cs ναός@nnmsc θεός@ngmsc εἰμί@vipa2p καί@cc ἐν@pd σύ@rpd-p οἰκέω@vipa3s ὁ@dnns πνεῦμα@nnnsc ὁ@dgms θεός@ngmsc;" 
 "1Cr","03","17","03AH","ὅτι@cs εἰ@cs ὁ@dams ναός@namsc ὁ@dgms θεός@ngmsc τὶς@rinms φθείρω@vipa3s φθείρω@vifp3s" 
 "1Cr","03","18","03AH","()" 
 "1Cr","03","19","03AH","ὁ@dnfs γάρ@cc σοφία@nnfsc ὁ@dgms κόσμος@ngmsc οὗτος@rdgms μωρία@nnfsc εἰμί@vipa3s παρά@pd ὁ@ddms θεός@ndmsc γράφω@vixp3s γάρ@cc ὁ@dnms δράσσομαι@vppmnms ὁ@damp σοφός@anampn ἐν@pd ὁ@ddfs πανουργία@ndfsc αὐτός@rpgmp" 
