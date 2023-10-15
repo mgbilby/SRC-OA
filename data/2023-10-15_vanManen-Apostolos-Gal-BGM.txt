@@ -12,7 +12,7 @@
 "Gal","01","12","01VM","οὐδέ@b γάρ@cc ἐγώ@rpn-s παρά@pg ἄνθρωπος@ngmsc παραλαμβάνω@viaa1s αὐτός@rpans ἀλλά@cc διά@pg ἀποκάλυψις@ngfsc Ἰησοῦς@ngmsp Χριστός@ngmsp" 
 "Gal","01","15","01VM","ὅτε@cs δέ@cc εὐδοκέω@viaa3s ὁ@dnms ἀφορίζω@vpaanms ἐγώ@rpa-s ἐκ@pg κοιλία@ngfsc μήτηρ@ngfsc ἐγώ@rpg-s καί@cc καλέω@vpaanms εἰς@pa ὁ@dafs χάρις@nafsc (αὐτός@rpgms)" 
 "Gal","01","16","01VM","ἀποκαλύπτω@vnaa ὁ@dams υἱός@namsc αὐτός@rpgms ἐν@pd ἐγώ@rpd-s ἵνα@cs εὐαγγελίζω@vspm1s αὐτός@rpams ἐν@pd ὁ@ddnp ἔθνος@ndnpc εὐθέως@b οὐ@b προσανατίθημι@viam1s σάρξ@ndfsc καί@cc αἷμα@ndnsc" 
-"Gal","01","17","01VM","οὐδέ@cc ἀνέρχομαι@viaa1s εἰς@pa Ἱεροσόλυμα@nanpp πρός@pa ὁ@damp πρό@pg ἐγώ@rpg-s ἀπόστολος@nampc ἀλλά@cc ἀπέρχομαι@viaa1s εἰς@pa Ἀραβία@nafsp καί@cc πάλιν@b ὑποστρέφω@viaa1s εἰς@pa Δαμασκός@nafsp" 
+"Gal","01","17","01VM","οὐδέ@cc ἀπέρχομαι@viaa1s εἰς@pa Ἱεροσόλυμα@nanpp πρός@pa ὁ@damp πρό@pg ἐγώ@rpg-s ἀπόστολος@nampc ἀλλά@cc ἀπέρχομαι@viaa1s εἰς@pa Ἀραβία@nafsp καί@cc πάλιν@b ὑποστρέφω@viaa1s εἰς@pa Δαμασκός@nafsp" 
 "Gal","01","18","01VM","ἔπειτα@b μετά@pa ἔτος@nanpc τρεῖς@acanpn ἀνέρχομαι@viaa1s εἰς@pa Ἱεροσόλυμα@nanpp ἱστορέω@vnaa Κηφᾶς@namsp καί@cc ἐπιμένω@viaa1s πρός@pa αὐτός@rpams ἡμέρα@nafpc δεκαπέντε@ac---n" 
 "Gal","01","19","01VM","ἕτερος@aiamsn δέ@cc ὁ@dgmp ἀπόστολος@ngmpc οὐ@b ὁράω@viaa1s εἰ@cs μή@x Ἰάκωβος@namsp ὁ@dams ἀδελφός@namsc ὁ@dgms κύριος@ngmsc" 
 "Gal","01","20","01VM","ὅς@rranp δέ@cc γράφω@vipa1s σύ@rpd-p ἰδού@i ἐνώπιον@pg ὁ@dgms θεός@ngmsc ὅτι@cs οὐ@b ψεύδομαι@vipm1s" 
