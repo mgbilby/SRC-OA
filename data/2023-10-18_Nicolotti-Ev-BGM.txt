@@ -759,7 +759,7 @@
 "24","22","08N","ἀλλά@cc καί@b γυνή@nnfpc τὶς@ainfpn ἐξίστημι@viaa3p ἐγώ@rpa-p γίνομαι@vpamnfp ὀρθρινός@annfpn ἐπί@pa ὁ@dans μνημεῖον@nansc" 
 "24","23","08N","καί@cc μή@x εὑρίσκω@vpaanfp ὁ@dans σῶμα@nansc αὐτός@rpgms ἔρχομαι@viaa3p λέγω@vppanfp ὀπτασία@nafsc ἄγγελος@ngmpc ὁράω@vnxa ὅς@rrnmp λέγω@vipa3p αὐτός@rpams ζάω@vnpa" 
 "24","24","08N","καί@cc ἀπέρχομαι@viaa3p τὶς@rinmp ἐκ@pg ὁ@dgmp σύν@pd ἐγώ@rpd-p ἐπί@pa ὁ@dans μνημεῖον@nansc καί@cc εὑρίσκω@viaa3p οὕτω@b ὡς@cs λέγω@viaa3p ὁ@dnfp γυνή@nnfpc αὐτός@rpams δέ@cc οὐ@b ὁράω@viaa1p" 
-"24","25","08N","ὁ@dnms δέ@cc λέγω@viaa3s πρός@pa αὐτός@rpamp ὦ@i ἀνόητος@anvmpn καί@cc βραδύς@anvmpn ὁ@ddfs καρδία@ndfsc [] ὁ@dgns πιστεύω@vnpa ἐπί@pd πᾶς@aidnpn ὅς@rrdnp λαλέω@viaa3p σύ@rpd-p []" 
+"24","25","08N","ὁ@dnms δέ@cc λέγω@viaa3s πρός@pa αὐτός@rpamp ὦ@i ἀνόητος@anvmpn καί@cc βραδύς@anvmpn ὁ@ddfs καρδία@ndfsc [] ὁ@dgns πιστεύω@vnpa ἐπί@pd πᾶς@aidnpn ὅς@rrdnp λαλέω@viaa1s σύ@rpd-p []" 
 "24","26","08N","ὅτι@cs δεῖ@viia3s οὗτος@rdanp πάσχω@vnaa ὁ@dams Χριστός@namsp καί@cc εἰσέρχομαι@vnaa εἰς@pa ὁ@dafs δόξα@nafsc αὐτός@rpgms" 
 "24","27","08N","καί@cc εἰμί@viia3s ἄρχω@vpamnms ἀπό@pg Μωϋσῆς@ngmsp καί@cc πᾶς@aigmpn ὁ@dgmp προφήτης@ngmpc ἑρμηνεύω@vnpa αὐτός@rpdmp ἐν@pd ὁ@ddfp γραφή@ndfpc ὁ@danp περί@pg ἑαυτοῦ@rxgms" 
 "24","28","08N","καί@cc ἐγγίζω@viaa3p εἰς@pa ὁ@dafs κώμη@nafsc ὅς@b πορεύομαι@viim3p καί@cc αὐτός@rtnms προσποιέω@viam3s πόρρω@b πορεύομαι@vnpm" 

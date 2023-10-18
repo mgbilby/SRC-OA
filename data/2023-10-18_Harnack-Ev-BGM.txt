@@ -594,7 +594,7 @@
 "24","19","03V","()" 
 "24","20","03V","()" 
 "24","21a","03V","ἐγώ@rpn-p δέ@cc νομίζω@viia1p ὅτι@cs αὐτός@rtnms εἰμί@vipa3s ὁ@dnms λυτρωτής@nnmsc ὁ@dams Ἰσραήλ@namsp" 
-"24","25","03V","ὦ@i ἀνόητος@anvmpn καί@cc βραδύς@anvmpn ὁ@ddfs καρδία@ndfsc ὁ@dgns πιστεύω@vnpa ἐπί@pd πᾶς@aidnpn ὅς@rrdnp λαλέω@viaa3p πρός@pa σύ@rpamp" 
+"24","25","03V","ὦ@i ἀνόητος@anvmpn καί@cc βραδύς@anvmpn ὁ@ddfs καρδία@ndfsc ὁ@dgns πιστεύω@vnpa ἐπί@pd πᾶς@aidnpn ὅς@rrdnp λαλέω@viaa3s πρός@pa σύ@rpamp" 
 "24","26","03V","ὅτι@cs δεῖ@viia3s οὗτος@rdanp πάσχω@vnaa ὁ@dams Χριστός@namsp ()" 
 "24","30","03V","ὁ@dams ἄρτος@namsc () κλάω@vpaanms ()" 
 "24","31","03V","() ἀνοίγω@viap3p αὐτός@rpgmp ὁ@dnmp ὀφθαλμός@nnmpc καί@cc ἐπιγινώσκω@viaa3p αὐτός@rpams" 
