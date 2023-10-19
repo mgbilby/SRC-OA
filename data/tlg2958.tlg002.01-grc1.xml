@@ -1,14 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader xml:lang="eng"><fileDesc><titleStmt><title type="work">Evangelion</title><author>Marcion of Sinope</author><editor><forename>Augustus</forename><surname>Hahn</surname></editor><editor><forename>Mark</forename><forename>Glen</forename><surname>Bilby</surname></editor><sponsor>Perseus Project, Tufts University</sponsor><principal>Gregory Crane</principal><respStmt><resp>Prepared under the supervision of</resp><name>Lisa Cerrato</name><name>Alison Babeu</name></respStmt><funder n="org:Tufts">Tufts University</funder></titleStmt><publicationStmt><publisher>Trustees of Tufts University</publisher><pubPlace>Medford, MA</pubPlace><authority>Perseus Project</authority></publicationStmt><sourceDesc><biblStruct><analytic><author><forename>Augustus</forename><surname>Hahn</surname></author><title level="a">Evangelium Marcionis ex Auctoritate Veterum Monumentorum</title><idno type="ARK">13960/t23b6zq5d</idno><ref target="https://n2t.net/ark:/13960/t23b6zq5d">https://n2t.net/ark:/13960/t23b6zq5d</ref></analytic><monogr><title level="m">Codex apocryphus Novi Testamenti</title><idno type="OCLC">7915511</idno><respStmt><resp>Opera et studio</resp><name>Johann Karl Thilo</name></respStmt><imprint><pubPlace>Leipzig</pubPlace><publisher>F. C. G. Vogel</publisher><date>1832</date></imprint><biblScope unit="page">401-486</biblScope></monogr></biblStruct></sourceDesc></fileDesc><encodingDesc><!--<tagsDecl>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+	<titleStmt>
+		<title type="work">Evangelion</title>
+		<author>Marcion of Sinope</author>
+		<editor>
+			<forename>Augustus</forename>
+			<surname>Hahn</surname>
+		</editor>
+		<editor>
+			<forename>Mark</forename>
+			<forename>Glen</forename>
+			<surname>Bilby</surname>
+		</editor>
+		<sponsor>Perseus Project, Tufts University</sponsor>
+		<principal>Gregory Crane</principal>
+		<respStmt>
+			<resp>Prepared under the supervision of</resp>
+				<name>Lisa Cerrato</name>
+				<name>Alison Babeu</name>
+		</respStmt>
+		<funder n="org:Tufts">Tufts University</funder>
+	</titleStmt>
+	<publicationStmt>
+		<publisher>Trustees of Tufts University</publisher>
+		<pubPlace>Medford, MA</pubPlace>
+		<authority>Perseus Project</authority>
+	</publicationStmt>
+	<sourceDesc>
+		<biblStruct>
+			<analytic>
+				<author>
+					<forename>Augustus</forename>
+					<surname>Hahn</surname>
+				</author>
+				<title level="a">Evangelium Marcionis ex Auctoritate Veterum Monumentorum</title>
+				<idno type="ARK">13960/t23b6zq5d</idno>
+				<ref target="https://n2t.net/ark:/13960/t23b6zq5d">https://n2t.net/ark:/13960/t23b6zq5d</ref>
+			</analytic>
+			<monogr>
+				<title level="m">Codex apocryphus Novi Testamenti</title>
+				<idno type="OCLC">7915511</idno>
+				<respStmt>
+					<resp>Opera et studio</resp>
+					<name>Johann Karl Thilo</name>
+				</respStmt>
+				<imprint>
+					<pubPlace>Leipzig</pubPlace>
+					<publisher>F. C. G. Vogel</publisher>
+					<date>1832</date>
+				</imprint>
+				<biblScope unit="page">401-486</biblScope>
+			</monogr>
+		</biblStruct>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+			<!--<tagsDecl>
                 <rendition id="large"> </rendition>
                 <rendition id="blockquote"> </rendition>
                 <rendition id="header"> </rendition>
                 <tagUsage render="header" gi="head"> </tagUsage>
                 <tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage>
                 <tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage>
-            </tagsDecl>--><refsDecl n="CTS"><cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"><p>This pointer pattern extracts chapter and verse</p></cRefPattern><cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"><p>This pointer pattern extracts chapter</p></cRefPattern></refsDecl></encodingDesc><profileDesc><langUsage><language ident="grc">Greek</language><language ident="eng">English</language></langUsage></profileDesc><revisionDesc>
-        </revisionDesc></teiHeader><text xml:lang="grc"><body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.01-grc1"><pb n="403"/><head>ΕΥΑΓΓΕΛΙΟΝ ΤΟΥ ΚΥΡΙΟΥ</head><div type="textpart" subtype="book" n="Luke"><div type="textpart" subtype="chapter" n="3"><div type="textpart" subtype="verse" n="1"><p><milestone unit="para"/>
-    Ἐν ἔτει πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος [] 
+            </tagsDecl>-->
+	<refsDecl n="CTS">
+		<cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"><p>This pointer pattern extracts chapter and verse</p></cRefPattern>
+		<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"><p>This pointer pattern extracts chapter</p></cRefPattern>
+	</refsDecl>
+</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="grc">Greek</language>
+			<language ident="eng">English</language>
+		</langUsage>
+	</profileDesc>
+<revisionDesc>
+</revisionDesc>
+</teiHeader>
+<text xml:lang="grc">
+	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg003.01-01-grc1">
+<pb n="403"/>
+<head>ΕΥΑΓΓΕΛΙΟΝ ΤΟΥ ΚΥΡΙΟΥ</head>
+<div type="textpart" subtype="book" n="Luke">
+<div type="textpart" subtype="chapter" n="3">
+<div type="textpart" subtype="verse" n="1"><p>
+<milestone unit="para"/>
+	Ἐν ἔτει πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος [] 
 </p></div></div><div type="textpart" subtype="chapter" n="4"><div type="textpart" subtype="verse" n="31"><p>
 	ὁ θεὸς κατῆλθεν εἰς Καπερναοὺμ, 
 	πόλιν τῆς Γαλιλαίας, 
