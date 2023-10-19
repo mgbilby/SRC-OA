@@ -5,16 +5,9 @@
 <fileDesc>
 	<titleStmt>
 		<title type="work">Evangelion</title>
-		<author>Marcion of Sinope</author>
-		<editor>
-			<forename>Augustus</forename>
-			<surname>Hahn</surname>
-		</editor>
-		<editor>
-			<forename>Mark</forename>
-			<forename>Glen</forename>
-			<surname>Bilby</surname>
-		</editor>
+		<author ref="http://viaf.org/viaf/98032732">Marcion of Sinope</author>
+		<editor ref="http://viaf.org/viaf/22892333">August Hahn</editor>
+		<editor ref="https://orcid.org/0000-0003-0100-6634">Mark Glen Bilby</editor>
 		<sponsor>Perseus Project, Tufts University</sponsor>
 		<principal>Gregory Crane</principal>
 		<respStmt>
@@ -32,10 +25,7 @@
 	<sourceDesc>
 		<biblStruct>
 			<analytic>
-				<author>
-					<forename>Augustus</forename>
-					<surname>Hahn</surname>
-				</author>
+				<author ref="http://viaf.org/viaf/22892333">August Hahn</author>
 				<title level="a">Evangelium Marcionis ex Auctoritate Veterum Monumentorum</title>
 				<idno type="ARK">13960/t23b6zq5d</idno>
 				<ref target="https://n2t.net/ark:/13960/t23b6zq5d">https://n2t.net/ark:/13960/t23b6zq5d</ref>
