@@ -67,8 +67,6 @@
 			<language ident="eng">English</language>
 		</langUsage>
 	</profileDesc>
-<revisionDesc>
-</revisionDesc>
 </teiHeader>
 <text xml:lang="grc">
 	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg003.01-01-grc1">
@@ -169,7 +167,9 @@
 	Καὶ ἦν κηρύσσων ἐν ταῖς συναγωγαῖς τῆς Γαλιλαίας. 
 </p></div>
 <pb n="406"/>
-</div><div type="textpart" subtype="chapter" n="5"><div type="textpart" subtype="verse" n="1"><p><milestone unit="para"/>
+</div><div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="verse" n="1">
+<p><milestone unit="para"/>
 	Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ, 
 	καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρέτ· 
 </p></div><div type="textpart" subtype="verse" n="2"><p>
@@ -364,7 +364,7 @@
 	εὐθέως θέλει νέον· 
 	λέγει γάρ· 
 	ὁ παλαιὸς χρηστότερός ἐστιν. 
-</p></div>
+</p></div></div>
 <pb n="410"/>
 <div type="textpart" subtype="chapter" n="6"><div type="textpart" subtype="verse" n="1"><p><milestone unit="para"/>
 	Ἐγένετο δὲ ἐν σαββάτῳ δευτεροπρώτῳ διαπορεύεσθαι αὐτὸν διὰ τῶν σπορίμων· 
@@ -615,7 +615,9 @@
 	καὶ ἐγένετο τὸ ῥῆγμα τῆς οἰκίας ἐκείνης μέγα. 
 </p></div>
 <pb n="416"/> 
-</div><div type="textpart" subtype="chapter" n="7"><div type="textpart" subtype="verse" n="1"><p><milestone unit="para"/>
+</div><div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="verse" n="1">
+<p><milestone unit="para"/>
 	Ἐπεὶ δὲ ἐπλήρωσε πάντα τὰ ῥήματα αὐτοῦ εἰς τὰς ἀκοὰς τοῦ λαοῦ, 
 	εἰσῆλθεν εἰς Καπερναούμ. 
 </p></div><div type="textpart" subtype="verse" n="2"><p>
@@ -705,7 +707,8 @@
 	Καὶ ἐξῆλθεν ὁ λόγος οὗτος ἐν ὅλῃ τῇ Ἰουδαίᾳ περὶ αὐτοῦ, 
 	καὶ ἐν πάσῃ τῇ περιχώρῳ. 
 </p></div><div type="textpart" subtype="verse" n="18"><p>
-	Καὶ ἀπήγγειλαν Ἰωάννῃ οἱ μαθηταὶ αὐτοῦ περὶ πάντων τούτων. Καὶ προσκαλεσάμενος δύο τινὰς τῶν μαθητῶν αὐτοῦ ὁ Ἰωάννης, 
+	Καὶ ἀπήγγειλαν Ἰωάννῃ οἱ μαθηταὶ αὐτοῦ περὶ πάντων τούτων. 
+	Καὶ προσκαλεσάμενος δύο τινὰς τῶν μαθητῶν αὐτοῦ ὁ Ἰωάννης, 
 </p></div><div type="textpart" subtype="verse" n="19"><p>
 	ἔπεμψεν πρὸς τὸν Ἰησοῦν, 
 	λέγων· 
@@ -849,7 +852,7 @@
 	Εἶπε δὲ πρὸς τὴν γυναῖκα· 
 	ἡ πίστις σου σέσωκέ σε· 
 	πορεύου εἰς εἰρήνην. 
-</p></div>
+</p></div></div>
 <pb n="420"/>
 <div type="textpart" subtype="chapter" n="8"><milestone unit="para"/><div type="textpart" subtype="verse" n="1"><p>
 	Καὶ ἐγένετο ἐν τῷ καθεξῆς, 
@@ -2596,7 +2599,11 @@
 	εἰ Μωσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, 
 	οὐδὲ ἐάν τις ἐκ νεκρῶν ἀναστῇ, 
 	πεισθήσονται. 
-</p></div></div><pb n="456"/><div type="textpart" subtype="chapter" n="17"><milestone unit="para"/><div type="textpart" subtype="verse" n="1"><p>
+</p></div></div>
+<pb n="456"/>
+<div type="textpart" subtype="chapter" n="17">
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1"><p>
 	Εἶπε δὲ πρὸς τοὺς μαθητάς· 
 	ἀνένδεκτόν ἐστι μὴ ἐλθεῖν τὰ σκάνδαλα· 
 	οὐαὶ δὲ, 
@@ -2648,11 +2655,15 @@
 	πορευθέντες ἐπιδείξατε ἑαυτοὺς τοῖς ἱερεῦσι. 
 	Καὶ ἐγένετο ἐν τῷ ὑπάγειν αὐτοὺς, 
 	ἐκαθαρίσθησαν. 
-</p></div><div type="textpart" subtype="chapter" n="4"><div type="textpart" subtype="verse" n="27"><p>
+</p></div>
+</div><div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="verse" n="27"><p>
 	Καὶ πολλοὶ λεπροὶ ἦσαν ἐπὶ Ἐλισσαίου τοῦ προφήτου ἐν τῷ Ἰσραήλ· 
 	καὶ οὐδεὶς αὐτῶν ἐκαθαρίσθη, 
 	εἰ μὴ Νεεμὰν ὁ Σύρος. 
-</p></div></div><div type="textpart" subtype="chapter" n="17"><div type="textpart" subtype="verse" n="15"><p>
+</p></div>
+</div><div type="textpart" subtype="chapter" n="17">
+<div type="textpart" subtype="verse" n="15"><p>
 	Εἷς δὲ ἐξ αὐτῶν, 
 	ἰδὼν ὅτι ἰάθη, 
 	ὑπέστρεψε, 
@@ -3818,7 +3829,10 @@
 </p></div><div type="textpart" subtype="verse" n="56"><p>
 	Ὑποστρέψασαι δὲ ἡτοίμασαν ἀρώματα καὶ μύρα· 
 	καὶ τὸ μὲν σάββατον ἡσύχασαν κατὰ τὴν ἐντολήν. 
-</p></div></div><div type="textpart" subtype="chapter" n="24"><milestone unit="para"/><div type="textpart" subtype="verse" n="1"><p>
+</p></div>
+</div><div type="textpart" subtype="chapter" n="24">
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1"><p>
 	Τῇ δὲ μιᾷ τῶν σαββάτων, 
 	ὄρθρου βαθέος, 
 	ἦλθον ἐπὶ τὸ μνῆμα, 
