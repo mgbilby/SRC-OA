@@ -5,8 +5,8 @@
 <fileDesc> 
 	<titleStmt> 
 		<title type="work">Evangelion</title> 
-		<author ref="http://viaf.org/viaf/98032732">Marcion of Sinope</author> 
-		<editor ref="http://viaf.org/viaf/22892333">August Hahn</editor> 
+		<author ref="https://viaf.org/viaf/98032732">Marcion of Sinope</author> 
+		<editor ref="https://viaf.org/viaf/22892333">August Hahn</editor> 
 		<editor ref="https://orcid.org/0000-0003-0100-6634">Mark Glen Bilby</editor> 
 		<sponsor>Perseus Project, Tufts University</sponsor> 
 		<principal>Gregory Crane</principal> 
@@ -25,7 +25,7 @@
 	<sourceDesc> 
 		<biblStruct> 
 			<analytic> 
-				<author ref="http://viaf.org/viaf/22892333">August Hahn</author> 
+				<author ref="https://viaf.org/viaf/22892333">August Hahn</author> 
 				<title level="a">Evangelium Marcionis ex Auctoritate Veterum Monumentorum</title> 
 				<idno type="ARK">13960/t23b6zq5d</idno> 
 				<ref target="https://n2t.net/ark:/13960/t23b6zq5d">https://n2t.net/ark:/13960/t23b6zq5d</ref> 
@@ -1835,4 +1835,5 @@
 <div type="textpart" subtype="verse" n="46"> 
 <p>Ὅτι οὕτως ἔδει παθεῖν τὸν Χριστὸν, καὶ ἀναστῆναι ἐκ νεκρῶν τῇ τρίτῃ ἡμέρᾳ,</p></div> 
 <div type="textpart" subtype="verse" n="47"> 
-<p>Καὶ κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν καὶ ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη.</p></div></div></div></div></body></text></TEI> 
+<p>Καὶ κηρυχθῆναι ἐπὶ τῷ ὀνόματι αὐτοῦ μετάνοιαν καὶ ἄφεσιν ἁμαρτιῶν εἰς πάντα τὰ ἔθνη.</p></div>
+</div></div></div></body></text></TEI> 

@@ -5,10 +5,10 @@
  <fileDesc> 
  <titleStmt> 
  <title type="work">Apostolos</title> 
- <author ref="http://viaf.org/viaf/98032732">Marcion of Sinope</author> 
- <editor ref="http://viaf.org/viaf/59890715">Willem Christiaan van Manen</editor> 
-				<editor ref="https://orcid.org/0000-0003-0100-6634">Mark Glen Bilby</editor>		 
-				<sponsor>Perseus Project, Tufts University</sponsor> 
+ <author ref="https://viaf.org/viaf/98032732">Marcion of Sinope</author> 
+ <editor ref="https://viaf.org/viaf/59890715">Willem Christiaan van Manen</editor> 
+ <editor ref="https://orcid.org/0000-0003-0100-6634">Mark Glen Bilby</editor>		 
+ <sponsor>Perseus Project, Tufts University</sponsor> 
  <principal>Gregory Crane</principal> 
  <respStmt> 
  <resp>Prepared under the supervision of</resp> 
@@ -27,7 +27,7 @@
  <sourceDesc> 
  <biblStruct> 
 					<analytic> 
-					<author ref="http://viaf.org/viaf/59890715">Willem Christiaan van Manen</author> 
+					<author ref="https://viaf.org/viaf/59890715">Willem Christiaan van Manen</author> 
 					<title level="a">Marcion's brief van Paulus aan de Galatiërs</title> 
 					<idno type="ARK">13960/s28vzsvnnq4</idno> 
 					<ref target="https://n2t.net/ark:/13960/s28vzsvnnq4">https://n2t.net/ark:/13960/s28vzsvnnq4</ref> 

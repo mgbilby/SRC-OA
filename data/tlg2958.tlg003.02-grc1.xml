@@ -5,8 +5,8 @@
 <fileDesc> 
 	<titleStmt> 
 		<title type="work">Evangelion</title> 
-		<author ref="http://viaf.org/viaf/98032732">Marcion of Sinope</author> 
-		<editor ref="http://viaf.org/viaf/22941633">Theodor Zahn</editor> 
+		<author ref="https://viaf.org/viaf/98032732">Marcion of Sinope</author> 
+		<editor ref="https://viaf.org/viaf/22941633">Theodor Zahn</editor> 
 		<editor ref="https://orcid.org/0000-0003-0100-6634">Mark Glen Bilby</editor> 
 		<sponsor>Perseus Project, Tufts University</sponsor> 
 		<principal>Gregory Crane</principal> 
@@ -25,7 +25,7 @@
 	<sourceDesc> 
 		<biblStruct> 
 			<analytic> 
-				<author ref="http://viaf.org/viaf/22941633">Theodor Zahn</author> 
+				<author ref="https://viaf.org/viaf/22941633">Theodor Zahn</author> 
 				<title level="a">Geschichte des neutestamentlichen Kanons</title> 
 				<idno type="ARK">13960/t8cf9s958</idno> 
 				<ref target="https://n2t.net/ark:/13960/t8cf9s958">https://n2t.net/ark:/13960/t8cf9s958</ref> 
