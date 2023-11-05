@@ -1,0 +1,1481 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<teiHeader xml:lang="eng"> 
+<fileDesc> 
+	<titleStmt> 
+		<title type="work">Evangelion</title> 
+		<author ref="https://viaf.org/viaf/98032732">Marcion of Sinope</author> 
+		<editor ref="http://viaf.org/viaf/114145752">Kenji Tsutsui</editor> 
+		<editor ref="http://viaf.org/viaf/307315499">Mark Glen Bilby</editor> 
+		<sponsor>Perseus Project, Tufts University</sponsor> 
+		<principal>Gregory Crane</principal> 
+		<respStmt> 
+			<resp>Prepared under the supervision of</resp> 
+				<name>Lisa Cerrato</name> 
+				<name>Alison Babeu</name> 
+		</respStmt> 
+		<funder n="org:Tufts">Tufts University</funder> 
+	</titleStmt> 
+	<publicationStmt> 
+		<publisher>Trustees of Tufts University</publisher> 
+		<pubPlace>Medford, MA</pubPlace> 
+		<authority>Perseus Project</authority> 
+	</publicationStmt> 
+	<sourceDesc> 
+		<biblStruct> 
+			<analytic> 
+				<author ref="http://viaf.org/viaf/114145752">Kenji Tsutsui</author> 
+				<title level="a">DAS EVANGELIUM MARCIONS: Ein neuer Versuch der Textrekonstruktion</title>
+			</analytic> 
+			<monogr> 
+				<title level="j">Annual of the Japanese Biblical Institute</title> 
+				<idno type="LC">sn84011971</idno>
+				<imprint> 
+					<pubPlace>Tokyo</pubPlace> 
+					<publisher>Tamamoto Shoten</publisher> 
+					<date>1992</date> 
+				</imprint> 
+				<biblScope unit="volume">18</biblScope>
+				<biblScope unit="page">67-132</biblScope> 
+			</monogr> 
+		</biblStruct> 
+	</sourceDesc> 
+</fileDesc> 
+<encodingDesc> 
+			<!--<tagsDecl> 
+ <rendition id="large"> </rendition> 
+ <rendition id="blockquote"> </rendition> 
+ <rendition id="header"> </rendition> 
+ <tagUsage render="header" gi="head"> </tagUsage> 
+ <tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage> 
+ <tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage> 
+ </tagsDecl>--> 
+	<refsDecl n="CTS"> 
+		<cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"><p>This pointer pattern extracts chapter and verse</p></cRefPattern> 
+		<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"><p>This pointer pattern extracts chapter</p></cRefPattern> 
+	</refsDecl> 
+</encodingDesc> 
+	<profileDesc> 
+		<langUsage> 
+			<language ident="grc">Greek</language> 
+			<language ident="eng">English</language> 
+		</langUsage> 
+	</profileDesc> 
+</teiHeader> 
+<text xml:lang="grc"> 
+	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.04-lat1"> 
+
+<div type="textpart" subtype="book" n="Luke"> 
+<pb n="77"/>
+<head>Evangelium</head>
+<div type="textpart" subtype="chapter" n="3"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>Anno quintodecimo Tiberii Caesaris</p></div>
+</div><div type="textpart" subtype="chapter" n="4"> 
+<div type="textpart" subtype="verse" n="31a">
+<p>(descendit [Christus Iesus] de caelo in [Capharnaum civitatem Galilaeae]) (statim venit in synagogam ad docendum).</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>Stupebant autem omnes ad doctrinam eius, quoniam in potestate erat sermo eius.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="33">
+<p>(spiritus daemonis exclamavit).</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>Quid nobis et tibi est, Iesu? Venisti perdere nos. Scio qui sis, sanctus dei.</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>(increpuit illum Iesus).</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="16">
+<p>(apud Nazareth)</p></div>
+<div type="textpart" subtype="verse" n="23a">
+<p>(unum proverbium).</p></div>
+<pb n="78"/>
+<div type="textpart" subtype="verse" n="28">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>(eiectus) (ad praecipitium usque),</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>(per medios evasit).</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>(daemonia excedebant vociferantes), Tu es filius dei. (increpabantur et iubebantur tacere).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="42">
+<p>(in solitudinem) (detentes a turbis).</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>() Oportet me et aliis civitatibus annuntiare regnum dei.</p></div>
+</div><div type="textpart" subtype="chapter" n="5"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>Simon</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>filii Zebedaei () dixit (), Ne time, abhinc enim homines eris capiens.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>(relictis naviculis) secuti sunt eum.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>() leprosus ()</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() tetigit ()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(vetuit divulgare), Vade ostende te sacerdoti, et offer munus quod praecepit Moyses, ut sit vobis in testimonium.</p></div>
+<pb n="79"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() paralyticus ()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>(), Quis [potest peccata dimittere] nisi solus deus?</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="24a">
+<p>() [filius hominis potestatem habet dimittendi peccata]</p></div>
+<div type="textpart" subtype="verse" n="24b">
+<p>() Exsurge, et tolle grabatum tuum.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="27">
+<p>() publicanus ()</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>(), (medicum sanis non esse necessarium sed male habentibus).</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>(discipuli Iohannis assidue ieiunant et orant) () (discipuli Christi manducant et bibunt)</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>(non possunt ieiunare filii sponsi quamdiu cum eis esset sponsus).</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>(vero ieiunaturi cum ablatus ab eis sponsus esset).</p></div>
+<div type="textpart" subtype="verse" n="36a">
+<p>() similitudo ()</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>(vinum novum non committit in veteres utres)</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="36b">
+<p>(additamentum 
+<pb n="80"/>panni [rudis] nemo inicit veteri vestimento).</p></div>
+</div><div type="textpart" subtype="chapter" n="6"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>() sabbato () (discipuli eius spicas decerptas efflixerant manibus),</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>() pharisaei ()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>() David ()</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>(introgressus sabbatis templum fractis panibus propositionis) ().</p></div>
+<pb n="81"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="6">
+<p>() [sabbato] () manus () arida ().</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>Observabant () pharisaei, si sabbati (medicinas ageret), ut accusarent eum ().</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>(interrogat), Licetne sabbatis benefacere an non, animam liberare an perdere?</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>() (dominus sabbati dictus).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="12">
+<p>(ascendit in montem et pernoctavit in oratione ad patrem).</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() elegit () duodecim () apostolos ().</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(mutat et Petro nomen de Simone).</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>() (conveniunt a Tyro et ex aliis regionibus multitudo etiam transmarina).</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<pb n="82"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="20">
+<p>() () Beati [mendici], quoniam illorum est regnum dei.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>Beati esurientes, quoniam saturabuntur. Beati plorantes, quia ridebunt.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>Beati eritis cum vos odio habebunt homines et exprobrabunt et eicient nomen vestrum velut nequam propter filium hominis.</p></div>
+<div type="textpart" subtype="verse" n="23">
+<pb n="83"/>
+<p>Secundum haec faciebant prophetis patres eorum.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>Vae divitibus, quoniam recepistis advocationem vestram.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>Vae saturatis, quia esurietis. Vae ridentibus nunc, quia lugebitis.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>Vae cum vobis benedixerint homines. Secundum haec faciebant et pseudoprophetis patres illorum.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="27">
+<p>Sed vobis dico qui auditis, diligite inimicos vestros</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>et benedicite eos qui vos oderunt et orate pro eis qui vos calumniantur. () oculum pro oculu et dentem pro dente ().</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>(paenitentiae pondus) () (non modo non repercutiendi sed et aliam maxillam praebendi, 
+<pb n="84"/>et non modo non retinendi tunicam sed et amplius et pallium concedendi).</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>Omni petenti te dato.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>Et sicut vobis fieri vultis ab hominis, ita et vos facite illis.</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>Et si feneraveritis a quibus superatis vos recepturos, quae gratia est vobis?</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>() et eritis filii dei, quia ipse suavis est adversus ingratos et malos.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>Estote misericordes, sicut pater vester misertus est vestri.</p></div>
+<pb n="85"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="37">
+<p>() Nolite iudicare ne iudicemini, nolite condemnare ne condemnemini. Dimittite et dimittemini.</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>Date et dabitur vobis. Mensuram bonam pressam ac fluentem dabunt in sinum vestrum. Eadem qua mensi eritis mensura remitietur vobis.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>(caecus caecum ducit in foveam).</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>Non est discipulus super magistrum.</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>(eximat de oculo suo trabem) () (tunc in oculo [fratris tui] stipulam revincat).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="43">
+<p>(arbor bona non profert malum fructum nec mala bonum).</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>(nec) () (aliquid boni de thesauro malo protulit).</p></div>
+<pb n="86"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="46">
+<p>Quid [vocatis] domine domine et non facitis quae dico?</p></div>
+</div><div type="textpart" subtype="chapter" n="7"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>() (talem se fidem nec in Israele invenisse).</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="11">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>(mortuum filium viduae)</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(resuscitavit).</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>() dicentes, Magnus prophetes prodiit in nobis et respexit deus populum suum.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>(sed scandalizabatur Ioannes auditis virtutibus Christi) ().</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>() Tu es qui venis an alium expectamus?</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>() Quid existis videre in solitudinem?</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>() propheten, immo et supra 
+<pb n="87"/>ut angelum.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>(ingerens etiam scriptum super illo), Ecce ego mitto angelum meum ante faciem tuam qui praeparabit viam tuam.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>(Ioannes) (maior quidem omnibus natis mulierum sed subiectus ei qui minor fuerit in regno dei).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="36">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>() femina () peccatrix () unguentum ().</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>() (pedes domini osculis figebat lacrimis inundabat crinibus detergebat unguento perducebat).</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="50">
+<p>() Fides tua te salvam fecit.</p></div>
+</div><pb n="88"/>
+<div type="textpart" subtype="chapter" n="8"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="2">
+<p>() mulieres ()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>(et uxor regis procuratoris) quae et ministrabant ei de facultatibus suis.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="4">
+<p>() [parabola] ()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() qui habet aures audiat.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>Videte quomodo audiatis. Ei qui habet dabitur, ab eo autem qui non habet etiam quod habere se putat auferetur ei.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>(lucernam negat abscondi solere).</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>(omnia de occulto in apertum).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="20">
+<p>(annuntiatus est illi) quod mater et fratres [tui] foris stant quarentes videre [te].</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>(), Quae mihi mater et qui mihi fratres, nisi qui audiunt verba mea et faciunt ea?</p></div>
+<pb n="89"/>
+<div type="textpart" subtype="verse" n="22">
+<p>() transfretemus ().</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>(), Quis iste est qui et ventis et mari imperat ()?</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="26">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() daemones ()</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>(), Iesu filii dei ().</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>() legio ().</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>(depetebant veniam) () abyssum ().</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>(denique impetraverunt).</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>() femina () (quae sanguine fluitabat) ()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>() tetigit vestimentum eius ().</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>(), Quis me tetigit? (excusantibus discipulis).</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>(), Tetigit me aliquis, sensi enim virtutem ex me profectam.</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>() Fides tua te salvam fecit.</p></div>
+</div><pb n="90"/>
+<div type="textpart" subtype="chapter" n="9"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>(dimittit discipulos ad praedicandum dei regnum) ().</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>(prohibet eos victui aut vestitui quid in viam ferre).</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>(in eos a quibus excepti non fuissent) (), pulverem de pedibus () excutite () in testimonium.</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>() Herodes () Ioannes ()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>(), Helias () (unus aliquis ex veteribus prophetis suscitatus est).</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="12">
+<p>() in solitudine ().</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() (panis et piscis) ().</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>() circiter viri quinque milia ().</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>() (exuberare) ().</p></div>
+<pb n="91"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="18">
+<p>() interrogavit (), (quisnam videor) ().</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() Petrus () respondit, Tu es Christus.</p></div>
+<pb n="92"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="21">
+<p>Ille autem () praecepit ne cui hoc dicerent.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>() oportet filium hominis multa pati et reprobari a presbyteris et scribis et sacerdotibus et interfici et post tertium diem resurgere.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>Qui voluerit animam suam salvam facere perdet illam, et qui perdiderit eam propter me salvam faciet eam.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>Qui confusus mei fuerit, et ego 
+<pb n="93"/>confundar eius.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="28">
+<p>() (tres de discentibus) () (in montem secedit).</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>(vestitus eius refulsit).</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>() (cum illis loqui)</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>(in claritatis praerogativa).</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>() Petrus () (stantes)</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>() (discesserunt) (), Bonum est nos hic esse, et faciamus hic tria tabernacula, unum tibi et Moysi unum et Heliae unum, nesciens quid diceret.</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>() nubes () obumbravit (),</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>(vox de [caelo]), Hic est filius meus dilectus, hunc audite.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>()</p></div>
+<pb n="94"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="37">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>(), O genitura incredula, quousque ero apud vos, quousque sustinebo vos? ()</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="43a">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="46">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>() (Christus diligit parvulos tales esse docens debere qui semper maiores velint esse) ().</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="51">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="52">
+<p>() (viculum Samaritarum) ().</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="54">
+<p>(repraesentat creator ignium plagam Helia postulante in illo pseudopropheta).</p></div>
+<div type="textpart" subtype="verse" n="55">
+<p>(agnosco iudicis severitatem, e contrario Christi lenitatem increpantis eandem animadversionem destinantes discipulos super illum viculum Samaritarum).</p></div>
+<div type="textpart" subtype="verse" n="56">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="57">
+<p>() Sequar te quocunque ieris.</p></div>
+<div type="textpart" subtype="verse" n="58">
+<p>(humanissimus deus cur recusat eum).</p></div>
+<div type="textpart" subtype="verse" n="59">
+<p>(illi autem causato patris sepulturam).</p></div>
+<div type="textpart" subtype="verse" n="60">
+<p>() Sine mortui 
+<pb n="95"/>sepeliant mortuos suos, tu autem vade et annuntia regnum dei.</p></div>
+<div type="textpart" subtype="verse" n="61">
+<p>(tertium illum prius suis valedicere parantem)</p></div>
+<div type="textpart" subtype="verse" n="62">
+<p>(prohibet retro respectare).</p></div>
+</div><div type="textpart" subtype="chapter" n="10"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>() adlegit et alios septuaginta apostolos super duodecim ().</p></div>
+<pb n="96"/>
+<div type="textpart" subtype="verse" n="4">
+<p>(virgam) () (calciamenta portare vetuit) () neminem per viam salutaveritis.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>(in quam introisset domum pacem ei dicere).</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>() dignus () operarius mercede sua.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>() (medicina) () (regnum dei) (iubet annuntiari appropinquasse).</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>(ut eis qui illos non recepissent diceret),</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>(pulverem iubet excuti in illos in testificationem, et haerentia terrae eorum), scitote tamen appropinquasse regnum dei.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="16">
+<p>(), qui vos spernit me spernit ().</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>(dat potestatem calcandi super colubros et scorpios).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="21">
+<p>() Gratias ago et confiteor, domine caeli, quod ea quae erant abscondita sapientibus et prudentibus revelaveris parvulis ().</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>omnia 
+<pb n="97"/>mihi tradita [sunt] a patre. Nemo scit qui sit pater nisi filius, et qui sit filius nisi pater et cuicunque filius revelaverit.</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>Beati oculi qui vident quae videtis.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>Dico enim vobis quia prophetae non viderunt quae vos videtis.</p></div>
+<pb n="98"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="25">
+<p>() legis doctor (), Quid faciens vitam consequar?</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>(dominus respondit) () in lege ().</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>(), Diliges dominum deum tuum ex toto corde tuo et ex tota anima tua et totis viribus tuis.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>()</p></div>
+</div><pb n="99"/>
+<div type="textpart" subtype="chapter" n="11"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>(cum in quodam loco orasset) () quidam ex discipulis (), Domine, doce nos orare, sicut et Ioannes discipulos suos docuit.</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>() Pater, [veniat] spiritus sanctus. Veniat regnum tuum.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>Panem () cotidianum da.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>() Dimitte delicta (). Ne sinas nos deduci in temptationem.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>(similitudo) () (amicus) () (nocturnus panis petitor).</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>() (ad eum pulsat) () (cuius ianuam norat) (). (cubantem iam cum 
+<pb n="100"/>infantibus) ().</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>(is et exsurgit et dat etsi iam non quasi amico) () (sed quasi molesto).</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>() petite (ut accipies), quaerite (ut invenias), pulsate (ut aperiatur vobis).</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>(non serpentem pro pisce) (),</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>(nec scorpium pro ovo).</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>(et spiritum sanctum is dabit apud quem est et non sanctus) ().</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="14">
+<p>(cum surdum daemonium expulisset),</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>() in Beelzebub () eicit daemonia ().</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>(non posse satanam dividi adversus semetipsum).</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>Si ego in Beelzebub eicio daemonia, filii vestri in quo eiciunt?</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>Quodsi ego in digito dei expello daemonia, ergone appropinquavit in vos regnum dei.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>(parabola fortis illius armati,)</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>(quem validior alius oppresit,) () (superasse) () (validior).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="27">
+<p>() (exclamat) () mulier de turba (), beatus uterus qui te portavit et ubera quae.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>(), Immo beati qui sermonem dei audiunt et faciunt.</p></div>
+<pb n="101"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="29">
+<p>() (ipse signum petentibus non dat).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="33">
+<p>(negat lucernam abstrudendam sed confirmat super candelabrum proponendam ut omnibus luceat).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="37">
+<p>() (pharisaeus, qui illum vocaret ad prandium)</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>(retractabat penes se cur non prius tinctus esset quam recubuisset).</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>(), Exteriora calicis lavatis, interiora autem vestra non emundatis.</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>() Nonne qui exteriora fecit et interiora fecit?</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>() Date quae habetis eleemosynam, et omnia munda erunt vobis.</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>() Vae vobis pharisaeis () (mentam) () (rutam) () (holuscula decimantes, vocationem et dilectionem dei praetereuntes).</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>() Vae vobis pharisaeis () (primatum captentes locorum et honorem salutationum incusat).</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>() Vobis doctoribus legis vae () oneratis alios importabilibus oneribus (quae ipsi ne digito quidem aggredi audetis).</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>Vae [vobis] (quod aedificarent prophetis monimenta interemptis a patribus eorum).</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>(se non consentire factis patrum).</p></div>
+<pb n="102"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="52">
+<p>Vae vobis doctoribus legis () clavem agnitionis () (neque ipsi adibant, neque alios admittebant).</p></div>
+</div><div type="textpart" subtype="chapter" n="12"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>() (discipulis) (), Cavete a fermento pharisaeorum, quod est hypocrisis.</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>Nihil autem opertum quod non patefiet, et nihil absconditum quod non dinoscetur.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>(quae inter se mussitarent vel tractarent) () (in ore hominum futura).</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>Dico autem vobis amicis, nolite terreri ab eis qui vos solummodo occidere possunt nec post hoc ullam in vobis habent potestatem.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>Demonstrabo autem vobis quem timeatis. Timete eum qui postquam occiderit potestatem habet mittendi in gehennam. Itaque 
+<pb n="103"/>dico vobis, hunc timete.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>Dico enim vobis, omnis qui confitebitur in me coram hominibus, confitebor in illo coram deo.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>Et omnis qui negaverit me coram hominibus denegabitur coram deo.</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>Qui dixerit in filium hominis remittetur illi, qui autem dixerit in spiritum sanctum non remittetur ei.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>(perductos ad potestates prohibet ad interrogationem cogitare de responsione).</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>Sanctus enim spiritus docebit vos ipse hora quid eloqui debeatis.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="13">
+<p>() quidam () (postulat inter illum et fratrem ipsius de dividunda haereditate).</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(), Quis me iudicem constituit super vos?</p></div>
+<pb n="104"/>
+<div type="textpart" subtype="verse" n="16">
+<p>() parabola () (dives blandiens sibi de proventu agrorum suorum).</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>dixit () illi deus, Stulte, hac nocte animam tuam reposcent. Quae autem parasti cuius erunt?</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="22">
+<p>(non vult curam nos agere animae de victu et corpori de vestitu).</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>(substantia ipsius animae) () (potior esca et materia ipsius corporis) () (potior tunica).</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>() corvi () non serunt nec metunt nec in apothecas condunt (et tamen aluntur ab ipso).</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() lilia () non texunt nec nent, et Salomon gloriosissimus (nec ullo tamen flosculo cultior)</p></div>
+<div type="textpart" subtype="verse" n="28a">
+<p>() foenum () (et tamen vestiuntur ab ipso)</p></div>
+<div type="textpart" subtype="verse" n="28b">
+<p>(ut crederent haec illum ultro generi humano subministrare, nec de eis cogitarent) (illos modicae fidei incusat).</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>Haec enim nationes 
+<pb n="105"/>mundi quaerunt. Scit autem pater opus esse haec vobis.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>Quaerite regnum dei, et haec vobis adicientur.</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>(servi) () (succingere debemus lumbos lucernas ardentes habere),</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="36">
+<p>(expectare dominum redeuntem a nuptiis).</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>(fur) () (cuius horae si pater familiae sciret non sineret suffodi domum suam).</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>() (filius hominis qui quando venturus sit ignoremus).</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>(Petrus interrogavit in illos an et in omnes parabolam dixisset).</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>(actores) () (quorum qui bene tractaverit conservos).</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>() (reverso eo) ()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>() (omnibus bonis praeponetur)</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>(qui vero secus egerit)</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>(reverso domino qua die non putaverit hora qua non scierit segregabitur et pars 
+<pb n="106"/>eius cum infidelibus ponetur).</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>(caedens servos multis plagis)</p></div>
+<div type="textpart" subtype="verse" n="48a">
+<p>(aut paucis plagis)</p></div>
+<div type="textpart" subtype="verse" n="48b">
+<p>(prout commisit illis ita et exigit ab eis).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="49">
+<p>Ignem veni mittere in terram.</p></div>
+<div type="textpart" subtype="verse" n="51">
+<p>Putatis venisse me 
+<pb n="107"/>pacem mittere in terram? Non, dico vobis, sed separationem.</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>Dividetur pater in filium et filius in patrem, et mater in filiam et filia in matrem, et nurus in socrum et socrus in nurum.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="56">
+<p>Hypocritae, (caeli quidem et terrae faciem probantes, tempus vero illud non dinoscentes).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="57">
+<p>(exprobrat quod iustum non a semetipsis iudicarent).</p></div>
+<div type="textpart" subtype="verse" n="58">
+<p>(), (iudex) (mittit in carcerem).</p></div>
+<div type="textpart" subtype="verse" n="59">
+<p>(nec ducit inde nisi soluto etiam novissimo quadrante).</p></div>
+</div><div type="textpart" subtype="chapter" n="13"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="10">
+<p>(sabbato)</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>(facta curatio).</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>() Unusquisque vestrum sabbatis non solvit asinum aut bovem suum a praesepi et ducit ad potum?</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="18">
+<p>() Simile est regnum dei</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>grano sinapis, quod accepit homo et 
+<pb n="108"/>seminavit in horto suo ().</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() (simile est regnum dei)</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>fermento ().</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>Cum surrexerit pater familiae et cluserit ostium, (quibus pulsantibus) respondebit, Nescio unde sitis.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>(enumerantibus quod coram illo ederint et biberint et in plateis eorum docuerit).</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>(), Recedite a me omnes operarii iniquitatis.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>Illic erit fletus et frendor dentium, cum videbitis iustos introeuntes in regnum dei, vos vero detineri foris.</p></div>
+</div><pb n="109"/>
+<div type="textpart" subtype="chapter" n="14"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="12">
+<p>() (ad prandium vel ad coenam quales vocari iubet).</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(humanitatis vicem Christus captari vetat in resurrectione eam repromittens).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="16">
+<p>() Homo quidam fecit coenam et vocavit multos.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>(is mittit) () (ad ante vocatos),</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>(excusant se invitati) (), agrum emi (),</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>() (boves mercatus sum) (),</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() uxorem duxi ().</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>(hoc ut patrifamiliae renuntiatum est) (motus) () (mandat de plateis et vicis civitatis facere sublectionem).</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>(loco abundante),</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>(praecepit etiam de viis et sepibus colligi),</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>(illos gustaturos negat dominus).</p></div>
+</div><pb n="110"/>
+<div type="textpart" subtype="chapter" n="15"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="3">
+<p>() parabola ()</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>(ovis) (perdita) () (habuit) () (perdidit) (requisivit),</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>() (invenit) () (exultavit) ().</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>(exultare illius est de paenitentiae peccatoris).</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() (dragma perdita) ().</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>()</p></div>
+</div><div type="textpart" subtype="chapter" n="16"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>(servi illius exemplum)</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>(qui ab actu summotus)</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>(dominicos debitores deminutis cautionibus relevat in subsidium sibi).</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>Et ego dico vobis, facite vobis amicos de mammona iniustitiae.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>Si in mammona iniusto fideles non extitistis, quod verum est quis vobis 
+<pb n="111"/>credet?</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>Et si in alieno fideles inventi non estis, meum quis dabit vobis?</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>(duobus dominis negat posse serviri, quia alterum offendi est necesse alterum defendi). Non potestis deo servire et mammonae.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(pharisaei pecuniae cupidi irridebant),</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>() (iustificantes se coram hominibus), Scit autem deus corda vestra. Quod elatum est apud homines perosum est deo.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>Lex et prophetae usque ad Ioannem, ex quo regnum dei annuntiatur ().</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>(transit caelum et terra citius) quam unus apex verborum [meorum].</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>Qui dimiserit uxorem suam et aliam duxerit adulterium committit, qui dimissam a viro duxerit aeque adulter est.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="19">
+<p>() dives ()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() pauper ()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>() sinus Abrahae ()</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>(inferi) 
+<pb n="112"/>(adlevavit oculos) () de longinquo () in sinu (Abrahae) ().</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>() (refrigerium) (tormentum).</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>(magnum intercidit regiones istas 
+<pb n="113"/>profundum et transitum utrinque prohibet).</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>() Habent illic Moysen et prophetas, illos audiant.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>()</p></div>
+</div><div type="textpart" subtype="chapter" n="17"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>() ad discipulos (), Vae (auctori scandalorum).</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>Expediebat ei si natus non fuisset aut (si molino saxo ad collum deligato praecipitatus esset in profundum quam unum ex illis modicis scandalizasset).</p></div>
+<div type="textpart" subtype="verse" n="3b">
+<p>(peccantem fratrem iubet corripi).</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>(veniam des fratri in te 
+<pb n="114"/>delinquenti iubet etiam septies).</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>() (in Samariae regionibus) ().</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>() decem leprosi ().</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>() (praecepit), ite ostendite vos sacerdotibus, () (in itinere purgavit).</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>(unus ex decem solutus gratiam deo reddidit),</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>() Samarites,</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>(gloriam deo reddens).</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>(), Fides tua te salvum fecit.</p></div>
+</div><div type="textpart" subtype="chapter" n="4"> 
+<div type="textpart" subtype="verse" n="27">
+<p>(multi leprosi erant apud Israelem in diebus Helisaei prophetae et nemo eorum purgatus est nisi Naaman Syrus).</p></div>
+</div><div type="textpart" subtype="chapter" n="17"> 
+<pb n="115"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="20">
+<p>(pharisaei de dei regno consuluerunt dominum, quando venturum sit). (), Non venit regnum dei cum observatione,</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>nec dicunt, ecce hic ecce illic. Ecce enim regnum dei intra vos est.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>(dicens filium hominis ante multa pati et reprobari oportere).</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>() (dies Loth) ()</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>().</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>() (dies Noah) ()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>().</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>(admonet meminisse uxoris Loth).</p></div>
+</div><div type="textpart" subtype="chapter" n="18"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>(parabolam ponit orandi perseverantiam et instantiam mandans).</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>() (iudex)</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>(coactus audire viduam).</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>(deus facturus vindictam electorum suorum clamantium ad eum die et nocte).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="9">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>(duo adorantes) () (templum) (), phariseus () publicanus.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(alter reprobatus), (alter iustificatus descenderunt).</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>interrogavit quidam (), Praeceptor optime, quid faciens vitam 
+<pb n="116"/>aeternam possidebo?</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>(), Quis optimus nisi unus deus?</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>(expostulavit), preacepta scis, (non occidendi, non adulterandi, non furandi, non falsum testandi, diligendi patrem et matrem)?</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>(), observavi ab adulescentia.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>(), Unum tibi deest. Omnia quaecunque habes vende et da pauperibus, et habebis thesaurum in caelo, et veni 
+<pb n="117"/>sequere me.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="35">
+<p>() caecus ()</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>() (cum praetereuntem Iesum audisset) ()</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>(), exclamavit (), Iesu fili David, miserere mei.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>() (antecedentes 
+<pb n="118"/>increpabant caecum uti taceret).</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>(), Fides tua te salvum fecit.</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>() et omnis populus laudes referebat deo.</p></div>
+</div><div type="textpart" subtype="chapter" n="19"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="2">
+<p>() Zachaeus ()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>(domo sua exceptum pascens dominum).</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() (dimidium substantiae offerens) et si cui quid per calumniam eripui, quadruplum reddo.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>(), Hodie salus huic domui ().</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>Venit enim filius hominis salvum facere quod periit.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="11">
+<p>() parabola ()</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>(servi)</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>(qui secundum 
+<pb n="119"/>rationem fereratae pecuniae dominicae diiudicantur).</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>() austerus ()</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>() (tollens quod non posuerit et metentem quod non severii).</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>(auferre quod quis videatur habuisse).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="28">
+<p>()</p></div>
+</div><div type="textpart" subtype="chapter" n="20"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>() pharisaei ()</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>(),</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>(baptisma Ioannis unde)</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>() de caelis (), Quare non credidistis ei?</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>() (humanum) () (lapidibus elisi).</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>(), Et ego non dico vobis in qua virtute haec facio.</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="20">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>() (imago) () ([Caesaris]) ().</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>(), Reddite quae Caesaris Caesari, et quae sunt dei deo.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="27">
+<p>() Sadducaei (resurrectionis negatores) () interrogaverunt ().</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>() (ex lege) ()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>(mulier) () (quae septem fratribus ex ordine defunctis 
+<pb n="120"/>nupsisset).</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>(cuius viri deputanda esset in resurrectione).</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>() filii huius aevi nubunt et nubuntur,</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>quos vero dignatus est deus illius aevi possessione et resurrectione a mortuis neque nubunt neque nubuntur,</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>quia nec morituri iam sunt, cum similes angelorum fiunt, dei resurrectionis filii facti.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>() scribae (), Magister, bene dixisti.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="41">
+<p>() (scribae) () Christum () filius David ().</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>(ipse David) () (dominum eum appellat) ().</p></div>
+</div><pb n="121"/>
+<div type="textpart" subtype="chapter" n="21"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="7">
+<p>(interrogatio discipulorum).</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() multi () venient in nomine meo dicentes, Ego sum Christus. () tempus () (prohibet eos recipi).</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>() bella () oportet () haec fieri,</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>() regnum super regnum et gens super gentem,</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>pestis et fames (), terrae motus (), formidines () prodigia de caelo ().</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>Ante haec autem () (persecutiones et passiones)</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() in martyrium et in salutem.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>(cohibuit praecogitationem).</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>() sapientia (ipsa cui nemo resisteret).</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>(a proximis quoque persecutiones),</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>(odium nominis).</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>sed per tolerantiam salvos facietis vosmetipsos.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="20">
+<p>(cum coepisset vallari exercitibus Hierusalem tempus excidii).</p></div>
+<pb n="122"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="25">
+<p>(solis et lunae siderumque prodigia) et in terra angustia nationum obstupescentium (a sonitu maris fluctuantis).</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>(pro expectatione imminentium orbi et ipsae vires caelorum concuti habeant),</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>et tunc videbunt filium hominis venientem de caelis cum plurima virtute.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>Cum autem haec flent errigetis vos et levabitis capita, quoniam appropinquavit redemptio vestra.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="29">
+<p>() parabola (), Aspice ficum et arbores omnes.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>Cum fructum protulerint, intellegunt homines aestatem appropinquasse.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>Sic et vos, cum videritis haec fieri, scitote in proximo esse regnum dei.</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>() non transiet caelum et terra nisi omnia peragantur.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>Terra et caelum transiet, verbum autem meum manet in aevum.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="34">
+<p>(admonentur discipuli), ne quando graventur corda vestra crapula et ebrietate et saecularibus curis et insistat vobis repentinus dies ille,</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>velut laqueus.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="37">
+<p>() per diem in templo docebat, ad noctem vero (in elaeonem secedebat).</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>(auditorium) () (diluculo conveniendum erat).</p></div>
+</div><div type="textpart" subtype="chapter" n="22"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>() festus () pascha (),</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>() ([Iudas])</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>() (praemium) ().</p></div>
+<pb n="123"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="7">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>(), Concupiscentia concupivi pascha edere vobiscum antequam patiar.</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>(acceptum panem et distributum discipulis) (), Hoc est corpus meum (tradere) pro vobis.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() (in calicis mentione testamentum constituens sanguine suo obsignatum).</p></div>
+<div type="textpart" subtype="verse" n="22b">
+<p>Vae per quem traditur filius 
+<pb n="124"/>hominis.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="33">
+<p>(Petrum praesumptorie aliquid),</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>(elocutum negationi) (destinavit).</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="47">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>(osculo tradi).</p></div>
+<div type="textpart" subtype="verse" n="63">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="64">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="66">
+<p>(perductus in consessum).</p></div>
+<div type="textpart" subtype="verse" n="67">
+<p>(an ipse esset Christus interrogatur) (), Si dixero vobis non credetis.</p></div>
+<div type="textpart" subtype="verse" n="69">
+<p>Abhinc erit filius hominis sedens ad dexteram virtutis dei.</p></div>
+<div type="textpart" subtype="verse" n="70">
+<p>(), Ergo tu filius dei es? (), Vos dicitis.</p></div>
+</div><div type="textpart" subtype="chapter" n="23"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>(perductum illum ad Pilatum)</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>(onerare coeperunt quod) () (se regem 
+<pb n="125"/>diceret Christum).</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>() Pilatus (interrogavit), Tu es Christus? (), Tu dicis.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>(summi sacerdotes).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="6">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>(a Pilato Herodi missus).</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>(delectatus est Herodes viso Iesu).</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>(nec vocem ullam ab eo audivit).</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>(Barrabas).</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>(quidem nocentissimus vita ut bonus donatur, Christus vero iustissimus ut homicida morti expostulatur).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="32">
+<p>(sed et duo scelesti circumfiguntur illi).</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>() scelesti ().</p></div>
+<div type="textpart" subtype="verse" n="34a">
+<p>()</p></div>
+<pb n="126"/>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="44">
+<p>(hora sexta) (caelum luminibus floruisset, magis sol radiis insultasset)</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>(scissum est et templi velum)</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>(vociferatur ad patrem), (tricesimo psalmo). (hoc dicto) expiravit.</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="50">
+<p>() Ioseph ()</p></div>
+<div type="textpart" subtype="verse" n="51">
+<p>(qui non consenserat in scelere Iudaeis),</p></div>
+<div type="textpart" subtype="verse" n="52">
+<p>(caro) () (de Pilato postulatum),</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>(de patibulo detractum sindone involutum sepulcro novo conditum).</p></div>
+<div type="textpart" subtype="verse" n="55">
+<p>(mulieres)</p></div>
+<div type="textpart" subtype="verse" n="56">
+<p>().</p></div>
+</div><pb n="127"/>
+<div type="textpart" subtype="chapter" n="24"> 
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="1">
+<p>(mulieres) () (quae ante lucem convenerunt ad sepulcrum cum odorum paratura)</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>(corpore non invenio).</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>(mulieres illae) () (inter dolorem et spem), (et duo ibidem angeli apparuerunt) ().</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>(),</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>() Rememoramini quae locutus sit vobis in Galilaea,</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>dicens quod oportet tradi filium hominis et crucifigi et tertia die resurgere.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>Revertentes quoque a sepulcro (ad renuntiandam scilicet domini resurrectionem)</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>(discipuli).</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>(incredulitas discipulorum 
+<pb n="128"/>perseverabat).</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="13">
+<p>(duo ex illis iter agebant),</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>(et dominus eis adhaerebant).</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>(non comparens quod ipse esset).</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>Nos autem putabamus ipsum esse redemptorem Israelis.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>() O insensati et tardi corde in non credendo omnibus quae locutus est ad 
+<pb n="129"/>vos.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>()</p></div>
+<milestone unit="para"/>
+<div type="textpart" subtype="verse" n="36">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>() (haesitantibus eis ne phantasma esset).</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>(), Quid turbati estis et quid cogitationes subeunt in corda vestra?</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>Videte manus meas et pedes, quia ego ipse sum, quoniam spiritus ossa non habet, sicut me videtis habere. Et scitote quia ego sum.</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>(atquin 
+<pb n="131"/>adhuc eis non credentibus propterea cibum desideravit).</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>(apostolos mittens ad praedicandum universis nationibus).</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="49">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="50">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="51">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="52">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>()</p></div>
+</div></div></div></body></text></TEI>
