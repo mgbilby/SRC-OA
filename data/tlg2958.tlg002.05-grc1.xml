@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<teiHeader xml:lang="eng"> 
+<fileDesc> 
+	<titleStmt> 
+		<title type="work">Evangelion</title> 
+		<author ref="https://viaf.org/viaf/98032732">Marcion of Sinope</author> 
+		<editor ref="http://viaf.org/viaf/61687528">Jason David BeDuhn</editor> 
+		<editor ref="http://viaf.org/viaf/307315499">Mark Glen Bilby</editor> 
+		<sponsor>Perseus Project, Tufts University</sponsor> 
+		<principal>Gregory Crane</principal> 
+		<respStmt> 
+			<resp>Prepared under the supervision of</resp> 
+				<name>Lisa Cerrato</name> 
+				<name>Alison Babeu</name> 
+		</respStmt> 
+		<funder n="org:Tufts">Tufts University</funder> 
+	</titleStmt> 
+	<publicationStmt> 
+		<publisher>Trustees of Tufts University</publisher> 
+		<pubPlace>Medford, MA</pubPlace> 
+		<authority>Perseus Project</authority> 
+	</publicationStmt> 
+	<sourceDesc> 
+		<biblStruct> 
+			<analytic> 
+				<author ref="http://viaf.org/viaf/61687528">Jason David BeDuhn</author> 
+				<editor ref="http://viaf.org/viaf/307315499">Mark Glen Bilby</editor> 
+				<title level="a">Greek Edition of the First New Testament</title> 
+				<idno type="doi">10.7910/DVN/UQVGW6</idno>
+				<ref target="https://doi.org/10.7910/DVN/UQVGW6">https://doi.org/10.7910/DVN/UQVGW6</ref> 
+			</analytic> 
+			<monogr> 
+				<title level="j">Journal of Open Humanities Data</title> 
+				<idno type="issn">2059-481X</idno> 
+				<respStmt>
+					<resp>by</resp>
+					<name>Jason D. BeDuhn</name> 
+				</respStmt> 
+				<imprint> 
+					<publisher>Ubiquity Press</publisher> 
+					<date>2023</date> 
+				</imprint> 
+				<biblScope unit="page">i-43</biblScope> 
+			</monogr> 
+		</biblStruct> 
+	</sourceDesc> 
+</fileDesc> 
+<encodingDesc> 
+			<!--<tagsDecl> 
+ <rendition id="large"> </rendition> 
+ <rendition id="blockquote"> </rendition> 
+ <rendition id="header"> </rendition> 
+ <tagUsage render="header" gi="head"> </tagUsage> 
+ <tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage> 
+ <tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage> 
+ </tagsDecl>--> 
+	<refsDecl n="CTS"> 
+		<cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"><p>This pointer pattern extracts chapter and verse</p></cRefPattern> 
+		<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"><p>This pointer pattern extracts chapter</p></cRefPattern> 
+	</refsDecl> 
+</encodingDesc> 
+	<profileDesc> 
+		<langUsage> 
+			<language ident="grc">Greek</language> 
+			<language ident="eng">English</language> 
+		</langUsage> 
+	</profileDesc> 
+</teiHeader> 
+<text xml:lang="grc"> 
+	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.05-grc1"> 
+
+<div type="textpart" subtype="book" n="Luke"> 
+<pb n="1"/>
+<head>ΕΥΑΓΓΕΛΙΟΝ</head>
+<div type="textpart" subtype="chapter" n="3"> 
+<div type="textpart" subtype="verse" n="1">
+<p>ἐν τῷ πεντεκαιδεκάτῳ ἔτει Τιβερίου Καίσαρος ἡγεμονεύοντος Ποντίου Πιλάτου τῆς Ἰουδαίας</p></div>
+</div><div type="textpart" subtype="chapter" n="4"> 
+<div type="textpart" subtype="verse" n="31">
+<p>ὁ Ἰησοῦς κατῆλθεν εἰς Καφαρναοὺμ πόλιν τῆς Γαλιλαίας. καὶ ἦν διδάσκων αὐτοὺς ἐν τῇ συναγωγῇ·</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ ὅτι ἐν ἐξουσίᾳ ἦν ὁ λόγος αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου καὶ ἀνέκραξεν φωνῇ μεγάλῃ·</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>τί ἡμῖν καὶ σοί Ἰησοῦ; ἦλθες ἀπολέσαι ἡμᾶς; οἶδα σε τίς εἶ· ὁ ἅγιος τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς ().</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>καὶ ἦλθεν εἰς Ναζαρά ὅπου ἦν κατὰ τὸ εἰωθὸς ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγὴν.</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>καὶ εἶπεν πρὸς αὐτούς· πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· ἰατρέ θεράπευσον σεαυτόν — [ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναοὺμ ποίησον καὶ ὧδε] — ().</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>καὶ ἀναστάντες ἐξέβαλον αὐτὸν ἔξω τῆς πόλεως καὶ ἤγαγον αὐτὸν ἕως τῆς ὀφρύος τοῦ ὄρους ἐφ᾽ οὗ ἡ πόλις ᾠκοδόμητο αὐτῶν ὥστε κατακρημνίσαι αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>αὐτὸς δὲ διελθὼν διὰ μέσου αὐτῶν ἐπορεύετο.</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>[() ἀσθενοῦντας νόσοις ποικίλαις ()] () ὁ δὲ ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν αὐτούς.</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>ἐξήρχοντο δὲ καὶ δαιμόνια ἀπὸ πολλῶν κραυγάζοντα καὶ λέγοντα ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ. καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν.</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>γενομένης δὲ ἡμέρας ἐξελθὼν ἐπορεύθη εἰς ἔρημον τόπον. καὶ οἱ ὄχλοι ἐπεζήτουν αὐτὸν καὶ ἦλθον ἕως αὐτοῦ καὶ κατεῖχον αὐτὸν τοῦ μὴ πορεύεσθαι ἀπ᾽ αὐτῶν.</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>ὁ δὲ εἶπεν πρὸς αὐτοὺς ὅτι καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ ().</p></div>
+</div><div type="textpart" subtype="chapter" n="5">
+<div type="textpart" subtype="verse" n="2">
+<p>() ἁλιεῖς ().</p></div>
+<pb n="2"/>
+<div type="textpart" subtype="verse" n="3">
+<p>() Σίμων ().</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>() συνέκλεισαν πλῆθος ἰχθύων πολύ ().</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() Πέτρος ().</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>θάμβος γὰρ περιέσχεν αὐτὸν ()</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>ὁμοίως δὲ () υἱοὺς Ζεβεδαίου (). καὶ εἶπεν πρὸς τὸν Σίμωνα ὁ Ἰησοῦς· μὴ φοβοῦ ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>καὶ () τὰ πλοῖα () ἀφέντες () ἠκολούθησαν αὐτῷ.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>() ἀνὴρ λεπρός ().</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>καὶ () ἥψατο αὐτοῦ λέγων· καθαρίσθητι. καὶ εὐθέως [ἡ λέπρα ἀπῆλθεν ἀπ᾽ αὐτοῦ].</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>καὶ αὐτὸς παρήγγειλεν αὐτῷ μηδενὶ εἰπεῖν ἀλλὰ· ἀπελθὼν δεῖξον σεαυτὸν τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου καθὼς προσέταξε Μωϋσῆς ἵνα ᾖ μαρτύριον τοῦτο ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() παραλυτικὸν ().</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>() τὸν ὄχλον () εἰς τὸ μέσον ἔμπροσθεν τοῦ Ἰησοῦ.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() [() εἶπεν] ἀφέωνταί σοι αἱ ἁμαρτίαι σου.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>καὶ () λέγοντες· τίς δύναται ἁμαρτίας ἀφεῖναι εἰ μὴ μόνος ὁ θεός;</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>[δὲ ὁ Ἰησοῦς () ἀποκριθεὶς εἶπεν] ()·</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>ἵνα δὲ εἰδῆτε ὅτι ἐξουσίαν ἔχει ὁ υἱὸς τοῦ ἀνθρώπου ἀφιέναι ἁμαρτίας ἐπὶ τῆς γῆς [— εἶπεν τῷ παραλυτικῷ —] () ἔγειρε καὶ ἆρον τὸν κράβαττόν σου ().</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>καὶ παραχρῆμα ἀναστὰς ἐνώπιον αὐτῶν ().</p></div>
+<pb n="3"/>
+<div type="textpart" subtype="verse" n="27">
+<p>() τελώνην (). καὶ εἶπεν αὐτῷ· ἀκολούθει μοι.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>() οὐ χρείαν ἔχουσιν οἱ ὑγιαίνοντες ἰατροῦ ἀλλὰ οἱ κακῶς ἔχοντες.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>οἱ δὲ εἶπαν πρὸς αὐτόν· διὰ τί οἱ μαθηταὶ Ἰωάννου νηστεύουσιν πυκνὰ καὶ δεήσεις ποιοῦνται οἱ δὲ σοὶ ἐσθίουσιν καὶ πίνουσιν;</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>ὁ δὲ Ἰησοῦς εἶπεν πρὸς αὐτούς· μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος ἐν ᾧ ὁ νύμφιος μετ᾽ αὐτῶν ἐστιν νηστεύειν;</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>() ἐλεύσονται δὲ ἡμέραι καὶ ὅταν ἀπαρθῇ ἀπ᾽ αὐτῶν ὁ νυμφίος τότε νηστεύσουσιν ().</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>οὐ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή γε ῥήξει ὁ οἶνος ὁ νέος τοὺς ἀσκοὺς καὶ αὐτὸς ἐκχυθήσεται καὶ οἱ ἀσκοὶ ἀπολοῦνται.</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>ἀλλὰ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς νέους καὶ ἀμφότεροι συντηροῦνται.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>καὶ οὐδε ἐπίβλημα ῥάκους ἀγνάφου ἐπὶ ἱματίῳ παλαιῷ· εἰ δὲ μή γε καὶ τὸ πλήρωμα αἴρει καὶ τῷ παλαιῷ οὐ συμφωνήσει μεῖζον γὰρ σχίσμα γενήσεται.</p></div>
+</div><pb n="4"/>
+<div type="textpart" subtype="chapter" n="6">
+<div type="textpart" subtype="verse" n="1">
+<p>ἐγένετο δὲ ἐν σαββάτῳ () ἔτιλλον οἱ μαθηταί τοὺς στάχυας ψώχοντες ταῖς χερσίν.</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>τινὲς δὲ τῶν Φαρισαίων εἶπαν· τί ποιεῖτε ὃ οὐκ ἔξεστιν τοῖς σάββασιν;</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>καὶ ἀποκριθεὶς πρὸς αὐτοὺς εἶπεν ὁ Ἰησοῦς οὐδὲ τοῦτο ἀνέγνωτε τί ἐποίησε Δαυὶδ ὅτε ἐπείνασεν αὐτὸς καὶ οἱ μετ᾽ αὐτοῦ;</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>ὡς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ ἐν τῷ σαββάτῳ καὶ τοὺς ἄρτους τῆς προθέσεως λαβὼν ἔφαγεν καὶ ἔδωκεν τοῖς μετ᾽ αὐτοῦ;</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>ἐγένετο δὲ ἐν ἑτέρῳ σαββάτῳ () ἦν ἄνθρωπος ἐκεῖ καὶ ἡ χεὶρ αὐτοῦ ἡ δεξιὰ ἦν ξηρά.</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>παρετηροῦντο δὲ αὐτὸν οἱ Φαρισαῖοι εἰ ἐν τῷ σαββάτῳ θεραπεύει ἵνα εὕρωσιν κατηγορεῖν αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>αὐτὸς δὲ ᾔδει τοὺς διαλογισμοὺς αὐτῶν ().</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>εἶπεν δὲ ὁ Ἰησοῦς πρὸς αὐτούς· ἐπερωτῶ ὑμᾶς εἰ ἔξεστιν τῷ σαββάτῳ ἀγαθοποιῆσαι ἢ κακοποιῆσαι ψυχὴν σῶσαι ἢ ἀπολέσαι;"</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>καὶ περιβλεψάμενος πάντας αὐτοὺς εἶπεν αὐτῷ· ἔκτεινον τὴν χεῖρά σου. ὁ δὲ ἐποίησεν καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>καὶ ἔλεγεν αὐτοῖς ὅτι κύριός ἐστιν ὁ υἱὸς τοῦ ἀνθρώπου καὶ τοῦ σαββάτου.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>() ἐξῆλθεν εἰς τὸ ὄρος προσεύξασθαι καὶ ἦν διανυκτερεύων ἐν τῇ προσευχῇ ().</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() προσεφώνησεν τοὺς μαθητὰς αὐτοῦ καὶ ἐκλεξάμενος ἀπ᾽ αὐτῶν δώδεκα οὓς καὶ ἀποστόλους ὠνόμασεν·</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>[πρώτον] Σίμωνα ὃν καὶ Πέτρον ἐπωνόμασεν [καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ καὶ Ἰάκωβον καὶ Ἰωάννην καὶ Φίλιππον καὶ Βαρθολομαῖον]</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>[καὶ Μαθθαῖον καὶ Θωμᾶν καὶ Ἰάκωβον Ἁλφαίου καὶ Σίμωνα τὸν καλούμενον ζηλωτὴν]</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>[καὶ Ἰούδαν Ἰακώβου] καὶ Ἰούδαν Ἰσκαριώτην ὃς ἐγένετο προδότης.</p></div>
+<pb n="5"/>
+<div type="textpart" subtype="verse" n="17">
+<p>καὶ κατέβη ἐν αὐτοῖς () πλῆθος πολὺ τοῦ λαοῦ ἀπὸ πάσης τῆς παραλίου Τύρου καὶ Σιδῶνος.</p></div>
+<div type="textpart" subtype="verse" n="19a">
+<p>καὶ πᾶς ὁ ὄχλος ἐζήτει ἅπτεσθαι αὐτοῦ ().</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ () [ἔλεγεν]· μακάριοι οἱ πτωχοί ὅτι αὐτῶν ἐστὶν ἡ βασιλεία τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>μακάριοι οἱ πεινῶντες ὅτι χορτασθήσονται μακάριοι οἱ κλαίοντες ὅτι γελάσουσιν.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>μακάριοί ἔσεσθε ὅταν μισήσουσιν ὑμᾶς οἱ ἄνθρωποι καὶ ὀνειδίσουσιν καὶ ἐκβαλούσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου·</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>κατὰ τὰ αὐτὰ ἐποίουν τοῖς προφήταις οἱ πατέρες ὑμῶν.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>[πλὴν] οὐαὶ ὑμῖν τοῖς πλουσίοις ὅτι ἀπέχετε τὴν παράκλησιν ὑμῶν.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>οὐαὶ ὑμῖν οἱ ἐμπεπλησμένοι ὅτι πεινάσετε οὐαὶ ὑμῖν οἱ γελῶντες νῦν ὅτι πενθήσετε.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>οὐαὶ ὅταν ὑμᾶς καλῶς εἴπωσιν οἱ ἄνθρωποι· κατὰ ταῦτα ἐποίουν καὶ τοῖς ψευδοπροφήταις οἱ πατέρες αὐτῶν.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>ἀλλὰ ὑμῖν λέγω τοῖς ἀκούουσιν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν [καλῶς ποιεῖτε] τοῖς μισοῦσιν ὑμᾶς</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς καὶ προσεύχεσθε περὶ τῶν ἐπηρεαζόντων ὑμᾶς.</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>ἐάν τίς σὲ ῥαπίσῃ εἰς τὴν σιαγόνα παράθες αὐτῷ καὶ τὴν ἄλλην· καὶ ἐάν τίς σου ἄρῃ τὸ ἱμάτιον πρόσθες αὐτῷ καὶ τὸν χιτῶνά.</p></div>
+<pb n="6"/>
+<div type="textpart" subtype="verse" n="30">
+<p>παντὶ αἰτοῦντί σε δίδου καὶ ἀπὸ τοῦ αἴροντος μὴ ἀπαίτει.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>καὶ καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι ποιεῖτε αὐτοῖς ὁμοίως.</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>καὶ ἐὰν δανίσητε παρ᾽ ὧν ἐλπίζετε λαβεῖν ποία ὑμῖν χάρις ἐστίν; ()</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>πλὴν () δανίζετε μηδὲν ἀπελπίζοντες () καὶ ἔσεσθε υἱοὶ θεοῦ ὅτι αὐτὸς χρηστός ἐστιν ἐπὶ τοὺς ἀχαρίστους καὶ πονηρούς.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>γίνεσθε οἰκτίρμονες καθὼς ὁ πατὴρ ὑμῶν ὑμῶν οἰκτίρμων ἐστίν.</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>μὴ κρίνετε ἵνα μὴ κριθῆτε· μὴ καταδικάζετε ἵνα μὴ καταδικασθῆτε. ἀπολύετε καὶ ἀπολυθήσεσθε.</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>δίδοτε καὶ δοθήσεται ὑμῖν — μέτρον καλὸν πεπιεσμένον καὶ ὑπερεκχυννόμενον δώσουσιν εἰς τὸν κόλπον ὑμῶν. ᾧ μέτρῳ μετρεῖτε ἀντιμετρηθήσεται ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>εἶπεν δὲ καὶ παραβολὴν αὐτοῖς· μήτι δύναται τυφλὸς τυφλὸν ὁδηγεῖν; οὐχὶ ἀμφότεροι εἰς βόθυνον ἐμπεσοῦνται;"</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>οὐκ ἔστιν μαθητὴς ὑπὲρ τὸν διδάσκαλον ().</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>πῶς δύνασαι λέγειν τῷ ἀδελφῷ σου· ἀδελφέ ἄφες ἐκβάλω τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ σου αὐτὸς τὴν ἐν τῷ ὀφθαλμῷ σου δοκὸν οὐ βλέπων; ὑποκριτά. ἔκβαλε πρῶτον τὴν δοκὸν ἐκ τοῦ ὀφθαλμοῦ σοῦ καὶ τότε διαβλέψεις τὸ κάρφος τὸ ἐν τῷ ὀφθαλμῷ τοῦ ἀδελφοῦ σου ἐκβαλεῖν.</p></div>
+<pb n="7"/>
+<div type="textpart" subtype="verse" n="43">
+<p>οὐ δύναται δένδρον καλὸν καρποὺς κακοὺς ἐνεγκεῖν· οὐδὲ δένδρον σαπρὸν καρποὺς καλοὺς ἐνεγκεῖν.</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ τῆς καρδίας προφέρει τὸ ἀγαθόν καὶ ὁ πονηρὸς ἐκ τοῦ πονηροῦ προφέρει τὸ πονηρόν ().</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>τί δέ με καλεῖτε· κύριε κύριε καὶ οὐ ποιεῖτε ἃ λέγω;</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>πᾶς ὁ ἐρχόμενος πρός με καὶ ἀκούων μου τῶν λόγων καὶ ποιῶν αὐτούς ()</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>() ὅμοιός ἐστιν ἀνθρώπῳ φρονίμῳ οἰκοδομοῦντι οἰκίαν ὃς ἔσκαψεν καὶ ἐβάθυνεν καὶ ἔθηκεν θεμέλιον ἐπὶ τὴν πέτραν πλημμύρης ().</p></div>
+</div><div type="textpart" subtype="chapter" n="7">
+<div type="textpart" subtype="verse" n="7">
+<p>[() () ἀλλ᾽ εἰπὲ λόγῳ καὶ ἰαθήτω ὁ παῖς μου.]</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>[()]</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>ἀκούσας δὲ ταῦτα ὁ Ἰησοῦς ἐθαύμασεν αὐτὸν καὶ στραφεὶς τῷ ἀκολουθοῦντι αὐτῷ ὄχλῳ εἶπεν· λέγω δὲ ὑμῖν τοσαύτην πίστιν οὐδὲ ἐν τῷ Ἰσραὴλ εὗρον.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>() ἐξεκομίζετο τεθνηκὼς μονογενὴς υἱὸς τῇ μητρὶ αὐτοῦ καὶ αὐτὴ ἦν χήρα ().</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>() καὶ εἶπεν· νεανίσκε σοὶ λέγω ἐγέρθητι.</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>καὶ ἀνεκάθισεν ὁ νεκρὸς ().</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>δὲ () πάντας () ἐδόξαζον τὸν θεὸν λέγοντες ὅτι προφήτης μέγας ἠγέρθη ἐν ἡμῖν καὶ ὅτι ἐπεσκέψατο ὁ θεὸς τὸν λαὸν αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>καὶ ἐξῆλθεν ὁ λόγος οὗτος ()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() μέχρι Ἰωάνου τοῦ βαπτιστοῦ ὅς ἀκούσας ἐν τῷ δεσμωτηρίῳ τὰ ἔργα τοῦ Χριστοῦ</p></div>
+<pb n="8"/>
+<div type="textpart" subtype="verse" n="19">
+<p>ἔπεμψε τοὺς μαθητὰς αὐτοῦ πρὸς αὐτὸν λέγων· σὺ εἶ ὁ ἐρχόμενος ἢ ἕτερον προσδοκῶμεν;</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>[παραγενόμενοι πρὸς αὐτὸν οἱ ἄνδρες εἶπαν· Ἰωάννης ὁ βαπτιστὴς ἀπέστειλεν ἡμᾶς πρὸς σὲ λέγων· σὺ εἶ ὁ ἐρχόμενος ἢ ἄλλον προσδοκῶμεν;]</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>[ἐν αὐτῇ δὲ τῇ ὥρᾳ] ἐθεράπευσεν πολλοὺς () καὶ τυφλοῖς ἐχαρίσατο βλέπειν.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>καὶ ἀποκριθεὶς εἶπεν αὐτοῖς· πορευθέντες ἀπαγγείλατε Ἰωάννῃ () ὅτι τυφλοὶ ἀναβλέπουσιν καὶ κωφοὶ ἀκούουσι καὶ χωλοὶ περιπατοῦσι καὶ νεκροὶ ἐγείρονται</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>καὶ μακάριός ὃς ἐὰν μὴ σκανδαλισθῇ ἐν ἐμοί.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>() ἤρξατο λέγειν πρὸς τοὺς ὄχλους περὶ Ἰωάννου· τί ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι; κάλαμον ὑπὸ ἀνέμου σαλευόμενον;"</p></div>
+<pb n="9"/>
+<div type="textpart" subtype="verse" n="26">
+<p>() προφήτην; ναὶ λέγω ὑμῖν καὶ περισσότερον προφήτου.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>αὐτός ἐστι περὶ οὗ γέγραπται ἰδοὺ ἀποστέλλω τὸν ἄγγελόν μου πρὸ προσώπου σου ὃς κατασκευάσει τὴν ὁδόν σου ἔμπροσθέν σου.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>λέγω δὲ ὑμῖν τὸν μείζονα ἐν γεννητοῖς γυναικῶν Ἰωάννος ἐστιν· ὁ δὲ μικρότερος ἐν τῇ βασιλείᾳ τοῦ θεοῦ μείζων αὐτοῦ ἐστιν.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>[() ἠρώτα δέ τις αὐτὸν τῶν Φαρισαίων ἵνα φάγῃ μετ᾽ αὐτοῦ.] καὶ εἰσελθὼν εἰς τὸν οἶκον τοῦ Φαρισαίου κατεκλίθη.</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>καὶ ἰδοὺ γυνὴ () ἥτις ἦν ἁμαρτωλός ()</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>καὶ στᾶσα ὀπίσω παρὰ τοὺς πόδας αὐτοῦ. ἔβρεξε τοῖς δάκρυσι τοὺς πόδας αὐτοῦ καὶ ταῖς θριξὶν τῆς κεφαλῆς αὐτῆς ἐξέμασσεν καὶ ἤλειψεν καὶ κατεφίλει τοὺς πόδας αὐτοῦ ().</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>[() ἔφη·] αὕτη τοῖς δάκρυσιν ἔβρεξέν τοὺς πόδας μου καὶ ἤλειψεν καὶ κατεφίλει καὶ ταῖς θριξὶν αὐτῆς ἐξέμαξεν.</p></div>
+<pb n="10"/>
+<div type="textpart" subtype="verse" n="45">
+<p>() οὐ διέλιπεν καταφιλοῦσά μου τοὺς πόδας.</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>εἶπεν δὲ αὐτῇ· ἀφέωνταί σου αἱ ἁμαρτίαι.</p></div>
+<div type="textpart" subtype="verse" n="50">
+<p>() ἡ πίστις σου σέσωκέν σε.</p></div>
+</div><div type="textpart" subtype="chapter" n="8">
+<div type="textpart" subtype="verse" n="2">
+<p>() καὶ γυναῖκές τινες ()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>() γυνὴ () ἐπιτρόπου Ἡρῴδου () διηκόνουν αὐτῷ ἐκ τῶν ὑπαρχόντων αὐταῖς.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>() εἶπεν διὰ παραβολῆς·</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>ἐξῆλθεν ὁ σπείρων τοῦ σπεῖραι τὸν σπόρον αὐτοῦ. καὶ ἐν τῷ σπείρειν αὐτὸν ὃ μὲν ἔπεσεν παρὰ τὴν ὁδόν καὶ κατεπατήθη καὶ τὰ πετεινὰ κατέφαγεν αὐτό.</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>καὶ ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν καὶ φυὲν ἐξηράνθη διὰ τὸ μὴ ἔχειν ἰκμάδα.</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>καὶ ἕτερον ἔπεσεν ἐν μέσῳ τῶν ἀκανθῶν καὶ συμφυεῖσαι αἱ ἄκανθαι ἀπέπνιξαν αὐτό.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>καὶ ἕτερον ἔπεσεν εἰς τὴν γῆν τὴν ἀγαθὴν καὶ φυὲν ἐποίησεν καρπὸν. () ὁ ἔχων ὦτα () ἀκουέτω.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>οὐδεὶς δὲ λύχνον ἅψας καλύπτει αὐτὸν σκεύει ἢ ὑποκάτω κλίνης τίθησιν ἀλλ᾽ ἐπὶ λυχνίας τίθησιν ἵνα οἱ εἰσπορευόμενοι βλέπωσιν τὸ φῶς.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>οὐ γάρ ἐστιν κρυπτὸν ὃ οὐ φανερὸν γενήσεται οὐδὲ ἀπόκρυφον ὃ οὐ μὴ γνωσθῇ καὶ εἰς φανερὸν ἔλθῃ.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>βλέπετε πῶς ἀκούετε. ὃς ἂν ἔχῃ δοθήσεται αὐτῷ ὃς ἂν μὴ ἔχῃ καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται ἀπ᾽ αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>ἀπηγγέλη δὲ αὐτῷ· ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἑστήκασιν ἔξω ἰδεῖν θέλοντές σε.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>ὁ δὲ ἀποκριθεὶς εἶπεν πρὸς αὐτούς· τίς μοι μήτηρ καὶ τίνες μοι ἀδελφοί; οὗτοί εἰσιν οἱ ἀκούουσιν τοὺς λόγους μου καὶ ποιοῦσιν αὐτούς.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>ἐγένετο δὲ () [αὐτὸς ἐνέβη εἰς πλοῖον καὶ οἱ μαθηταὶ αὐτοῦ. ()]</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>[καὶ] πλεόντων αὐτῶν ἀφύπνωσεν. [καὶ κατέβη λαῖλαψ ἀνέμου. ()]</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>[() διήγειραν αὐτὸν. ()] ὁ δὲ εγερθεὶς ἐπετίμησε τῷ ἀνέμῳ καὶ τῇ θαλάσσῃ καὶ ἐπαύσαντο καὶ ἐγένετο γαλήνη.</p></div>
+<pb n="11"/>
+<div type="textpart" subtype="verse" n="25">
+<p>() ἐθαύμασαν λέγοντες πρὸς ἀλλήλους· τίς ἄρα οὗτός ἐστιν ὃς καὶ τοῖς ἀνέμοις ἐπιτάσσει καὶ τῇ θαλάσσῃ;</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() ὑπήντησεν ἀνήρ τις ἐκ τῆς πόλεως ἔχων δαιμόνια. ()</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>ἰδὼν δὲ τὸν Ἰησοῦν εἶπεν· () Ἰησοῦ υἱὲ τοῦ θεοῦ. ()</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>ἐπηρώτησεν δὲ αὐτὸν ὁ Ἰησοῦς· τί σοι ἐστιν ὄνομά; ὁ δὲ εἶπε λεγεών ὅτι εἰσῆλθεν δαιμόνια πολλὰ εἰς αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>καὶ παρεκάλουν αὐτὸν ἵνα μὴ ἐπιτάξῃ αὐτοῖς εἰς τὴν ἄβυσσον ἀπελθεῖν.</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>ἦν δὲ ἐκεῖ ἀγέλη χοίρων ἱκανῶν βοσκομένη ἐν τῷ ὄρει· καὶ παρεκάλεσαν αὐτὸν ἵνα ἐπιτρέψῃ αὐτοῖς εἰς ἐκείνους εἰσελθεῖν. καὶ ἐπέτρεψεν αὐτοῖς.</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>() ἐγένετο δὲ ἐν τῷ ὑπάγειν αὐτοὺς συνέπνιγον αὐτόν οἱ ὄχλοι.</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>καὶ γυνὴ οὖσα ἐν ῥύσει αἵματος ἀπὸ ἐτῶν δώδεκα ()</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>προσελθοῦσα () ἁψαμένη αὐτοῦ καὶ () ἰάθη ἡ ῥύσις τοῦ αἵματος αὐτῆς.</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>καὶ εἶπεν ὁ κύριος· τίς μου ἥψατο; ἀρνουμένων δὲ πάντων οἱ μαθηταί εἶπαν· ἐπιστάτα οἱ ὄχλοι συνέχουσίν σε καὶ ἀποθλίβουσιν.</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>ὁ δὲ εἶπεν· ἥψατό μού τις καὶ γὰρ ἔγνων δύναμιν ἐξελθοῦσαν ἀπ᾿ ἐμοῦ.</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>[() ἦλθεν. ()]</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>[() εἶπεν· ()] θύγατηρ ἡ πίστις σου σέσωκέν σε.</p></div>
+</div><div type="textpart" subtype="chapter" n="9">
+<div type="textpart" subtype="verse" n="1">
+<p>συγκαλεσάμενος δὲ τοὺς δώδεκα ἔδωκεν αὐτοῖς δύναμιν καὶ ἐξουσίαν ἐπὶ πάντα τὰ δαιμόνια καὶ νόσους θεραπεύειν.</p></div>
+<pb n="12"/>
+<div type="textpart" subtype="verse" n="2">
+<p>καὶ ἀπέστειλεν αὐτοὺς κηρύσσειν τὴν βασιλείαν τοῦ θεοῦ καὶ ἰᾶσθαι</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>καὶ εἶπεν πρὸς αὐτούς· μηδὲν αἴρετε εἰς τὴν ὁδόν () μήτε ἄρτον μήτε ἀργύριον· μήτε δύο χιτῶνας ἔχειν.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>καὶ ὅσοι ἂν μὴ δέχωνται ὑμᾶς ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάσσετε εἰς μαρτύριον.</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>ἐξερχόμενοι δὲ διήρχοντο κατὰ πόλεις καὶ κώμας εὐαγγελιζόμενοι καὶ θεραπεύοντες πανταχοῦ.</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>ἤκουσεν δὲ Ἡρῴδης [ὁ τετραάρχης] () τὸ λέγεσθαι ὑπό τινων ὅτι Ἰωάννης ἠγέρθη ἐκ νεκρῶν</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>ὑπό τινων δὲ ὅτι Ἠλίας ἐφάνη ἄλλων δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη.</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>[() τόπον ἔρημον.]</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>[() οἱ ὄχλοι ().]</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>[()] προσελθόντες δὲ οἱ δώδεκα εἶπαν αὐτῷ· ἀπόλυσον τὸν ὄχλον ἵνα πορευθέντες εἰς τὰς κύκλῳ κώμας καὶ ἀγροὺς καταλύσωσιν καὶ εὕρωσιν ἐπισιτισμόν ὅτι ὧδε ἐν ἐρήμῳ τόπῳ ἐσμέν.</p></div>
+<pb n="13"/>
+<div type="textpart" subtype="verse" n="13">
+<p>εἶπεν δὲ πρὸς αὐτούς· δότε αὐτοῖς ὑμεῖς φαγεῖν. οἱ δὲ εἶπαν· οὐκ εἰσὶν ἡμῖν πλεῖον ἢ ἄρτοι πέντε καὶ ἰχθύες δύο. ()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>ἦσαν γὰρ ὡσεὶ ἄνδρες πεντακισχίλιοι. ()</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν ἐπ᾽ αὐτοὺς καὶ κατέκλασεν καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>καὶ ἔφαγον καὶ ἐχορτάσθησαν πάντες καὶ ἤρθη τὸ περισσεῦσαν αὐτοῖς. ()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() συνῆσαν αὐτῷ οἱ μαθηταί καὶ ἐπηρώτησεν αὐτοὺς λέγων· τίνα με λέγουσιν οἱ ἄνθρωποι τὸν υἱὸν τοῦ ἀνθρώπου;</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>λέγουσιν οἱ μαθηται· Ἰωάννην τὸν βαπτιστήν· ἄλλοι δὲ Ἠλίαν· ἄλλοι δὲ ὅτι προφήτης τις τῶν ἀρχαίων ἀνέστη.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>εἶπε δὲ αὐτοῖς· ὑμεῖς δὲ τίνα με λέγετε εἶναι; ἀποκριθεὶς δὲ Πέτρος εἶπε· σὺ εἶ ὁ χριστὸς.</p></div>
+<pb n="14"/>
+<div type="textpart" subtype="verse" n="21">
+<p>ὁ δὲ ἐπιτιμήσας αὐτοῖς παρήγγειλεν μηδενὶ λέγειν τοῦτο"</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>λέγων δεῖ τὸν υἱὸν τοῦ ἀνθρώπου πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῶν πρεσβυτέρων καὶ ἀρχιερέων καὶ γραμματέων καὶ ἀποκτανθῆναι καὶ μετὰ τρεῖς ἡμέρας ἐγερθῆναι.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>ὃς ἂν θέλῃ τὴν ψυχὴν αὐτοῦ σῶσαι ἀπολέσει αὐτήν· ὃς δ᾽ ἂν ἀπολέσῃ αὐτὴν ἕνεκεν ἐμοῦ σώσει αὐτήν.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>ὃς ἂν ἐπαισχυνθῇ με κἀγὼ ἐπαισχυνθήσομαι αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>() παραλαβὼν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην ἀνέβη εἰς τὸ ὄρος. ()</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>καὶ ἐγένετο () ὁ ἱματισμὸς αὐτοῦ λευκὸς ἐξαστράπτων.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>καὶ ἰδοὺ δύο ἄνδρες συνελάλουν αὐτῷ Ἠλίας καὶ Μωϋσῆς</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>ὀφθέντες ἐν δόξῃ αὐτοῦ. ()</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>() εἶδον τὴν δόξαν αὐτοῦ καὶ τοὺς δύο ἄνδρας τοὺς συνεστῶτας αὐτῷ.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>() εἶπεν ὁ Πέτρος πρὸς τὸν Ἰησοῦν· καλόν ἐστιν ἡμᾶς ὧδε εἶναι καὶ ποιήσωμεν σκηνὰς τρεῖς· μίαν σοὶ καὶ μίαν Μωϋσεῖ καὶ μίαν Ἠλίᾳ μὴ εἰδὼς ὃ λέγει.</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>ταῦτα δὲ αὐτοῦ λέγοντος ἐγένετο νεφέλη καὶ ἐπεσκίασεν αὐτούς</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>καὶ ἐκ τῆς νεφέλης φωνὴ· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός. αὐτοῦ ἀκούετε.</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>[() κατελθόντων αὐτῶν ἀπὸ τοῦ ὄρους. ()]</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>() ἀνὴρ () λέγων ()</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>[() πνεῦμα ()]</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>καὶ ἐδεήθην τῶν μαθητῶν σου καὶ οὐκ ἠδυνήθησαν ἐκβαλεῖν αὐτό.</p></div>
+<pb n="15"/>
+<div type="textpart" subtype="verse" n="41">
+<p>καὶ () ὁ Ἰησοῦς εἶπεν πρὸς αὐτούς· ὦ γενεὰ ἄπιστος ἕως πότε ἔσομαι πρὸς ὑμᾶς; ἕως πότε ἀνέξομαι ὑμῶν;</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>() θέσθε ὑμεῖς εἰς τὰ ὦτα ὑμῶν τοὺς λόγους τούτους ὁ γὰρ υἱὸς τοῦ ἀνθρώπου μέλλει παραδίδοσθαι εἰς χεῖρας ἀνθρώπων.</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>ὁ Ἰησοῦς () ἐπιλαβόμενος παιδίον ἔστησεν αὐτὸ παρ᾽ ἑαυτῷ</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>καὶ εἶπεν αὐτοῖς· ὃς ἐὰν δέξηται τοῦτο τὸ παιδίον ἐπὶ τῷ ὀνόματί μου ἐμὲ δέχεται. ()</p></div>
+<div type="textpart" subtype="verse" n="52">
+<p>() εἰσῆλθον εἰς κώμην Σαμαριτῶν ()</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>καὶ οὐκ ἐδέξαντο αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="54">
+<p>ἰδόντες δὲ οἱ μαθηταὶ Ἰάκωβος καὶ Ἰωάννης εἶπαν· θέλεις εἴπωμεν πῦρ καταβῆναι ἀπὸ τοῦ οὐρανοῦ καὶ ἀναλῶσαι αὐτούς ὡς καὶ Ἠλίας ἐποίησεν;</p></div>
+<div type="textpart" subtype="verse" n="55">
+<p>στραφεὶς δὲ ἐπετίμησεν αὐτοῖς καὶ εἶπεν· οὐκ οἴδατε οἵου πνεύματος ἐστε ὑμεῖς. ()</p></div>
+<div type="textpart" subtype="verse" n="57">
+<p>() εἶπέν τις πρὸς αὐτόν· ἀκολουθήσω σοι ὅπου ἐὰν ἀπέρχῃ.</p></div>
+<div type="textpart" subtype="verse" n="58">
+<p>[καὶ εἶπεν αὐτῷ ὁ Ἰησοῦς· αἱ ἀλώπεκες φωλεοὺς ἔχουσιν καὶ τὰ πετεινὰ κατασκηνώσεις ὁ δὲ υἱὸς τοῦ ἀνθρώπου οὐκ ἔχει ποῦ τὴν κεφαλὴν κλίνῃ.]</p></div>
+<div type="textpart" subtype="verse" n="59">
+<p>εἶπεν δὲ πρὸς ἕτερον· ἀκολούθει μοι. ὁ δὲ εἶπεν· ἐπίτρεψόν μοι ἀπελθόντι πρῶτον θάψαι τὸν πατέρα μου.</p></div>
+<div type="textpart" subtype="verse" n="60">
+<p>εἶπεν δὲ αὐτῷ· ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς σὺ δὲ ἀπελθὼν διάγγελλε τὴν βασιλείαν τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="61">
+<p>εἶπεν δὲ καὶ ἕτερος· ἀκολουθήσω σοι πρῶτον δὲ ἐπίτρεψόν μοι ἀποτάξασθαι τοῖς εἰς τὸν οἶκόν μου.</p></div>
+<div type="textpart" subtype="verse" n="62">
+<p>εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς· οὐδεὶς ἐπιβαλὼν τὴν χεῖρα ἐπ᾽ ἄροτρον καὶ βλέπων εἰς τὰ ὀπίσω [εὔθετός ἐστιν τῇ βασιλείᾳ τοῦ θεοῦ].</p></div>
+</div><div type="textpart" subtype="chapter" n="10">
+<div type="textpart" subtype="verse" n="1">
+<p>() [ἀνέδειξεν] δὲ καὶ ἑτέρους ἑβδομήκοντα καὶ ἀπέστειλε αὐτοὺς () εἰς [πᾶσαν] πόλιν [καὶ τόπον οὗ ἤμελλεν αὐτὸς ἔρχεσθαι].</p></div>
+<pb n="16"/>
+<div type="textpart" subtype="verse" n="2">
+<p>ἔλεγεν δὲ πρὸς αὐτούς· ()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>() ἰδοὺ ἐγὼ ἀποστέλλω ὑμᾶς ὡς ἄρνας ἐν μέσῳ λύκων.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>μὴ βαστάζετε [βαλλάντιον] μὴ πήραν μὴ ὑποδήματα καὶ μηδένα κατὰ τὴν ὁδὸν ἀσπάσησθε.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>εἰς ἥν δ᾽ ἂν εἰσέλθητε οἰκίαν λέγετε· () εἰρήνη τῷ οἴκῳ τούτῳ.</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>ἐν αὐτῇ δὲ τῇ οἰκίᾳ μένετε ἐσθίοντες () τὰ παρ᾽ αὐτῶν ἄξιος γὰρ ὁ ἐργάτης τοῦ μισθοῦ.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>[καὶ εἰς ἣν ἂν πόλιν εἰσέρχησθε καὶ δέχωνται ὑμᾶς ()]</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>θεραπεύετε τοὺς ἐν αὐτῇ ἀσθενεῖς [καὶ λέγετε αὐτοῖς· ἤγγικεν ἡ βασιλεία τοῦ θεοῦ.]</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>[εἰς ἣν δ᾽ ἂν πόλιν εἰσέλθητε καὶ] μὴ δέξωνται ὑμᾶς [ἐξελθόντες εἰς τὰς πλατείας αὐτῆς] εἴπατε·</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>[καὶ] τὸν κονιορτὸν τὸν κολληθέντα ἡμῖν ἐκ τῆς πόλεως ὑμῶν [εἰς τοὺς πόδας] ἀπομασσόμεθα ὑμῖν. [πλὴν] τοῦτο γινώσκετε ὅτι ἤγγικεν ἡ βασιλεία τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>[ὁ ἀκούων ὑμῶν ἐμοῦ ἀκούει. καὶ] ὁ ἀθετῶν ὑμᾶς ἐμὲ ἀθετεῖ. [ὁ δὲ ἐμὲ ἀθετῶν ἀθετεῖ τὸν ἀποστείλαντά με.]</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>[ἰδοὺ] δέδωκα ὑμῖν τὴν ἐξουσίαν τοῦ πατεῖν ἐπάνω ὄφεων καὶ σκορπίων [καὶ ἐπὶ πᾶσαν τὴν δύναμιν τοῦ ἐχθροῦ καὶ οὐδὲν ὑμᾶς οὐ μὴ ἀδικήσῃ].</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>() εἶπεν εὐχαριστῶ σοι καὶ ἐξομολογοῦμαι κύριε τοῦ οὐρανοῦ ὅτι ἅτινα ἦν κρυπτὰ σοφοῖς καὶ συνετοῖς ἀπεκάλυψας νηπίοις. ναὶ ὁ πατήρ ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>πάντα μοι παρεδόθη ὑπὸ τοῦ πατρός καὶ οὐδεὶς ἔγνω τὸν πατέρα εἰ μὴ ὁ υἱὸς οὐδὲ τὸν υἱόν τις γινώσκει εἰ μὴ ὁ πατὴρ καὶ ᾧ ἐὰν ὁ υἱὸς ἀποκαλύψῃ.</p></div>
+<pb n="17"/>
+<div type="textpart" subtype="verse" n="23">
+<p>[καὶ στραφεὶς πρὸς τοὺς μαθητὰς () εἶπεν·] μακάριοι οἱ ὀφθαλμοὶ οἱ βλέποντες ἃ βλέπετε.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>λέγω γὰρ ὑμῖν ὅτι προφῆται οὐκ εἶδαν ἃ ὑμεῖς βλέπετε. ()</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>() νομικός τις ἀνέστη ἐκπειράζων αὐτόν λέγων· τί ποιήσας ζωὴν κληρονομήσω;</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>ὁ δὲ εἶπεν τῷ νομικῷ· ἐν τῷ νόμῳ τί γέγραπται;</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() ἀγαπήσεις κύριον τὸν θεόν σου ἐξ ὅλης τῆς καρδίας σου καὶ ἐξ ὅλης τῆς ψυχῆς σου καὶ ἐν ὅλῃ τῇ ἰσχύι. ()</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>εἶπεν δὲ αὐτῷ· ὀρθῶς εἰπες. τοῦτο ποίει καὶ ζήσῃ.</p></div>
+</div><div type="textpart" subtype="chapter" n="11">
+<div type="textpart" subtype="verse" n="1">
+<p>() ἐν τῷ εἶναι αὐτὸν ἐν τόπῳ τινὶ προσευχόμενον [ὡς ἐπαύσατο] εἶπέν τις τῶν μαθητῶν αὐτοῦ πρὸς αὐτόν κύριε δίδαξον ἡμᾶς προσεύχεσθαι καθὼς καὶ Ἰωάνης ἐδίδαξεν τοὺς μαθητὰς αὐτοῦ</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>[εἶπεν δὲ αὐτοῖς ὅταν προσεύχησθε λέγετε] πάτερ ἐλθέτω τὸ ἅγιον πνεῦμά [σου] ἐφ᾽ ἡμᾶς. () ἐλθέτω ἡ βασιλεία [σου].</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>τὸν ἄρτον σου τὸν ἐπιούσιον δίδου ἡμῖν τὸ καθ᾽ ἡμέραν.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>καὶ ἄφες ἡμῖν τὰς ἁμαρτίας ἡμῶν. καὶ μὴ ἄφες ἡμᾶς εἰσενεχθῆναι εἰς πειρασμόν.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>καὶ εἶπεν· τίς ἐξ ὑμῶν ἕξει φίλον καὶ πορεύσεται πρὸς αὐτὸν μεσονυκτίου αἰτῶν τρεῖς ἄρτους</p></div>
+<pb n="18"/>
+<div type="textpart" subtype="verse" n="6">
+<p>().</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>[κἀκεῖνος ἔσωθεν ἀποκριθεὶς εἴπῃ·] τὰ παιδία [μου] μετ᾽ ἐμοῦ εἰς τὴν κοίτην εἰσίν ().</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() εἰ καὶ οὐ δώσει αὐτῷ ἀναστὰς διὰ τὸ εἶναι φίλον αὐτοῦ διά γε τὴν ἀναίδειαν αὐτοῦ ἐγερθεὶς δώσει αὐτῷ ὅσον χρῄζει.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>[κἀγὼ ὑμῖν λέγω] αἰτεῖτε καὶ δοθήσεται ὑμῖν· ζητεῖτε καὶ εὑρήσετε· κρούετε καὶ ἀνοιγήσεται ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>τίνα γὰρ ἐξ ὑμῶν τὸν πατέρα υἱὸς αἰτήσει ἰχθύν καὶ ἀντὶ ἰχθύος ὄφιν ἐπιδώσει αὐτῷ;</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>ἢ ἀντὶ ᾠοῦ σκορπίον;</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>εἰ οὖν ὑμεῖς πονηροὶ οἴδατε δόματα ἀγαθὰ διδόναι τοῖς τέκνοις ὑμῶν πόσῳ μᾶλλον ὁ πατήρ ὑμῶν ὁ ἐπουράνιος δώσει πνεῦμα ἅγιον. ()</p></div>
+<pb n="19"/>
+<div type="textpart" subtype="verse" n="14">
+<p>καὶ ἦν ἐκβάλλων δαιμόνιον κωφόν. ἐγένετο δὲ τοῦ δαιμονίου ἐξελθόντος ἐλάλησεν ὁ κωφὸς. ()</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>τινὲς δὲ ἐξ αὐτῶν εἶπον· ἐν Βεελζεβοὺλ ἐκβάλλει τὰ δαιμόνια. ()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>αὐτὸς δὲ εἶπεν αὐτοῖς· ()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() εἰ δὲ καὶ ὁ σατανᾶς ἐφ᾽ ἑαυτὸν διεμερίσθη πῶς σταθήσεται ἡ βασιλεία αὐτοῦ ();</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>εἰ δὲ ἐγὼ ἐν Βεελζεβοὺλ ἐκβάλλω τὰ δαιμόνια οἱ υἱοὶ ὑμῶν ἐν τίνι ἐκβάλλουσιν;</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>εἰ δὲ ἐγὼ ἐν δακτύλῳ θεοῦ ἐκβάλλω τὰ δαιμόνια ἄρα ἔφθασεν ἐφ᾽ ὑμᾶς ἡ βασιλεία τοῦ θεου.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>ὅταν ὁ ἰσχυρὸς καθωπλισμένος φυλάσσῃ τὴν ἑαυτοῦ αὐλήν ἐν εἰρήνῃ ἐστὶν τὰ ὑπάρχοντα αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>ἐπὰν δὲ ἰσχυρότερος ἐπελθὼν νικήσῃ αὐτόν τὴν πανοπλίαν αὐτοῦ αἴρει ἐφ᾽ ᾗ πέποίθεν καὶ τὰ σκῦλα αὐτοῦ διαδίδωσιν.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() γυνὴ τις ἐπάρασα φωνὴν ἐκ τοῦ ὄχλου εἶπεν αὐτῷ· μακαρία ἡ κοιλία ἡ βαστάσασά σε καὶ μαστοὶ οὓς ἐθήλασας.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>αὐτὸς δὲ εἶπεν· μενοῦν μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ θεοῦ καὶ ποιοῦντες.</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>τῶν δὲ ὄχλων ἐπαθροιζομένων ἤρξατο λέγειν· ἡ γενεὰ αὕτη [γενεὰ πονηρά ἐστιν· σημεῖον ζητεῖ καὶ] σημεῖον οὐ δοθήσεται αὐτῇ.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>οὐδεὶς λύχνον ἅψας εἰς κρύπτην τίθησιν () ἀλλ᾽ ἐπὶ τὴν λυχνίαν ἵνα πᾶσι λάμπῃ.</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>() ἐρωτᾷ αὐτὸν Φαρισαῖος ὅπως ἀριστήσῃ παρ᾽ αὐτῷ ().</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>ὁ δὲ Φαρισαῖος ἤρξατο διακρινόμενος ἐν ἑαυτῷ λέγειν· διὰ τί οὐ πρῶτον ἐβαπτίσθη πρὸ ἀνέπεσεν;</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>εἶπεν δὲ ὁ Ἰησοῦς πρὸς αὐτόν· νῦν ὑμεῖς οἱ Φαρισαῖοι τὸ ἔξωθεν τοῦ ποτηρίου καὶ τοῦ πίνακος καθαρίζετε τὸ δὲ ἔσωθεν ὑμῶν γέμει ἁρπαγῆς καὶ πονηρίας.</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>οὐχ ὁ ποιήσας τὸ ἔξωθεν καὶ τὸ ἔσωθεν ἐποίησεν;</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>τὰ ὑπάρχοντα δότε ἐλεημοσύνην καὶ πάντα καθαρὰ ἔσται ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>ἀλλὰ οὐαὶ ὑμῖν τοῖς Φαρισαίοις ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν λάχανον καὶ παρέρχεσθε τὴν κλῆσιν καὶ τὴν ἀγάπην τοῦ θεοῦ.</p></div>
+<pb n="20"/>
+<div type="textpart" subtype="verse" n="43">
+<p>οὐαὶ ὑμῖν τοῖς Φαρισαίοις ὅτι ἀγαπᾶτε τὴν πρωτοκαθεδρίαν ἐν ταῖς συναγωγαῖς καὶ τοὺς ἀσπασμοὺς ἐν ταῖς ἀγοραῖς.</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>ὁ δὲ εἶπεν· καὶ ὑμῖν οὐαὶ τοῖς νομικοῖς ὅτι φορτίζετε τοὺς ἀνθρώπους φορτία δυσβάστακτα καὶ αὐτοὶ ἑνὶ τῶν δακτύλων οὐ προσψαύετε.</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>οὐαὶ ὑμῖν ὅτι οἰκοδομεῖτε τὰ μνήματα τῶν προφητῶν καὶ οἱ πατέρες ὑμῶν ἀπέκτειναν αὐτούς.</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>μαρτυρεῖτε μὴ συνευδοκεῖν τοῖς ἔργοις τῶν πατέρων ὑμῶν; ὅτι αὐτοὶ μὲν ἀπέκτειναν αὐτούς ὑμεῖς δὲ οἰκοδομεῖτε.</p></div>
+<div type="textpart" subtype="verse" n="52">
+<p>οὐαὶ ὑμῖν τοῖς νομικοῖς ὅτι ἤρατε τὴν κλεῖδα τῆς γνώσεως· αὐτοὶ οὐκ εἰσήλθατε καὶ τοὺς εἰσερχομένους ἐκωλύσατε.</p></div>
+</div><div type="textpart" subtype="chapter" n="12">
+<div type="textpart" subtype="verse" n="1">
+<p>() ἤρξατο λέγειν πρὸς τοὺς μαθητάς· προσέχετε ἀπὸ τῆς ζύμης τῶν Φαρισαίων ἥτις ἐστὶν ὑπόκρισις.</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>οὐδὲν δὲ συγκεκαλυμμένον ὃ οὐ φανερωθήσεται καὶ οὐδὲν κρυπτὸν ὃ οὐ γνωσθήσεται·</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>ἀνθ᾽ ὧν ὅσα ἐν τῇ σκοτίᾳ εἴπατε ἐν τῷ φωτὶ ἀκουσθήσεται καὶ ὃ πρὸς τὸ οὖς ἐλαλήσατε ἐν τοῖς ταμείοις κηρυχθήσεται ἐπὶ τῶν δωμάτων.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>λέγω τοῖς φίλοις μου μὴ φοβηθῆτε ἀπὸ τῶν ἀποκτενόντων τὸ σῶμα καὶ μετὰ ταῦτα μηδεμίαν εἰς ὑμᾶς ἐχόντων ἐξουσίαν.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>ὑποδείξω δὲ ὑμῖν τίνα φοβηθῆτε· φοβήθητε δὲ τὸν μετὰ τὸ ἀποκτεῖναι ἔχοντα ἐξουσίαν βαλεῖν εἰς γέενναν. ναὶ λέγω ὑμῖν τοῦτον φοβήθητε.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>λέγω γὰρ ὑμῖν πᾶς ὅς ἂν ὁμολογήσῃ ἐν ἐμοὶ ἐνώπιον τῶν ἀνθρώπων καὶ ὁμολογήσω ἐν αὐτῷ ἐνώπιον τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>[καὶ] ὃς ἂν ἀρνήσηταί με ἐνώπιον τῶν ἀνθρώπων ἀπαρνηθήσεται ἐνώπιον τοῦ θεοῦ.</p></div>
+<pb n="21"/>
+<div type="textpart" subtype="verse" n="10">
+<p>καὶ ὅς ἂν εἴπῃ εἰς τὸν υἱὸν τοῦ ἀνθρώπου ἀφεθήσεται αὐτῷ· ὃς δ᾽ ἂν εἴπῃ εἰς τὸ ἅγιον πνεῦμα οὐκ ἀφεθήσεται.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>ὅταν δὲ εἰσφέρωσιν ὑμᾶς εἰς [τὰς συναγωγὰς καὶ τὰς ἀρχὰς καὶ] τὰς ἐξουσίας μὴ προμεριμνᾶτε πῶς ἀπολογήσησθε ἢ τί εἴπητε.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>τὸ γὰρ ἅγιον πνεῦμα διδάξει ὑμᾶς ἐν αὐτῇ τῇ ὥρᾳ ἃ δεῖ εἰπεῖν.</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() εἶπεν δέ τις αὐτῷ· εἰπὲ τῷ ἀδελφῷ μου μερίσασθαι μετ᾽ ἐμοῦ τὴν κληρονομίαν.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>ὁ δὲ εἶπεν αὐτῷ· τίς με κατέστησεν κριτὴν ἐφ᾽ ὑμᾶς;</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>εἶπεν δὲ παραβολὴν πρὸς αὐτοὺς λέγων· ἀνθρώπου τινὸς πλουσίου εὐφόρησεν ἡ χώρα.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>καὶ διελογίζετο ἐν ἑαυτῷ λέγων·</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>() ἔχεις πολλὰ ἀγαθὰ εὐφραίνου.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>εἶπεν δὲ αὐτῷ ὁ θεός· ἄφρων ταύτῃ τῇ νυκτὶ τὴν ψυχήν σου ἀπαιτοῦσιν. ἃ δὲ ἡτοίμασας τίνι ἔσται;</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>() λέγω ὑμῖν μὴ μεριμνᾶτε τῇ ψυχῇ τί φάγητε μηδὲ τῷ σώματι τί ἐνδύσησθε.</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>ἡ γὰρ ψυχὴ πλέον ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>κατανοήσατε τοὺς κόρακας ὅτι οὔτε σπείρουσιν οὔτε θερίζουσιν οὔτε συνάγουσιν εἰς ἀποθήκας καὶ ὁ θεὸς τρέφει αὐτά. πόσῳ μᾶλλον ὑμεῖς διαφέρετε τῶν πετεινῶν;</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>κατανοήσατε τὰ κρίνα πῶς οὔτε ὑφαίνει οὔτε νήθει. λέγω δὲ ὑμῖν ὅτι οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>εἰ δὲ τὸν χόρτον ὁ θεὸς οὕτως ἀμφιέννυσι () πόσῳ μᾶλλον ὑμᾶς ὀλιγόπιστοι;</p></div>
+<pb n="22"/>
+<div type="textpart" subtype="verse" n="29">
+<p>καὶ ὑμεῖς μὴ ζητεῖτε τί φάγητε ἢ τί πίητε καὶ μὴ μετεωρίζεσθε.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>ταῦτα γὰρ τὰ ἔθνη τοῦ κόσμου ἐπιζητοῦσιν ὑμῶν δὲ ὁ πατήρ οἶδεν ὅτι χρῄζετε τούτων.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>πλὴν ζητεῖτε δὲ τὴν βασιλείαν τοῦ θεοῦ καὶ ταῦτα πάντα προστεθήσεται ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>μὴ φοβοῦ τὸ μικρὸν ποίμνιον ὅτι εὐδόκησεν ὁ πατὴρ δοῦναι ὑμῖν τὴν βασιλείαν.</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>ἔστω ὑμῶν ἡ ὀσφὺς περιεζωσμένη καὶ οἱ λύχνοι καιόμενοι</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>[καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομένοις τὸν κύριον ἑαυτῶν] πότε ἀναλύσῃ ἐκ τῶν γάμων.</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>[μακάριοι] οἱ δοῦλοι [ἐκεῖνοι οὓς ἐλθὼν ὁ κύριος εὑρήσει γρηγοροῦντας. ()]</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>καὶ ἐὰν ἔλθῃ τῇ ἑσπερινῇ φυλακῇ καὶ εὕρῃ οὕτως μακάριοί εἰσιν.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>τοῦτο δὲ γινώσκετε ὅτι εἰ ᾔδει ὁ οἰκοδεσπότης ποίᾳ ὥρᾳ ὁ κλέπτης ἔρχεται οὐκ ἂν ἀφῆκεν διορυχθῆναι τὸν οἶκον αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>καὶ ὑμεῖς γίνεσθε ἕτοιμοι ὅτι ᾗ ὥρᾳ οὐ δοκεῖτε ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται.</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>εἶπεν δὲ ὁ Πέτρος· πρὸς ἡμᾶς λέγεις τὴν παραβολὴν ταύτην ἢ καὶ πρὸς πάντας;</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>καὶ εἶπεν ὁ Ἰησοῦς· τίς ἄρα ἐστὶν ὁ πιστὸς οἰκονόμος ὁ ἀγαθός ὃν καταστήσει ὁ κύριος ἐπὶ τῆς θεραπείας αὐτοῦ διδόναι ἐν καιρῷ τὸ σιτομέτριον;</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>μακάριος ὁ δοῦλος ἐκεῖνος ὃν ἐλθὼν ὁ κύριος αὐτοῦ εὑρήσει ποιοῦντα οὕτως.</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>[ἀμὴν λέγω ὑμῖν ὅτι] ἐπὶ πᾶσιν τοῖς ὑπάρχουσιν αὐτοῦ καταστήσει αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>ἐὰν δὲ εἴπῃ ὁ δοῦλος ἐκεῖνος ἐν τῇ καρδίᾳ αὐτοῦ· χρονίζει ὁ κύριός μου ἔρχεσθαι καὶ ἄρξηται τύπτειν τοὺς παῖδας καὶ τὰς παιδίσκας ἐσθίειν τε καὶ πίνειν καὶ μεθύσκεσθαι"</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>ἥξει ὁ κύριος τοῦ δούλου ἐκείνου ἐν ἡμέρᾳ ᾗ οὐ προσδοκᾷ καὶ ἐν ὥρᾳ ᾗ οὐ γινώσκει καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ἀπίστων θήσει.</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>ὁ γὰρ δοῦλος ὁ γνούς καὶ μὴ ποιήσας δαρήσεται πολλά.</p></div>
+<pb n="23"/>
+<div type="textpart" subtype="verse" n="48">
+<p>ὁ δὲ μὴ γνούς ποιήσας δὲ ἄξια πληγῶν δαρήσεται ὀλίγα. παντὶ δὲ ᾧ ἐδόθη πολύ πολύ ζητηθήσεται παρ’ αὐτου καὶ ᾧ παρέθεντο πολύ περισσότερον αἰτήσουσιν αὐτον.</p></div>
+<div type="textpart" subtype="verse" n="49">
+<p>πῦρ ἦλθον βαλεῖν ἐπὶ τὴν γῆν καὶ θέλω εἰ ἤδη ἀνήφθη.</p></div>
+<div type="textpart" subtype="verse" n="50">
+<p>βάπτισμα ἔχω βαπτισθῆναι καὶ τί θέλω εἰ ἤδη τετέλεκα αὐτό; ποτήριον ἔχω πιεῖν καὶ τί θέλω εἰ ἤδη πληρώσω αὐτό;</p></div>
+<div type="textpart" subtype="verse" n="51">
+<p>δοκεῖτε ὅτι εἰρήνην παρεγενόμην βαλεῖν ἐν τῇ γῇ; οὐχί λέγω ὑμῖν ἀλλὰ διαμερισμόν.</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>διαμερισθήσονται πατὴρ ἐπὶ υἱῷ καὶ υἱὸς ἐπὶ πατρί μήτηρ ἐπὶ θυγατέρα καὶ θυγάτηρ ἐπὶ μητέρα πενθερὰ ἐπὶ τὴν νύμφην καὶ νύμφη ἐπὶ τὴν πενθεράν.</p></div>
+<div type="textpart" subtype="verse" n="56">
+<p>() ὑποκριταί. τὸ πρόσωπον τοῦ οὐρανοῦ καὶ τῆς γῆς δοκιμάζετε τὸν δὲ καιρὸν τοῦτον οὐ δοκιμάζετε;</p></div>
+<div type="textpart" subtype="verse" n="57">
+<p>καὶ τὸ δίκαιον οὐκ ἀφ᾽ ἑαυτῶν κρίνετε;</p></div>
+<div type="textpart" subtype="verse" n="58">
+<p>[ὡς γὰρ ὑπάγεις μετὰ τοῦ ἀντιδίκου σου ἐπ᾽ ἄρχοντα ἐν τῇ ὁδῷ δὸς ἐργασίαν ἀπηλλάχθαι ἀπ᾽ αὐτοῦ] μήποτε κατασύρῃ σε πρὸς τὸν κριτήν καὶ ὁ κριτής παραδώσει σε τῷ πράκτορι καὶ ὁ πράκτωρ βαλεῖ σε εἰς φυλακήν.</p></div>
+<div type="textpart" subtype="verse" n="59">
+<p>λέγω σοι οὐ μὴ ἐξέλθῃς ἐκεῖθεν ἕως καὶ ἀποδῷς τὸ ἔσχατον κοδράντην.</p></div>
+</div><div type="textpart" subtype="chapter" n="13">
+<div type="textpart" subtype="verse" n="10">
+<p>() ἐν τοῖς σάββασιν.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>() [γυνὴ] ()</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>() [ἀνωρθώθη] ().</p></div>
+<pb n="24"/>
+<div type="textpart" subtype="verse" n="14">
+<p>ἀποκριθεὶς δὲ () ὅτι τῷ σαββάτῳ ἐθεράπευσεν ὁ Ἰησοῦς ἔλεγεν· () μὴ τῇ ἡμέρᾳ τοῦ σαββάτου.</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>ἀπεκρίθη δὲ ὁ Ἰησοῦς καὶ εἶπεν· ἕκαστος ὑμῶν ἐν τοῖς σάββασιν οὐ λύει τὸν ὄνον ἢ τὸν βοῦν αὐτοῦ ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν ποτίζει;</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>ταύτην δὲ θυγατέρα Ἀβραὰμ ἣν ἔδησεν ὁ σατανᾶς () [οὐκ ἔδει λυθῆναι ἀπὸ τοῦ δεσμοῦ τούτου τῇ ἡμέρᾳ τοῦ σαββάτου];</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() ἡ βασιλεία τοῦ θεοῦ ()</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>ὁμοία ἐστὶν κόκκῳ σινάπεως ὃν λαβὼν ἄνθρωπος ἔσπειρεν εἰς κῆπον ἑαυτοῦ [καὶ ηὔξησεν καὶ ἐγένετο δένδρον καὶ τὰ πετεινὰ τοῦ οὐρανοῦ κατεσκήνωσαν ὑπὸ τοὺς κλάδους αὐτοῦ].</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() ἡ βασιλεία τοῦ θεοῦ ()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>ὁμοία ἐστὶν ζύμῃ ἣν λαβοῦσα γυνὴ ἐνέκρυψεν εἰς ἄλευρου σάτα τρία ἕως οὗ ἐζυμώθῇ ὅλον ().</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>() ἀφ᾽ οὗ ἂν ἐγερθῇ ὁ οἰκοδεσπότης καὶ ἀποκλείσῃ τὴν θύραν καὶ () κρούειν () ἀποκριθεὶς ἐρεῖ· () οὐκ οἶδα πόθεν ἐστέ.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>τότε () λέγειν· ἐφάγομεν ἐνώπιόν σου καὶ ἐπίομεν καὶ ἐν ταῖς πλατείαις ἡμῶν ἐδίδαξας.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>καὶ ἐρεῖ λέγων· () ἀπόστητε ἀπ᾽ ἐμοῦ πάντες ἐργάται ἀνομίας.</p></div>
+<div type="textpart" subtype="verse" n="28b">
+<p>ὄτε πάντας τοὺς δικαίους ἴδητε ἐν τῇ βασιλεία τοῦ θεοῦ ὑμᾶς δὲ κρατουμένους ἔξω</p></div>
+<div type="textpart" subtype="verse" n="28a">
+<p>ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.</p></div>
+</div><div type="textpart" subtype="chapter" n="14">
+<pb n="25"/>
+<div type="textpart" subtype="verse" n="12">
+<p>() [ὅταν ποιῇς] ἄριστον ἢ δεῖπνον μὴ φώνει () μήποτε καὶ αὐτοὶ ἀντικαλέσωσίν σε [καὶ γένηται ἀνταπόδομα σοι].</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>ἀλλὰ () κάλει πτωχούς ()</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>() ὅτι οὐκ ἔχουσιν ἀνταποδοῦναί σοι ἀνταποδοθήσεται δέ σοι ἐν τῇ ἀναστάσει ().</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>() ἄνθρωπός τις ἐποίει δεῖπνον καὶ ἐκάλεσεν πολλούς.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>[καὶ ἀπέστειλεν τὸν δοῦλον αὐτοῦ () τοῖς κεκλημένοις ()]</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>καὶ ἤρξαντο πάντες παραιτεῖσθαι ()· ἀγρὸν ἠγόρασα ()·</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>() ζεύγη βοῶν ἠγόρασα ()·</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() γυναῖκα ἔλαβον ().</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>καὶ [() ὁ δοῦλος] ἀπήγγειλεν τῷ κυρίῳ αὐτοῦ ταῦτα. τότε κινηθεὶς ὁ οἰκοδεσπότης εἶπεν· () ἔξελθε εἰς τὰς πλατείας καὶ ῥύμας τῆς πόλεως ().</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>[καὶ εἶπεν ὁ δοῦλος·] () γέγονεν ὃ ἐπέταξας καὶ ἔτι τόπος ἐστίν.</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>[καὶ εἶπεν ὁ κύριος ()]· ἔξελθε εἰς τὰς ὁδοὺς καὶ φραγμοὺς ().</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>() ἐὰν μή τις καταλείψῃ πατέρα καὶ μητέρα καὶ ἀδελφοὺς καὶ γυναῖκα καὶ τέκνα () οὐκ ἔστι μου μαθητής.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>() ὃς οὐκ ἀποτάσσεται πᾶσιν τοῖς ὑπάρχουσιν () οὐ δύναται εἶναί μου μαθητής.</p></div>
+</div><div type="textpart" subtype="chapter" n="15">
+<div type="textpart" subtype="verse" n="4">
+<p>() τίς ἄνθρωπος ἐξ ὑμῶν ὃς ἕξει ἑκατὸν πρόβατα καὶ ἀπολέσας ἐξ αὐτῶν ἓν οὐ καταλείπει τὰ ἐνενήκοντα ἐννέα ἐπὶ τὰ ὄρη ἐν τῇ ἐρήμῳ καὶ ἀπελθὼν τὸ ἀπολωλὸς ζητεῖ ἕως εὕρῃ αὐτό;</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>() εὑρών () χαίρων"</p></div>
+<pb n="26"/>
+<div type="textpart" subtype="verse" n="7">
+<p>() οὕτως χαρὰ ἔσται ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι. ()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() δραχμὰς ἔχουσα καὶ ἀπολέσασα μίαν οὐχὶ () ζητεῖ () ἕως () εὕρῃ;</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>() χαρὰ ἔσται ἐνώπιον τοῦ θεοῦ ἐπὶ ἑνὶ ἁμαρτωλῷ μετανοοῦντι.</p></div>
+</div><div type="textpart" subtype="chapter" n="16">
+<div type="textpart" subtype="verse" n="1">
+<p>() [ὁ Ἰησοῦς ἔλεγεν ()·] ἄνθρωπός ἦν () ὃς εἶχεν οἰκονόμον ().</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>() εἶπεν αὐτῷ· () ἀπόδος τὸν λόγον τῆς οἰκονομίας σου οὐ γὰρ δύνῃ ἔτι οἰκονομεῖν.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>εἶπεν δὲ ἐν ἑαυτῷ ὁ οἰκονόμος ()·</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>ἔγνων τί ποιήσω ἵνα ὅταν μετασταθῶ ἐκ τῆς οἰκονομίας δέξωνταί με εἰς τοὺς οἴκους ἑαυτῶν.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>καὶ προσκαλεσάμενος ἕνα ἕκαστον τῶν χρεοφειλετῶν τοῦ κυρίου ἑαυτοῦ ἔλεγεν τῷ πρώτῳ· πόσον ὀφείλεις τῷ κυρίῳ μου;</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>ὁ δὲ εἶπεν· ἑκατὸν (). ὁ δὲ εἶπεν αὐτῷ· δέξαι σου τὰ γράμματα καὶ () γράψον πεντήκοντα.</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>ἔπειτα ἑτέρῳ εἶπεν· σὺ δὲ πόσον ὀφείλεις; ὁ δὲ εἶπεν· ἑκατὸν (). εἶπεν αὐτῷ· δέξαι σου τὰ γράμματα καὶ γράψον ὀγδοήκοντα.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>καὶ ἐγὼ ὑμῖν λέγω ἑαυτοῖς ποιήσατε φίλους ἐκ τοῦ μαμωνᾶ τῆς ἀδικίας. ()</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>εἰ οὖν ἐν τῷ μαμωνᾷ ἀδίκῳ πιστοὶ οὐκ ἐγένεσθε τὸ ἀληθινὸν τίς ὑμῖν πιστεύσει;</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>καὶ εἰ ἐν τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε τὸ ἐμον τίς ὑμῖν δώσει;</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύιν καὶ μαμωνᾷ.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>ἤκουον δὲ ταῦτα οἱ Φαρισαῖοι φιλάργυροι ὑπάρχοντες καὶ ἐξεμυκτήριζον αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>καὶ εἶπεν αὐτοῖς· ὑμεῖς ἐστε οἱ δικαιοῦντες ἑαυτοὺς ἐνώπιον τῶν ἀνθρώπων· ὁ δὲ θεὸς γινώσκει τὰς καρδίας ὑμῶν ὅτι τὸ ἐν ἀνθρώποις ὑψηλὸν βδέλυγμα ἐνώπιον τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>ὁ νόμος καὶ οἱ προφῆται ἕως Ἰωάννου· ἀπὸ τότε ἡ βασιλεία τοῦ θεοῦ εὐαγγελίζεται καὶ πᾶς εἰς αὐτὴν βιάζεται.</p></div>
+<pb n="27"/>
+<div type="textpart" subtype="verse" n="17">
+<p>εὐκοπώτερον δέ ἐστιν τὸν οὐρανὸν καὶ τὴν γῆν παρελθεῖν ἢ τῶν λόγων μου μίαν κεραίαν πεσεῖν.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>ὁ ἀπολύων τὴν γυναῖκα αὐτοῦ καὶ γαμῶν ἑτέραν μοιχεύει ὁ ἀπολελυμένην γαμῶν ὁμοίως μοιχός ἐστιν.</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>ἄνθρωπός τις ἦν πλούσιος καὶ ἐνεδιδύσκετο πορφύραν καὶ βύσσον εὐφραινόμενος καθ᾿ ἡμέραν λαμπρῶς.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>πτωχὸς δέ τις ὀνόματι Λάζαρος ἐβέβλητο εἰς τὸν πυλῶνα ᾑλκωμένος</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>καὶ ἐπιθυμῶν χορτασθῆναι ἀπὸ τῶν πιπτόντων ἀπὸ τῆς τραπέζης τοῦ πλουσίου. ἀλλὰ καὶ οἱ κύνες ἐρχόμενοι ἔλειχον τὰ τραύματα αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>ἐγένετο ἀποθανεῖν τὸν πτωχὸν καὶ ἀπηνέχθη ὑπὸ τῶν ἀγγέλων εἰς τὸν κόλπον τοῦ Ἀβραάμ. ἀπέθανε δὲ καὶ ὁ πλούσιος καὶ ἐτάφη"</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>ἐν τῷ ᾅδῃ. ἐπάρας οὖν τοὺς ὀφθαλμοὺς αὐτοῦ ὑπάρχων ἐν βασάνοις ὁρᾷ Ἀβραὰμ ἀπὸ μακρόθεν καὶ Λάζαρον ἐν τῷ κόλπῷ αὐτοῦ.</p></div>
+<pb n="28"/>
+<div type="textpart" subtype="verse" n="24">
+<p>καὶ αὐτὸς φωνήσας εἶπε· πάτερ Ἀβραάμ ἐλέησόν με καὶ πέμψον Λάζαρον ἵνα βάψῃ τὸ ἄκρον τοῦ δακτύλου ὕδατος καὶ καταψύξῃ τὴν γλῶσσάν μου ὅτι ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>Ἀβραάμ δὲ εἶπε· τέκνον μνήσθητι ὅτι ἀπέλαβες σὺ τὰ ἀγαθά ἐν τῇ ζωῇ σου καὶ Λάζαρος ὁμοίως τὰ κακά. νῦν δὲ ὅδε παρακαλεῖται σὺ δὲ ὀδυνᾶσαι.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>καὶ ἐπὶ πᾶσι τούτοις μεταξὺ ὑμῶν καὶ ἡμῶν χάσμα μέγα ἐστήρικται ὅπως οἱ ἐνταῦθα διαβῆναι πρὸς ὑμᾶς μὴ δύνωνται μηδὲ ἐκεῖθεν ὧδε διαπερῶσιν.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() ἐρωτῶ οὖν σε πάτερ ἵνα πέμψῃς αὐτὸν εἰς τὴν οἰκίαν τοῦ πατρός μου</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>ἔχω γὰρ ἐκεῖ πέντε ἀδελφούς ὅπως διαμαρτύρηται αὐτοῖς μὴ καὶ αὐτοὶ ἔλθωσιν εἰς τοῦτον τὸν τόπον τῆς βασάνου.</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>λέγει αὐτῷ· ἔχουσι Μωϋσέα καὶ τοὺς προφήτας· ἀκουσάτωσαν αὐτῶν.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>ὁ δὲ εἶπεν· οὐχί πάτερ ἀλλ᾿ ἐάν τις ἐκ νεκρῶν πορευθῇ πρὸς αὐτοὺς μετανοήσουσιν.</p></div>
+<pb n="29"/>
+<div type="textpart" subtype="verse" n="31">
+<p>ὁ δὲ εἶπεν· εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἤκουσαν ἐπεὶ οὐδὲ τοῦ ἐγειρομένου ἐκ νεκρῶν ἀκούσουσιν.</p></div>
+</div><div type="textpart" subtype="chapter" n="17">
+<div type="textpart" subtype="verse" n="1">
+<p>εἶπεν δὲ πρὸς τοὺς μαθητὰς αὐτοῦ ()· [τὰ σκάνδαλα () ἔρχεται] () οὐαὶ ἐκείνῳ δι᾽ οὗ τὸ σκάνδαλον ἔρχεται.</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>συμφέρει αὐτῷ εἰ μὴ ἐγεννήθη ἢ γεννηθέντα μύλῳ ὀνικῷ προστεθῆναι καὶ καταποντισθῆναι ἐν τῷ βάθει τῆς θαλάσσης ἢ ἵνα σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>() ἐὰν ἁμάρτῃ ὁ ἀδελφός σου ἐπιτίμησον αὐτῷ [καὶ ἐὰν μετανοήσῃ ἄφες αὐτῷ].</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>καὶ ἐὰν ἑπτάκις τῆς ἡμέρας ἁμαρτήσῃ () [καὶ () ἑπτάκις () μετανοήσῃ ()] ἀφήσεις αὐτῷ.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>καὶ ἐγένετο () καὶ αὐτὸς διήρχετο μέσον Σαμαρείας.</p></div>
+<pb n="30"/>
+<div type="textpart" subtype="verse" n="12">
+<p>καὶ εἰσερχομένου αὐτοῦ εἴς τινα κώμην συνήντησαν δέκα λεπροὶ. ()</p></div>
+<div type="textpart" subtype="verse" n="14a">
+<p>καὶ ἀπέστειλεν αὐτοὺς λέγων· πορευθέντες δείξατε ἑαυτοὺς τοῖς ἱερεῦσιν.</p></div>
+</div><div type="textpart" subtype="chapter" n="4">
+<div type="textpart" subtype="verse" n="27">
+<p>καὶ πολλοὶ λεπροὶ ἦσαν ἐν τῷ Ἰσραὴλ ἐν ἡμέραις Ἐλισαίου τοῦ προφήτου καὶ οὐκ ἐκαθαρίσθη εἰ μὴ Νεεμὰν ὁ Σύρος.</p></div>
+</div><div type="textpart" subtype="chapter" n="17">
+<div type="textpart" subtype="verse" n="14b">
+<p>καὶ ἐγένετο ἐν τῷ ὑπάγειν αὐτοὺς ἐκαθαρίσθησαν.</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>εἷς ἐξ αὐτῶν ἰδὼν ὅτι ἐκαθαρίσθη ὑπέστρεψεν μετὰ φωνῆς μεγάλης δοξάζων τὸν θεόν.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>καὶ ἔπεσεν ἐπὶ πρόσωπον παρὰ τοὺς πόδας αὐτοῦ εὐχαριστῶν αὐτῷ. καὶ αὐτὸς ἦν Σαμαρίτης.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· ()</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>οὐχ εὑρέθησαν ὑποστρέψαντες δοῦναι δόξαν τῷ θεῷ εἰ μὴ ὁ ἀλλογενὴς οὗτος;</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>καὶ εἶπεν αὐτῷ· () ἡ πίστις σου σὲ σέσωκεν.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>ἐπερωτηθεὶς δὲ ὑπὸ τῶν Φαρισαίων πότε ἔρχεται ἡ βασιλεία τοῦ θεοῦ ἀπεκρίθη αὐτοῖς καὶ εἶπεν· οὐκ ἔρχεται ἡ βασιλεία τοῦ θεοῦ μετὰ παρατηρήσεως.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>οὐδὲ λέγουσιν· ἰδοὺ ὧδε ἤ· ἐκεῖ ἰδοὺ γὰρ ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστιν.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>() ἐλεύσονται ἡμέραι ὅταν ἐπιθυμήσητε ἰδεῖν μίαν τῶν ἡμερῶν τοῦ υἱοῦ τοῦ ἀνθρώπου ().</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>πρῶτον δὲ δεῖ αὐτὸν πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι. ()</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>καὶ καθὼς ἐγένετο ἐν ταῖς ἡμέραις Νῶε οὕτως ἔσται καὶ ἐν ταῖς ἡμέραις τοῦ υἱοῦ τοῦ ἀνθρώπου.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>ὁμοίως καθὼς ἐγένετο ἐν ταῖς ἡμέραις Λώτ. ()</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>μνημονεύετε τῆς γυναικὸς Λώτ.</p></div>
+</div><div type="textpart" subtype="chapter" n="18">
+<div type="textpart" subtype="verse" n="1">
+<p>ἔλεγεν δὲ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐγκακεῖν</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>(). κριτής τις ἦν [ἔν τινι πόλει]. ()</p></div>
+<pb n="31"/>
+<div type="textpart" subtype="verse" n="3">
+<p>χήρα δὲ ἦν [ἐν τῇ πόλει ἐκείνῃ] () λέγουσα· ἐκδίκησόν με ἀπὸ τοῦ ἀντιδίκου μου.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>() εἶπεν ἐν ἑαυτῷ· ()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>διά γε τὸ παρέχειν μοι κόπον τὴν χήραν ταύτην ἐκδικήσω αὐτήν ἵνα μὴ εἰς τέλος ἐρχομένη ὑπωπιάζῃ με.</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>[ἀκούσατε τί ὁ () κριτὴς λέγει];</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>ὁ δὲ θεός οὐ μὴ ποιήσῃ τὴν ἐκδίκησιν τῶν ἐκλεκτῶν αὐτοῦ τῶν βοώντων αὐτῷ ἡμέρας καὶ νυκτός ();</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>[εἶπεν δὲ () τὴν παραβολὴν ταύτην ()]·</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>ἄνθρωποι δύο [ἀνέβησαν] εἰς τὸ ἱερὸν προσεύξασθαι ὁ εἷς Φαρισαῖος καὶ ὁ ἕτερος τελώνης.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο· ὁ θεὸς εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων ἅρπαγες ἄδικοι μοιχοί ἢ καὶ ὡς οὗτος ὁ τελώνης.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>νηστεύω δὶς τοῦ σαββάτου· ἀποδεκατῶ πάντα ὅσα κτῶμαι.</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>ὁ δὲ τελώνης μακρόθεν ἑστὼς οὐκ ἤθελεν οὐδὲ τοὺς ὀφθαλμοὺς ἐπᾶραι εἰς τὸν οὐρανόν ἀλλ᾽ ἔτυπτεν τὸ στῆθος αὐτοῦ λέγων· ὁ θεός ἱλάσθητί μοι τῷ ἁμαρτωλῷ.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>λέγω ὑμῖν κατέβη οὗτος δεδικαιωμένος εἰς τὸν οἶκον αὐτοῦ παρ᾽ ἐκεῖνον ὅτι πᾶς ὁ ὑψῶν αὑτὸν ταπεινωθήσεται ὁ δὲ ταπεινῶν ἑαυτὸν ὑψωθήσεται.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>() ἄφετε τὰ παιδία ἔρχεσθαι πρός με () τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τῶν οὐρανῶν.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>εἶπέ τις πρὸς αὐτὸν· διδάσκαλε ἀγαθὲ τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>ὁ δὲ (εἶπεν)· μή με λέγε ἀγαθόν; εἷς ἐστιν ἀγαθὸς ὁ πατήρ.</p></div>
+<pb n="32"/>
+<div type="textpart" subtype="verse" n="20">
+<p>ὁ δὲ ἔφη· τὰς ἐντολὰς οἶδα· μὴ φονεύσῃς μὴ μοιχεύσῃς μὴ κλέψῃς μηδὲ ψευδομαρτυρήσῃς τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>καὶ ταῦτα πάντα ἐφύλαξα ἐκ νεότητος.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>ἀκούσας ταῦτα ὁ Ἰησους εἶπεν αὐτῷ· ἕν σοι λείπει. πάντα ὅσα ἔχεις πώλησον καὶ δὸς πτωχοῖς καὶ ἕξεις θησαυρὸν ἐν οὐρανῷ· καὶ δεῦρο ἀκολούθει μοι. ()</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>() πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσπορεύονται.</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>ἐγένετο δὲ ἐν τῷ ἐγγίζειν αὐτὸν τῇ Ἰεριχώ καί τις τυφλὸς ἐπαιτῶν ἐκάθητο παρὰ τὴν ὁδὸν.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>ἀκούσας δὲ ὄχλου διαπορευομένου ἐπυνθάνετο τί ἂν εἴη τοῦτο.</p></div>
+<pb n="33"/>
+<div type="textpart" subtype="verse" n="37">
+<p>ἀπηγγέλη δὲ αὐτῷ ὅτι Ἰησοῦς παρέρχεται.</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>καὶ ἐβόα· Ἰησοῦ υἱὲ Δαυίδ ἐλέησόν με.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>καὶ οἱ προάγοντες ἐπετίμων αὐτῷ ἵνα σιγήσῃ. ()</p></div>
+<div type="textpart" subtype="verse" n="40">
+<p>σταθεὶς δὲ ἐκέλευσεν αὐτὸν ἀχθῆναι (πρὸς αὐτόν). ἐγγίσαντος δὲ αὐτοῦ ἐπηρώτησεν αὐτόν·</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>τί σοι θέλεις ποιήσω; ὁ δὲ εἶπε· κύριε ἵνα ἀναβλέψω.</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>καὶ ἀποκριθεὶς εἶπεν ὁ Ἰησοῦς· ἀνάβλεψον· ἡ πίστις σου σέσωκέν σε.</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>καὶ παραχρῆμα ἀνέβλεψεν. () καὶ πᾶς ὁ λαὸς ἰδὼν ἔδωκεν αἶνον τῷ θεῷ.</p></div>
+</div><div type="textpart" subtype="chapter" n="19">
+<div type="textpart" subtype="verse" n="2">
+<p>() [ἀνὴρ ἦν καλούμενος ὀνόματι] Ζακχαῖος ()</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>() ὑπεδέξατο αὐτὸν χαίρων.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() Ζακχαῖος εἶπεν ()· ἰδοὺ τὰ ἡμίσιά μου τῶν ὑπαρχόντων τοῖς πτωχοῖς δίδωμι καὶ εἴ τινός τι ἐσυκοφάντησα ἀποδίδωμι τετραπλοῦν.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>εἶπεν δὲ ὁ Ἰησοῦς πρὸς αὐτὸν· σήμερον σωτηρία τῷ οἴκῳ τούτῳ ἐγένετο.</p></div>
+<div type="textpart" subtype="verse" n="10">
+<p>ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου σῶσαι τὸ ἀπολωλός.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>() εἶπεν παραβολὴν·</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>ἄνθρωπός τις εὐγενὴς ἐπορεύθη εἰς χώραν μακρὰν λαβεῖν ἑαυτῷ βασιλείαν [καὶ ὑποστρέψαι].</p></div>
+<pb n="34"/>
+<div type="textpart" subtype="verse" n="13">
+<p>καλέσας δὲ δέκα δούλους αὐτοῦ ἔδωκεν αὐτοῖς δέκα μνᾶς καὶ εἶπεν πρὸς αὐτούς· πραγματεύσασθε ἐν ᾧ ἔρχομαι.</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>καὶ ἐγένετο ἐν τῷ ἐπανελθεῖν αὐτὸν () καὶ εἶπεν φωνηθῆναι αὐτῷ τοὺς δούλους τούτους οἷς δεδώκει τὸ ἀργύριον ἵνα γνοῖ τί διεπραγματεύσαντο.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>παρεγένετο δὲ ὁ πρῶτος λέγων· κύριε ἡ μνᾶ σου δέκα προσηργάσατο μνᾶς.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>ὁ δὲ εἶπεν αὐτῷ· () ἴσθι ἐξουσίαν ἔχων ἐπάνω δέκα πόλεων.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>καὶ ἦλθεν ὁ δεύτερος λέγων· ἡ μνᾶ σου κύριε ἐποίησεν πέντε μνᾶς.</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>εἶπεν δὲ καὶ τούτῳ· καὶ σὺ ἐπάνω γίνου πέντε πόλεων.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() καὶ ὁ ἕτερος ἦλθεν λέγων· ἰδοὺ () ἡ μνᾶ σου. ()</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>ἐφοβούμην γάρ σε ὅτι ἄνθρωπος αὐστηρὸς· εἶ αἴρεις ὃ οὐκ ἔθηκας καὶ θερίζεις ὃ οὐκ ἔσπειρας.</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>ὁ δὲ εἶπεν αὐτῷ· ἐκ τοῦ στόματός σου κρινῶ σε ἄπιστε δοῦλε. ᾔδεις ὅτι ἐγὼ ἄνθρωπος αὐστηρός εἰμι αἴρων ὃ οὐκ ἔθηκα καὶ θερίζων ὃ οὐκ ἔσπειρα.</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>διὰ τί οὖν οὐκ ἔδωκάς τὸ ἀργύριόν μου ἐπὶ τράπεζαν; κἀγὼ ἐλθὼν σὺν τόκῳ ἂν αὐτὸ ἔπραξα.</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>καὶ [τοῖς παρεστῶσι] εἶπεν· ἄρατε ἀπ᾽ αὐτοῦ τὴν μνᾶν [καὶ δότε τῷ τὰς δέκα μνᾶς ἔχοντι].</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>() ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ δοκεῖ ἔχειν ἀρθήσεται.</p></div>
+</div><div type="textpart" subtype="chapter" n="20">
+<div type="textpart" subtype="verse" n="1">
+<p>() καὶ ἐγένετο ἐν μιᾷ τῶν ἡμερῶν διδάσκοντος αὐτοῦ () ἐν τῷ ἱερῷ () οἱ Φαρισαῖοι ().</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>καὶ εἶπεν πρὸς αὐτούς· () εἴπατέ μοι·</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>τὸ βάπτισμα Ἰωάννου ἐξ οὐρανῶν ἦν ἢ ἐξ ἀνθρώπων;</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>οἱ δὲ συνελογίζοντο πρὸς ἑαυτοὺς λέγοντες ὅτι ἐὰν εἴπωμεν· ἐξ οὐρανῶν ἐρεῖ· διὰ τί οὐκ ἐπιστεύσατε αὐτῷ;</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>ἐὰν δὲ εἴπωμεν· ἐξ ἀνθρώπων ὁ λαὸς ἅπας καταλιθάσει ἡμᾶς. ()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>καὶ ἀπεκρίθησαν μὴ εἰδέναι αὐτοὺς τὸ πόθεν.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>καὶ ὁ Ἰησοῦς εἶπεν αὐτοῖς· οὐδὲ ἐγὼ λέγω ὑμῖν ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιῶ.</p></div>
+<pb n="35"/>
+<div type="textpart" subtype="verse" n="19">
+<p>[καὶ] ἐζήτησαν ἐπιβαλεῖν ἐπ᾽ αὐτὸν τὰς χεῖρας () καὶ ἐφοβήθησαν [τὸν λαόν].</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>καὶ προσῆλθον αὐτῷ Φαρισαῖοι πειράζοντες αὐτὸν λέγοντες· ()</p></div>
+<div type="textpart" subtype="verse" n="22">
+<p>ἔξεστιν ἡμᾶς Καίσαρι φόρον δοῦναι ἢ οὔ;</p></div>
+<div type="textpart" subtype="verse" n="23">
+<p>() [εἶπεν πρὸς αὐτούς]·</p></div>
+<div type="textpart" subtype="verse" n="24">
+<p>δείξατέ [μοι] δηνάριον [τίνος ἔχει] εἰκόνα καὶ ὁμοίωσιν; οἱ δὲ εἶπαν· Καίσαρος.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>ὁ δὲ εἶπεν αὐτοῖς· ἀπόδοτε τὰ τοῦ Καίσαρος Καίσαρι καὶ τὰ τοῦ θεοῦ τῷ θεῷ.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>() οἱ Σαδδουκαῖοι οἱ λέγοντες ἀνάστασιν μὴ εἶναι () ἐπηρώτησαν αὐτὸν"</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>λέγοντες· διδάσκαλε Μωϋσῆς ἔγραψεν ἡμῖν ἐάν τινος ἀδελφὸς ἀποθάνῃ ἄτεκνος ἔχων γυναῖκα ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ.</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>ἑπτὰ οὖν ἀδελφοὶ ἦσαν· καὶ ὁ πρῶτος λαβὼν γυναῖκα ἀπέθανεν ἄτεκνος.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>()</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>() ὡσαύτως δὲ καὶ οἱ ἑπτὰ οὐ κατέλιπον τέκνα καὶ ἀπέθανον.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>ἐν τῇ οὖν ἀναστάσει τίνος αὐτῶν ἔσται γυνή; οἱ γὰρ ἑπτὰ ἔσχον αὐτὴν γυναῖκα.</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>καὶ () εἶπεν ὁ Ἰησοῦς· οἱ υἱοί τοῦ αἰῶνος τούτου γαμοῦσιν καὶ γαμίσκονται·</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>οὓς δέ κατηξίωσεν ὁ θεὸς τοῦ αἰῶνος ἐκείνου καὶ τῆς ἀναστάσεως τῆς ἐκ νεκρῶν οὔτε γαμοῦσιν οὔτε γαμίζονται·</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>οὐδὲ γὰρ ἀποθανεῖν ἔτι· ἰσάγγελοι γάρ εἰσιν καὶ υἱοί εἰσιν θεοῦ τῆς ἀναστάσεως υἱοὶ ὄντες.</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>ἀποκριθέντες δέ τινες τῶν γραμματέων εἶπαν· διδάσκαλε καλῶς εἶπας.</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>εἶπεν δὲ πρὸς αὐτούς· πῶς λέγουσιν τὸν Χριστὸν υἱὸν Δαυίδ;</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>αὐτὸς γὰρ Δαυὶδ [λέγει () εἶπεν κύριος τῷ κυρίῳ μου· κάθου ἐκ δεξιῶν μου.]</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>[Δαυὶδ οὖν] κύριον αὐτὸν καλεῖ· καὶ πῶς αὐτοῦ υἱός ἐστιν;</p></div>
+</div><div type="textpart" subtype="chapter" n="21">
+<div type="textpart" subtype="verse" n="7">
+<p>ἐπηρώτησαν δὲ αὐτὸν οἱ μαθηταὶ λέγοντες· διδάσκαλε πότε οὖν ταῦτα ἔσται καὶ τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα γίνεσθαι;</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>ὁ δὲ εἶπεν· () πολλοὶ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες· ἐγώ εἰμι ὁ Χριστός. () μὴ πορευθῆτε ὀπίσω αὐτῶν.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>ὅταν δὲ ἀκούσητε πολέμους καὶ ἀκαταστασίας μὴ φοβηθῆτε δεῖ γὰρ γενέσθαι ταῦτα·</p></div>
+<pb n="36"/>
+<div type="textpart" subtype="verse" n="10">
+<p>ἐγερθήσεται γὰρ ἔθνος ἐπ᾽ ἔθνος καὶ βασιλεία ἐπὶ βασιλείαν·</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>σεισμοί τε μεγάλοι καὶ κατὰ τόπους λιμοὶ καὶ λοιμοὶ· ἔσονται φόβητρά τε καὶ ἀπ᾽ οὐρανοῦ σημεῖα μεγάλα ἔσται.</p></div>
+<div type="textpart" subtype="verse" n="12">
+<p>πρὸ δὲ τούτων πάντων ἐπιβαλοῦσιν ἐφ᾽ ὑμᾶς τὰς χεῖρας αὐτῶν καὶ διώξουσιν. ()</p></div>
+<div type="textpart" subtype="verse" n="13">
+<p>ἀποβήσεται ὑμῖν εἰς μαρτύριον καὶ εἰς σωτηρίαν.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>θέτε οὖν ἐν ταῖς καρδίαις ὑμῶν μὴ προμελετᾶν ἀπολογηθῆναι"</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>ἐγὼ γὰρ δώσω ὑμῖν στόμα καὶ σοφίαν ᾗ οὐ δυνήσονται ἀντιστῆναι ἅπαντες οἱ ἀντικείμενοι ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>παραδοθήσεσθε δὲ καὶ ὑπὸ γονέων καὶ ἀδελφῶν καὶ συγγενῶν καὶ φίλων ()</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>καὶ ἔσεσθε μισούμενοι ὑπὸ πάντων διὰ τὸ ὄνομά μου.</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>ἐν τῇ ὑπομονῇ σώσετε ἑαυτούς.</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>ὅταν δὲ ἴδητε κυκλουμένην ὑπὸ στρατοπέδων Ἰερουσαλὴμ τότε γνώσεσθε ὅτι ἤγγικεν ἡ ἐρήμωσις αὐτῆς.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>καὶ ἔσονται σημεῖα ἐν ἡλιῳ καὶ σελήνῃ καὶ ἄστροις καὶ ἐπὶ τῆς γῆς συνοχὴ ἐθνῶν καὶ ἀπορίᾳ ἤχους θαλάσσης καὶ σάλου"</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>ἀποψυχόντων ἀνθρώπων ἀπὸ φόβου καὶ προσδοκίας τῶν ἐπερχομένων τῇ οἰκουμένῃ· αἱ γὰρ δυνάμεις τῶν οὐρανῶν σαλευθήσονται.</p></div>
+<div type="textpart" subtype="verse" n="27">
+<p>καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἀπὸ τῶν οὐρανῶν μετὰ δυνάμεως πολλῆς.</p></div>
+<div type="textpart" subtype="verse" n="28">
+<p>τούτων δὲ γινομένων ἀνακύψετε καὶ ἐπάρεῖτε τὰς κεφαλὰς διότι ἤγγικεν ἡ ἀπολύτρωσις ὑμῶν.</p></div>
+<div type="textpart" subtype="verse" n="29">
+<p>καὶ εἶπεν παραβολὴν αὐτοῖς· ἴδετε τὴν συκῆν καὶ πάντα τὰ δένδρα.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>ὅταν προβάλωσιν τὸν καρπὸν αὐτῶν βλέποντες γινώσκουσιν οἱ ἄνθρωποι ἐγγὺς τὸ θέρος ἐστίν.</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>οὕτως καὶ ὑμεῖς ὅταν ἴδητε ταῦτα γινόμενα γινώσκετε ὅτι ἐγγύς ἐστιν ἡ βασιλεία τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>() οὐ μὴ παρέλθῃ ὁ οὐρανὸς καὶ ἡ γῆ ἕως πάντα γένηται.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>ὁ οὐρανὸς καὶ ἡ γῆ παρελεύσονται ὁ δὲ λόγος μου μένει εἰς τὸν αἰῶνα·</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>προσέχετε δὲ ἑαυτοῖς μήποτε βαρηθῶσιν αἱ καρδίαι ὑμῶν ἐν κραιπάλῃ καὶ μέθῃ καὶ μερίμναις βιωτικαῖς καὶ ἐπιστῇ ἐφ᾽ ὑμᾶς αἰφνίδιος ἡ ἡμέρα ἐκείνη</p></div>
+<pb n="37"/>
+<div type="textpart" subtype="verse" n="35">
+<p>ὡς παγίς. ἐπεισελεύσεται γὰρ ἐπὶ πάντας τοὺς καθημένους ἐπὶ πρόσωπον πάσης τῆς γῆς.</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>[ἀγρυπνεῖτε δὲ ἐν παντὶ καιρῷ] δεόμενοι ἴνα κατισχύσητε [ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι καὶ] σταθῆναι ἔμπροσθεν τοῦ υἱοῦ τοῦ ἀνθρώπου</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>ἦν δὲ τὰς ἡμέρας ἐν τῷ ἱερῷ διδάσκων τὰς δὲ νύκτας ἐξερχόμενος ηὐλίζετο εἰς τὸ ὄρος τὸ καλούμενον Ἐλαιῶν.</p></div>
+<div type="textpart" subtype="verse" n="38">
+<p>καὶ πᾶς ὁ λαὸς ὤρθριζεν πρὸς αὐτὸν ἐν τῷ ἱερῷ ἀκούειν αὐτοῦ. ()</p></div>
+</div><div type="textpart" subtype="chapter" n="22">
+<div type="textpart" subtype="verse" n="1">
+<p>ἤγγισεν δὲ ἡ ἑορτὴ τῶν ἀζύμων ἡ λεγομένη πάσχα.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>[καὶ] Ἰούδας [ὁ καλούμενος Ἰσκαριώτης ὢν ἐκ τοῦ ἀριθμοῦ τῶν δώδεκα]</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>συνελάλησε τοῖς στρατηγοῖς τὸ πῶς αὐτὸν παραδῷ αὐτοῖς.</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>[καὶ ἐχάρησαν] καὶ συνέθεντο αὐτῷ ἀργύριον δοῦναι.</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>() καὶ εἶπεν τῷ Πέτρῳ καὶ τοῖς λοιποῖς· ἀπελθόντες ἑτοιμάσατε ἵνα φάγωμεν τὸ πάσχα.</p></div>
+<div type="textpart" subtype="verse" n="14">
+<p>καὶ [ὅτε ἐγένετο ἡ ὥρα] ἀνέπεσε καὶ οἱ δώδεκα ἀπόστολοι σὺν αὐτῷ.</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>καὶ εἶπεν· ἐπιθυμίᾳ ἐπεθύμησα τοῦτο τὸ πάσχα φαγεῖν μεθ᾿ ὑμῶν πρὸ τοῦ με παθεῖν.</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>καὶ μετὰ τὸ δειπνῆσαι λαβὼν ἄρτον εὐλογήσας ἔκλασεν καὶ ἔδωκεν αὐτοῖς λέγων· τοῦτό ἐστιν τὸ σῶμά μου τὸ ὑπὲρ ὑμῶν διδόμενον. ()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>καὶ ποτήριον ὡσαύτως λέγων· τοῦτο τὸ ποτήριον ἡ διαθήκη ἐν τῷ αἵματι μου. ()</p></div>
+<pb n="38"/>
+<div type="textpart" subtype="verse" n="22">
+<p>() οὐαὶ ἐκείνῳ δι᾽ οὗ παραδίδοται ὁ υἱὸς τοῦ ἀνθρώπου.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>() ὁ δὲ Πέτρος εἶπεν αὐτῷ· μετὰ σοῦ [ἕτοιμός εἰμι καὶ εἰς φυλακὴν καὶ εἰς θάνατον πορεύεσθαι].</p></div>
+<div type="textpart" subtype="verse" n="34">
+<p>ὁ δὲ εἶπεν· [λέγω σοι Πέτρε οὐ φωνήσει σήμερον ἀλέκτωρ ἕως τρίς] με ἀπαρνήσῃ [εἰδέναι].</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>καὶ αὐτὸς ἀπεσπάσθη ἀπ᾿ αὐτῶν ὡσεὶ λίθου βολήν καὶ θεὶς τὰ γόνατα προσηύχετο.</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>[καὶ ἀναστὰς ἀπὸ] τῆς [προσευχῆς ἐλθὼν πρὸϛ τοὺς] μαθητὰς κοιμωμένους [ἀπὸ] τῆς λύπης"</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>καὶ [εἶπεν αὐτοῖς]· τί καθεύδετε; [ἀναστάντες] προσεύχεσθε [ἵνα μὴ εἰσέλθητε εἰς] πειρασμόν.</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>[ἔτι δὲ αὐτοῦ λαλοῦντος] ἰδοὺ [ὄχλος καὶ ὁ λεγόμενος] Ἰούδας [εἷς τῶν δώδεκα προήρχετο] αὐτοὺς· καὶ ἤγγισε καταφιλῆσαι αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="48">
+<p>καὶ εἶπεν [αὐτῷ· Ἰούδα] φιλήματι [τὸν υἱὸν τοῦ ἀνθρώπου] παραδίδως;</p></div>
+<div type="textpart" subtype="verse" n="54">
+<p>[() Πέτρος ().]</p></div>
+<div type="textpart" subtype="verse" n="56">
+<p>[() (ἰδοῦσα δὲ αὐτὸν () εἶπεν· καὶ οὗτος σὺν αὐτῷ ἦν.]</p></div>
+<div type="textpart" subtype="verse" n="57">
+<p>[ὁ δὲ ἠρνήσατο λέγων· οὐκ οἶδα αὐτόν. ()]</p></div>
+<div type="textpart" subtype="verse" n="58">
+<p>[ἕτερος ἰδὼν] αὐτὸν εἶπεν· [καὶ σὺ ἐξ αὐτῶν εἶ.] ὁ δὲ ἔφη· [ἄνθρωπε οὐκ εἰμί.]</p></div>
+<div type="textpart" subtype="verse" n="59">
+<p>[καὶ] διαστάσης ὡσεὶ [ὥρας μιᾶς ἄλλος τις] διϊσχυρίζετο λέγων· [ἐπ᾽ ἀληθείας] οὗτος μετ᾽ [αὐτοῦ] ἦν· [καὶ γὰρ] Γαλιλαῖός ἐστιν.</p></div>
+<div type="textpart" subtype="verse" n="60">
+<p>[εἶπεν δὲ ὁ Πέτρος·] ἄνθρωπε οὐκ οἶδα [ὃ λέγεις. καὶ παραχρῆμα] ἔτι λαλοῦντος αὐτοῦ ἐφώνησεν [ἀλέκτωρ].</p></div>
+<div type="textpart" subtype="verse" n="61">
+<p>[καὶ] στραφεὶς Πέτρος [ἐνέβλεψεν] αὐτόν. καὶ [ὑπεμνήσθη ὁ Πέτρος] τοῦ ῥήματος [τοῦ Ἰησοῦ ὡς εἶπεν] αὐτῷ ὅτι [πρὶν ἀλέκτορα φωνῆσαι] σήμερον [ἀπαρνήσῃ με ()]</p></div>
+<div type="textpart" subtype="verse" n="63">
+<p>[οἱ δὲ ἄνδρες] οἱ συνέχοντες ἐνέπαιζον δέροντες"</p></div>
+<div type="textpart" subtype="verse" n="64">
+<p>καὶ τύπτοντες καὶ λέγοντες· προφήτευσον. τίς ἐστιν ὁ παίσας σε;</p></div>
+<pb n="39"/>
+<div type="textpart" subtype="verse" n="66">
+<p>() καὶ ἀπήγαγον αὐτὸν εἰς τὸ συνέδριον [αὐτῶν]"</p></div>
+<div type="textpart" subtype="verse" n="67">
+<p>λέγοντες· εἰ σὺ εἶ ὁ Χριστός [εἰπὸν ἡμῖν]. εἶπεν δὲ αὐτοῖς· ἐὰν ὑμῖν εἴπω οὐ μὴ πιστεύσητε.</p></div>
+<div type="textpart" subtype="verse" n="69">
+<p>ἀπὸ τοῦ νῦν δὲ ἔσται ὁ υἱὸς τοῦ ἀνθρώπου καθήμενος ἐξ δεξιῶν τῆς δυνάμεως τοῦ θεοῦ.</p></div>
+<div type="textpart" subtype="verse" n="70">
+<p>εἶπαν δὲ [πάντες]· σὺ οὖν εἶ ὁ υἱὸς τοῦ θεοῦ; ὁ δὲ [πρὸς αὐτοὺς] ἔφη· ὑμεῖς λέγετε.</p></div>
+<div type="textpart" subtype="verse" n="71">
+<p>οἱ δὲ εἴπαν· τί ἔτι ἔχομεν μαρτυρίας χρείαν; αύτοὶ γὰρ ἠκούσαμεν ἀπὸ τοῦ στόματος αὐτοῦ.</p></div>
+</div><div type="textpart" subtype="chapter" n="23">
+<div type="textpart" subtype="verse" n="1">
+<p>καὶ ἀναστάντες ἤγαγον αὐτὸν ἐπὶ τὸν Πιλᾶτον.</p></div>
+<div type="textpart" subtype="verse" n="2">
+<p>ἤρξαντο δὲ κατηγορεῖν αὐτοῦ λέγοντες· τοῦτον εὕρομεν διαστρέφοντα τὸ ἔθνος καὶ καταλύοντα τὸν νόμον καὶ τοὺς προφήτας καὶ κελεύοντα φόρους μὴ δοῦναι καὶ ἀποστρέφοντα τὰς γυναῖκας καὶ τὰ τέκνα καὶ λέγοντα ἑαυτὸν βασιλέα Χριστὸν.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>ὁ δὲ Πιλᾶτος ἠρώτησεν αὐτὸν λέγων· σὺ εἶ ὁ Χριστός; ὁ δὲ ἀποκρίθη αὐτῷ λέγων· σὺ λέγεις.</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>Πιλᾶτος δὲ ()</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>() ἀνέπεμψεν αὐτὸν πρὸς Ἡρῴδην. ()</p></div>
+<div type="textpart" subtype="verse" n="8">
+<p>ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν ().</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>() αὐτὸς δὲ οὐδὲν ἀπεκρίνατο αὐτῷ.</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>[() ἀνέκραγον () ἀπόλυσον] () Βαραββᾶν ().</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>() ἀπέλυσεν δὲ τὸν διὰ στάσιν καὶ φόνον βεβλημένον εἰς φυλακὴν ὃν ᾐτοῦντο τὸν δὲ Ἰησοῦν παρέδωκεν τῷ θελήματι αὐτῶν.</p></div>
+<div type="textpart" subtype="verse" n="32">
+<p>ἤγοντο δὲ καὶ ἕτεροι δύο κακοῦργοι σὺν αὐτῷ ἀναιρεθῆναι.</p></div>
+<div type="textpart" subtype="verse" n="33">
+<p>καὶ ἐλθόντες εἰς τόπον λεγόμενον Κρανίον ἐσταύρωσαν αὐτὸν καὶ τοὺς κακούργους ὃν μὲν ἐκ δεξιῶν ὃν δὲ ἐξ ἀριστερῶν.</p></div>
+<pb n="40"/>
+<div type="textpart" subtype="verse" n="34">
+<p>() [ὁ δὲ Ἰησοῦς ἔλεγεν· πάτερ ἄφες αὐτοῖς· οὐ γὰρ οἴδασι τί ποιοῦσιν.] καὶ () διεμερίσαντο τὰ ἱμάτια αὐτοῦ. ()</p></div>
+<div type="textpart" subtype="verse" n="35">
+<p>() θεωρῶν ἐξεμυκτήριζον () λέγοντες () σωσάτω</p></div>
+<div type="textpart" subtype="verse" n="36">
+<p>ἐνέπαιξαν ().</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>καὶ ἦν ἤδη ὡσεὶ ὥρα ἕκτη ()</p></div>
+<div type="textpart" subtype="verse" n="45">
+<p>καὶ ἐσκοτίσθη ὁ ἥλιος. ἐσχίσθη δὲ τὸ καταπέτασμα τοῦ ναοῦ μέσον.</p></div>
+<div type="textpart" subtype="verse" n="46">
+<p>καὶ φωνήσας φωνῇ μεγάλῃ ὁ Ἰησοῦς εἶπε· πάτερ εἰς χεῖράς σου παραθήσομαι τὸ πνεῦμά μου. καὶ ἐξέπνευσε.</p></div>
+<div type="textpart" subtype="verse" n="50">
+<p>καὶ ἰδοὺ ἀνὴρ ὀνόματι Ἰωσήφ ()</p></div>
+<div type="textpart" subtype="verse" n="51">
+<p>οὐκ ἦν συνκατατιθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν.</p></div>
+<div type="textpart" subtype="verse" n="52">
+<p>οὗτος () τῷ Πιλάτῳ αἰτησάμενος τὸ σῶμα.</p></div>
+<div type="textpart" subtype="verse" n="53">
+<p>καὶ καθελὼν τὸ σῶμα ἐνετύλιξεν σινδόνι καὶ ἔθηκεν ἐν μνήματι λαξευτῷ.</p></div>
+<pb n="41"/>
+<div type="textpart" subtype="verse" n="55">
+<p>[κατακολουθήσασαι δὲ γυναῖκες αἵτινες ἦσαν συνεληλυθυῖαι ἐκ τῆς Γαλιλαίας αὐτῷ ἐθεάσαντο τὸ μνημεῖον καὶ ὡς ἐτέθη τὸ σῶμα αὐτοῦ].</p></div>
+<div type="textpart" subtype="verse" n="56">
+<p>καὶ ὑποστρέψασαι αἱ γυναῖκες [ἡτοίμασαν ἀρώματα καὶ μύρα. καὶ] ἡσύχασαν τὸ σάββατον κατὰ τὸν νόμον.</p></div>
+</div><div type="textpart" subtype="chapter" n="24">
+<div type="textpart" subtype="verse" n="1">
+<p>τῇ δὲ μιᾷ τῶν σαββάτων ὄρθρου βαθέως ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι ἃ ἡτοίμασαν ἀρώματα.</p></div>
+<div type="textpart" subtype="verse" n="3">
+<p>εἰσελθοῦσαι δὲ οὐχ εὗρον τὸ σῶμα.</p></div>
+<div type="textpart" subtype="verse" n="4">
+<p>καὶ () ἰδοὺ [ἄνδρες] δύο ἐν ἐσθῆτι λαμπρᾶ ()</p></div>
+<div type="textpart" subtype="verse" n="5">
+<p>() εἶπαν ()· τί ζητεῖτε τὸν ζῶντα μετὰ τῶν νεκρῶν;</p></div>
+<div type="textpart" subtype="verse" n="6">
+<p>ἠγέρθη. μνήσθητε ὅσα ἐλάλησεν ἔτι ὢν μεθ’ ὑμῶν</p></div>
+<div type="textpart" subtype="verse" n="7">
+<p>λέγων ὅτι δεῖ τὸν υἱὸν τοῦ ἀνθρώπου παθεῖν καὶ παραδοθῆναι καὶ σταυρωθῆναι καὶ τῇ τρίτῃ ἡμέρᾳ ἀναστῆναι.</p></div>
+<div type="textpart" subtype="verse" n="9">
+<p>καὶ ὑποστρέψασαι ἀπὸ τοῦ μνημείου ἀπήγγειλαν ταῦτα πάντα τοῖς μαθηταῖς.</p></div>
+<div type="textpart" subtype="verse" n="11">
+<p>καὶ () ἠπίστουν αὐταῖς.</p></div>
+<pb n="42"/>
+<div type="textpart" subtype="verse" n="13">
+<p>() δύο ἐξ αὐτῶν ἦσαν πορευόμενοι ().</p></div>
+<div type="textpart" subtype="verse" n="15">
+<p>() αὐτὸς ὁ Ἰησοῦς ἐγγίσας συνήντησεν αὐτοῖς·</p></div>
+<div type="textpart" subtype="verse" n="16">
+<p>δὲ () οὐκ ἐπέγνωσαν αὐτὸν.</p></div>
+<div type="textpart" subtype="verse" n="17">
+<p>ὁ δὲ εἶπεν ()· τίνες οἱ λόγοι οὗτοι ();</p></div>
+<div type="textpart" subtype="verse" n="18">
+<p>() Κλεοπᾶς εἶπεν πρὸς αὐτόν· οὐκ ἔγνως τὰ γενόμενα ();</p></div>
+<div type="textpart" subtype="verse" n="19">
+<p>καὶ εἶπεν αὐτοῖς· ποῖα; [() οἱ δὲ εἶπαν αὐτῷ·] ()</p></div>
+<div type="textpart" subtype="verse" n="20">
+<p>() εἰς κρίμα θανάτου καὶ ἐσταύρωσαν αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="21">
+<p>ἡμεις δὲ ἐνομίζομεν ὅτι αὐτός ἐστιν ὁ λυτρωτὴς τοῦ Ἰσραήλ.</p></div>
+<div type="textpart" subtype="verse" n="25">
+<p>καὶ αὐτὸς εἶπεν πρὸς αὐτούς· ὦ ἀνόητοι καὶ βραδεῖς τοῦ πιστεύειν πᾶσιν ἐφ’ οἷς ἐλάλησα ὑμῖν.</p></div>
+<div type="textpart" subtype="verse" n="26">
+<p>ὅτι ἔδει ταῦτα παθεῖν τὸν Χριστόν.</p></div>
+<div type="textpart" subtype="verse" n="30">
+<p>() λαβὼν τὸν ἄρτον () καὶ ὅτε ἔκλασε ()</p></div>
+<div type="textpart" subtype="verse" n="31">
+<p>ἠνεῴχθησαν αὐτῶν οἱ ὀφθαλμοὶ καὶ ἐπέγνωσαν αὐτόν.</p></div>
+<div type="textpart" subtype="verse" n="37">
+<p>() δοκοῦσιν αὐτον φαντασίαν εἶναι.</p></div>
+<pb n="43"/>
+<div type="textpart" subtype="verse" n="38">
+<p>καὶ εἶπεν αὐτοῖς· τί τεταραγμένοι ἐστὲ καὶ ἵνα τί διαλογισμοὶ ἀναβαίνουσιν εἰς τὴν καρδίαν ὑμῶν;</p></div>
+<div type="textpart" subtype="verse" n="39">
+<p>ἴδετε τὰς χεῖράς μου καὶ τοὺς πόδας μου ὅτι ἐγώ εἰμι αὐτός· ὅτι πνεῦμα ὀστέα οὐκ ἔχει καθὼς ἐμὲ θεωρεῖτε ἔχοντα.</p></div>
+<div type="textpart" subtype="verse" n="41">
+<p>ἔτι δὲ ἀπιστούντων αὐτῶν εἶπεν αὐτοῖς· ἔχετέ τι βρώσιμον ἐνθάδε;</p></div>
+<div type="textpart" subtype="verse" n="42">
+<p>[καὶ ἐπέδωκαν αὐτῷ] ἰχθύος [ὀπτοῦ μέρος].</p></div>
+<div type="textpart" subtype="verse" n="43">
+<p>καὶ λαβὼν ἐνώπιον αὐτῶν ἔφαγεν ().</p></div>
+<div type="textpart" subtype="verse" n="44">
+<p>εἶπεν δὲ πρὸς αὐτούς ()·</p></div>
+<div type="textpart" subtype="verse" n="47">
+<p>() πορευθέντες κηρύξατε τὸ εὐαγγέλιον () εἰς πάντα τᾶ ἔθνη ().</p></div>
+</div></div></div></body></text></TEI> 
