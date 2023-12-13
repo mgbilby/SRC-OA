@@ -514,7 +514,7 @@
 "Eph","04","06","03AH","εἷς@acnmsn θεός@nnmsc (καί@cc) πατήρ@nnmsc πᾶς@aigmpn ὁ@dnms ἐπί@pg πᾶς@aigmpn καί@cc διά@pg πᾶς@aigmpn καί@cc ἐν@pd πᾶς@aidmpn ἐγώ@rpd-p" 
 "Eph","04","08","03AH","αἰχμαλωτεύω@viaa3s αἰχμαλωσία@nafsc" 
 "Eph","04","10","03AH","(ὁ@dnms καταβαίνω@vpaanms αὐτός@rtnms εἰμί@vipa3s καί@b ὁ@dnms ἀναβαίνω@vpaanms)" 
-"Eph","04","25","03AH","ἀποτίθημι@vpamnmp ὁ@dans ψεῦδος@nansc λαλέω@vdpa2p ἀλήθεια@nafsc ἕκαστος@ainmsn" 
+"Eph","04","25","03AH","ἀποτίθημι@vpamnmp ὁ@dans ψεῦδος@nansc λαλέω@vdpa2p ἀλήθεια@nafsc πρός@pa ὁ@dams πλησίον@b ἕκαστος@ainmsn" 
 "Eph","04","26","03AH","ὀργίζω@vdpp2p καί@cc μή@x ἁμαρτάνω@vdpa2p ὁ@dnms ἥλιος@nnmsc μή@x ἐπιδύω@vdpa3s ἐπί@pd ὁ@ddms παροργισμός@ndmsc σύ@rpg-p" 
 "Eph","05","02","03AH","()" 
 "Eph","05","11a","03AH","μή@x συγκοινωνέω@vdpa2p ὁ@ddnp ἔργον@ndnpc ὁ@dgns σκότος@ngnsc" 
