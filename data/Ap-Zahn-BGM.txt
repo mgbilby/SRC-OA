@@ -459,7 +459,7 @@
 "Eph","06","18","02TZ","[διά@pg πᾶς@aigfsn προσευχή@ngfsc καί@cc δέησις@ngfsc προσεύχομαι@vppmnmp ἐν@pd πᾶς@aidmsn καιρός@ndmsc ἐν@pd πνεῦμα@ndnsc καί@cc εἰς@pa αὐτός@rpans ἀγρυπνέω@vppanmp ἐν@pd πᾶς@aidfsn προσκαρτέρησις@ndfsc καί@cc δέησις@ndfsc περί@pg πᾶς@aigmpn ὁ@dgmp ἅγιος@angmpn]" 
 "Eph","06","19","02TZ","[καί@cc ὑπέρ@pg ἐγώ@rpg-s ἵνα@cs ἐγώ@rpd-s δίδωμι@vsap3s λόγος@nnmsc ἐν@pd ἄνοιξις@ndfsc ὁ@dgns στόμα@ngnsc ἐγώ@rpg-s ἐν@pd παρρησία@ndfsc γνωρίζω@vnaa ὁ@dans μυστήριον@nansc ὁ@dgns εὐαγγέλιον@ngnsc]" 
 "Eph","06","20","02TZ","[ὑπέρ@pg ὅς@rrgns πρεσβεύω@vipa1s ἐν@pd ἅλυσις@ndfsc ἵνα@cs ἐν@pd αὐτός@rpdns παρρησιάζομαι@vsam1s ὡς@cs δεῖ@vipa3s ἐγώ@rpa-s λαλέω@vnaa]" 
-"Col","00","00","02TZ","πρός@pa Κολασσαεύς@nampp" 
+"Col","00","00","02TZ","πρός@pa Κολοσσαεύς@nampp" 
 "Col","01","05","02TZ","[διά@pa ὁ@dafs ἐλπίς@nafsc ὁ@dafs ἀπόκειμαι@vpppafs ἐν@pd ὁ@ddmp οὐρανός@ndmpc] ὅς@rrafs ἀκούω@viaa2p [ἐν@pd ὁ@ddms λόγος@ndmsc ὁ@dgfs ἀλήθεια@ngfsc ὁ@dgns εὐαγγέλιον@ngnsc]" 
 "Col","01","06","02TZ","[ὁ@dgns πάρειμι@vppagns εἰς@pa σύ@rpa-p καθώς@cs καί@b ἐν@pd πᾶς@aidmsn ὁ@ddms κόσμος@ndmsc εἰμί@vipa3s καρποφορέω@vppmnns καί@cc αὐξάνω@vpppnns καθώς@cs καί@b ἐν@pd σύ@rpd-p ἀπό@pg ὅς@rrgfs ἡμέρα@ngfsc ἀκούω@viaa2p καί@cc ἐπιγινώσκω@viaa2p ὁ@dafs χάρις@nafsc ὁ@dgms θεός@ngmsc ἐν@pd ἀλήθεια@ndfsc]" 
 "Col","01","15a","02TZ","[ὅς@rrnms εἰμί@vipa3s εἰκών@nnfsc ὁ@dgms θεός@ngmsc ὁ@dgms ἀόρατος@angmsn]" 

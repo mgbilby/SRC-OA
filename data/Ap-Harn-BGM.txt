@@ -538,7 +538,7 @@
 "Eph","06","17","03AH","καί@cc ὁ@dafs περικεφαλαία@nafsc ὁ@dgns σωτήριον@ngnsc καί@cc ὁ@dafs μάχαιρα@nafsc ὁ@dgns πνεῦμα@ngnsc ὅς@rrnns εἰμί@vipa3s ῥῆμα@nnnsc θεός@ngmsc" 
 "Eph","06","19","03AH","ἵνα@cs ἐγώ@rpd-s δίδωμι@vsap3s ἐν@pd ἄνοιξις@ndfsc ὁ@dgns στόμα@ngnsc ἐν@pd παρρησία@ndfsc γνωρίζω@vnaa ὁ@dans μυστήριον@nansc" 
 "Eph","06","20","03AH","ἐν@pd ἅλυσις@ndfsc ἵνα@cs ἐν@pd αὐτός@rpdns παρρησιάζομαι@vsam1s" 
-"Col","00","00","03AH","πρός@pa Κολασσαεύς@nampp" 
+"Col","00","00","03AH","πρός@pa Κολοσσαεύς@nampp" 
 "Col","01","05","03AH","ὁ@dafs ἐλπίς@nafsc ὁ@dafs ἀπόκειμαι@vpppafs () ἐν@pd ὁ@ddmp οὐρανός@ndmpc ὅς@rrafs ἀκούω@viaa2p ἐν@pd ὁ@ddms λόγος@ndmsc ὁ@dgfs ἀλήθεια@ngfsc ὁ@dgns εὐαγγέλιον@ngnsc" 
 "Col","01","06a","03AH","ὁ@dgns πάρειμι@vppagns εἰς@pa σύ@rpa-p καθώς@cs καί@b ἐν@pd πᾶς@aidmsn ὁ@ddms κόσμος@ndmsc" 
 "Col","01","15","03AH","ὅς@rrnms εἰμί@vipa3s εἰκών@nnfsc ὁ@dgms θεός@ngmsc ὁ@dgms ἀόρατος@angmsn" 
