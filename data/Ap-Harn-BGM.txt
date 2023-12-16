@@ -357,7 +357,7 @@
 "2Cr","05","10","03AH","ὁ@damp γάρ@cc πᾶς@aiampn ἐγώ@rpa-p φανερόω@vnap δεῖ@vipa3s ἔμπροσθεν@pg ὁ@dgns βῆμα@ngnsc ὁ@dgms Χριστός@ngmsp ἵνα@cs κομίζω@vsam3s ἕκαστος@ainmsn ὅς@rranp διά@pg ὁ@dgns σῶμα@ngnsc πράσσω@viaa3s εἴτε@cc ἀγαθός@b εἴτε@cc φαῦλος@b" 
 "2Cr","05","17","03AH","ὥστε@cs εἰ@cs τὶς@rinms κτίσις@nnfsc καινός@annfsn ἐν@pd Χριστός@ndmsp ὁ@dnnp ἀρχαῖος@annnpn παρέρχομαι@viaa3s ἰδού@i καινός@annnpn γίνομαι@vixa3s ὁ@dnnp πᾶς@ainnpn" 
 "2Cr","07","01","03AH","καθαρίζω@vsaa1p ἑαυτοῦ@rxamp ἀπό@pg μολυσμός@ngmsc σάρξ@ngfsc καί@cc αἷμα@ngnsc" 
-"2Cr","10","18","03AH","οὐ@b ὁ@dnms ἑαυτοῦ@rxams συνίστημι@vppanms δόκιμος@annmsn εἰμί@vipa3s"
+"2Cr","10","18","03AH","οὐ@b ὁ@dnms ἑαυτοῦ@rxams συνίστημι@vppnnms δόκιμος@annmsn εἰμί@vipa3s"
 "2Cr","11","02","03AH","παρθένος@nafsc ἁγνός@anafsn [παρίστημι@vnaa] ὁ@ddms Χριστός@ndmsp" 
 "2Cr","11","13","03AH","ψευδαπόστολος@nnmpc ἐργάτης@nnmpc δόλιος@annmpn μετασχηματίζω@vppmnmp" 
 "2Cr","11","14","03AH","ὁ@dnms Σατανᾶς@nnmsp μετασχηματίζω@vipm3s εἰς@pa ἄγγελος@namsc φῶς@ngnsc" 
