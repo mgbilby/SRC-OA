@@ -70,9 +70,9 @@
 </teiHeader> 
 <text xml:lang="grc"> 
 	<body> 
-<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg003.01-01-grc1"> 
+<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.01-01-grc1"> 
 <pb n="403"/> 
-<div type="textpart" subtype="book" n="Luke"> 
+<div type="textpart" subtype="book" n="Ev"> 
 	<head>ΕΥΑΓΓΕΛΙΟΝ ΤΟΥ ΚΥΡΙΟΥ</head> 
 <div type="textpart" subtype="chapter" n="3"> 
 <div type="textpart" subtype="verse" n="1"> 

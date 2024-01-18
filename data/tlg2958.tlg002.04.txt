@@ -1,0 +1,624 @@
+"book","chapter","verse","edition","text"
+"Ev","3","01","2.04","anno quintodecimo Tiberii Caesaris"
+"Ev","4","31a","2.04","(descendit [Christus Iesus] de caelo in [Capharnaum civitatem Galilaeae]) (statim venit in synagogam ad docendum)."
+"Ev","4","32","2.04","stupebant autem omnes ad doctrinam eius quoniam in potestate erat sermo eius."
+"Ev","4","33","2.04","(spiritus daemonis exclamavit)."
+"Ev","4","34","2.04","quid nobis et tibi est Iesu? venisti perdere nos. scio qui sis sanctus dei."
+"Ev","4","35","2.04","(increpuit illum Iesus)."
+"Ev","4","36","2.04","()"
+"Ev","4","37","2.04","()"
+"Ev","4","16","2.04","(apud Nazareth)"
+"Ev","4","23a","2.04","(unum proverbium)."
+"Ev","4","28","2.04","()"
+"Ev","4","29","2.04","(eiectus) (ad praecipitium usque)"
+"Ev","4","30","2.04","(per medios evasit)."
+"Ev","4","40","2.04","()"
+"Ev","4","41","2.04","(daemonia excedebant vociferantes) tu es filius dei. (increpabantur et iubebantur tacere)."
+"Ev","4","42","2.04","(in solitudinem) (detentes a turbis)."
+"Ev","4","43","2.04","() oportet me et aliis civitatibus annuntiare regnum dei."
+"Ev","5","01","2.04","()"
+"Ev","5","02","2.04","()"
+"Ev","5","03","2.04","Simon"
+"Ev","5","04","2.04","()"
+"Ev","5","05","2.04","()"
+"Ev","5","06","2.04","()"
+"Ev","5","07","2.04","()"
+"Ev","5","08","2.04","()"
+"Ev","5","09","2.04","()"
+"Ev","5","10","2.04","filii Zebedaei () dixit () ne time abhinc enim homines eris capiens."
+"Ev","5","11","2.04","(relictis naviculis) secuti sunt eum."
+"Ev","5","12","2.04","() leprosus ()"
+"Ev","5","13","2.04","() tetigit ()"
+"Ev","5","14","2.04","(vetuit divulgare) vade ostende te sacerdoti et offer munus quod praecepit Moyses ut sit vobis in testimonium."
+"Ev","5","17","2.04","()"
+"Ev","5","18","2.04","() paralyticus ()"
+"Ev","5","19","2.04","()"
+"Ev","5","20","2.04","()"
+"Ev","5","21","2.04","() quis [potest peccata dimittere] nisi solus deus?"
+"Ev","5","22","2.04","()"
+"Ev","5","23","2.04","()"
+"Ev","5","24a","2.04","() [filius hominis potestatem habet dimittendi peccata]"
+"Ev","5","24b","2.04","() exsurge et tolle grabatum tuum."
+"Ev","5","25","2.04","()"
+"Ev","5","26","2.04","()"
+"Ev","5","27","2.04","() publicanus ()"
+"Ev","5","28","2.04","()"
+"Ev","5","29","2.04","()"
+"Ev","5","30","2.04","()"
+"Ev","5","31","2.04","() (medicum sanis non esse necessarium sed male habentibus)."
+"Ev","5","33","2.04","(discipuli Iohannis assidue ieiunant et orant) () (discipuli Christi manducant et bibunt)"
+"Ev","5","34","2.04","(non possunt ieiunare filii sponsi quamdiu cum eis esset sponsus)."
+"Ev","5","35","2.04","(vero ieiunaturi cum ablatus ab eis sponsus esset)."
+"Ev","5","36a","2.04","() similitudo ()"
+"Ev","5","37","2.04","(vinum novum non committit in veteres utres)"
+"Ev","5","38","2.04","()"
+"Ev","5","36b","2.04","(additamentum panni [rudis] nemo inicit veteri vestimento)."
+"Ev","6","01","2.04","() sabbato () (discipuli eius spicas decerptas efflixerant manibus)"
+"Ev","6","02","2.04","() pharisaei ()"
+"Ev","6","03","2.04","() David ()"
+"Ev","6","04","2.04","(introgressus sabbatis templum fractis panibus propositionis) ()."
+"Ev","6","06","2.04","() [sabbato] () manus () arida ()."
+"Ev","6","07","2.04","observabant () pharisaei si sabbati (medicinas ageret) ut accusarent eum ()."
+"Ev","6","09","2.04","(interrogat) licetne sabbatis benefacere an non animam liberare an perdere?"
+"Ev","6","10","2.04","()"
+"Ev","6","05","2.04","() (dominus sabbati dictus)."
+"Ev","6","12","2.04","(ascendit in montem et pernoctavit in oratione ad patrem)."
+"Ev","6","13","2.04","() elegit () duodecim () apostolos ()."
+"Ev","6","14","2.04","(mutat et Petro nomen de Simone)."
+"Ev","6","15","2.04","()"
+"Ev","6","16","2.04","()"
+"Ev","6","17","2.04","() (conveniunt a Tyro et ex aliis regionibus multitudo etiam transmarina)."
+"Ev","6","18","2.04","()"
+"Ev","6","19","2.04","()"
+"Ev","6","20","2.04","() () beati [mendici] quoniam illorum est regnum dei."
+"Ev","6","21","2.04","beati esurientes quoniam saturabuntur. beati plorantes quia ridebunt."
+"Ev","6","22","2.04","beati eritis cum vos odio habebunt homines et exprobrabunt et eicient nomen vestrum velut nequam propter filium hominis."
+"Ev","6","23","2.04","secundum haec faciebant prophetis patres eorum."
+"Ev","6","24","2.04","vae divitibus quoniam recepistis advocationem vestram."
+"Ev","6","25","2.04","vae saturatis quia esurietis. vae ridentibus nunc quia lugebitis."
+"Ev","6","26","2.04","vae cum vobis benedixerint homines. secundum haec faciebant et pseudoprophetis patres illorum."
+"Ev","6","27","2.04","sed vobis dico qui auditis diligite inimicos vestros"
+"Ev","6","28","2.04","et benedicite eos qui vos oderunt et orate pro eis qui vos calumniantur. () oculum pro oculu et dentem pro dente ()."
+"Ev","6","29","2.04","(paenitentiae pondus) () (non modo non repercutiendi sed et aliam maxillam praebendi et non modo non retinendi tunicam sed et amplius et pallium concedendi)."
+"Ev","6","30","2.04","omni petenti te dato."
+"Ev","6","31","2.04","et sicut vobis fieri vultis ab hominis ita et vos facite illis."
+"Ev","6","34","2.04","et si feneraveritis a quibus superatis vos recepturos quae gratia est vobis?"
+"Ev","6","35","2.04","() et eritis filii dei quia ipse suavis est adversus ingratos et malos."
+"Ev","6","36","2.04","estote misericordes sicut pater vester misertus est vestri."
+"Ev","6","37","2.04","() nolite iudicare ne iudicemini nolite condemnare ne condemnemini. dimittite et dimittemini."
+"Ev","6","38","2.04","date et dabitur vobis. mensuram bonam pressam ac fluentem dabunt in sinum vestrum. eadem qua mensi eritis mensura remitietur vobis."
+"Ev","6","39","2.04","(caecus caecum ducit in foveam)."
+"Ev","6","40","2.04","non est discipulus super magistrum."
+"Ev","6","42","2.04","(eximat de oculo suo trabem) () (tunc in oculo [fratris tui] stipulam revincat)."
+"Ev","6","43","2.04","(arbor bona non profert malum fructum nec mala bonum)."
+"Ev","6","45","2.04","(nec) () (aliquid boni de thesauro malo protulit)."
+"Ev","6","46","2.04","quid [vocatis] domine domine et non facitis quae dico?"
+"Ev","7","01","2.04","()"
+"Ev","7","02","2.04","()"
+"Ev","7","03","2.04","()"
+"Ev","7","04","2.04","()"
+"Ev","7","05","2.04","()"
+"Ev","7","06","2.04","()"
+"Ev","7","07","2.04","()"
+"Ev","7","08","2.04","()"
+"Ev","7","09","2.04","() (talem se fidem nec in Israele invenisse)."
+"Ev","7","10","2.04","()"
+"Ev","7","11","2.04","()"
+"Ev","7","12","2.04","(mortuum filium viduae)"
+"Ev","7","13","2.04","()"
+"Ev","7","14","2.04","(resuscitavit)."
+"Ev","7","15","2.04","()"
+"Ev","7","16","2.04","() dicentes magnus prophetes prodiit in nobis et respexit deus populum suum."
+"Ev","7","18","2.04","(sed scandalizabatur Ioannes auditis virtutibus Christi) ()."
+"Ev","7","19","2.04","() tu es qui venis an alium expectamus?"
+"Ev","7","20","2.04","()"
+"Ev","7","21","2.04","()"
+"Ev","7","22","2.04","()"
+"Ev","7","23","2.04","()"
+"Ev","7","24","2.04","() quid existis videre in solitudinem?"
+"Ev","7","26","2.04","() propheten immo et supra ut angelum."
+"Ev","7","27","2.04","(ingerens etiam scriptum super illo) ecce ego mitto angelum meum ante faciem tuam qui praeparabit viam tuam."
+"Ev","7","28","2.04","(Ioannes) (maior quidem omnibus natis mulierum sed subiectus ei qui minor fuerit in regno dei)."
+"Ev","7","36","2.04","()"
+"Ev","7","37","2.04","() femina () peccatrix () unguentum ()."
+"Ev","7","38","2.04","() (pedes domini osculis figebat lacrimis inundabat crinibus detergebat unguento perducebat)."
+"Ev","7","39","2.04","()"
+"Ev","7","40","2.04","()"
+"Ev","7","41","2.04","()"
+"Ev","7","42","2.04","()"
+"Ev","7","43","2.04","()"
+"Ev","7","44","2.04","()"
+"Ev","7","45","2.04","()"
+"Ev","7","46","2.04","()"
+"Ev","7","50","2.04","() fides tua te salvam fecit."
+"Ev","8","02","2.04","() mulieres ()"
+"Ev","8","03","2.04","(et uxor regis procuratoris) quae et ministrabant ei de facultatibus suis."
+"Ev","8","04","2.04","() [parabola] ()"
+"Ev","8","05","2.04","()"
+"Ev","8","06","2.04","()"
+"Ev","8","07","2.04","()"
+"Ev","8","08","2.04","() qui habet aures audiat."
+"Ev","8","18","2.04","videte quomodo audiatis. ei qui habet dabitur ab eo autem qui non habet etiam quod habere se putat auferetur ei."
+"Ev","8","16","2.04","(lucernam negat abscondi solere)."
+"Ev","8","17","2.04","(omnia de occulto in apertum)."
+"Ev","8","20","2.04","(annuntiatus est illi) quod mater et fratres [tui] foris stant quarentes videre [te]."
+"Ev","8","21","2.04","() quae mihi mater et qui mihi fratres nisi qui audiunt verba mea et faciunt ea?"
+"Ev","8","22","2.04","() transfretemus ()."
+"Ev","8","23","2.04","()"
+"Ev","8","24","2.04","()"
+"Ev","8","25","2.04","() quis iste est qui et ventis et mari imperat ()?"
+"Ev","8","26","2.04","()"
+"Ev","8","27","2.04","() daemones ()"
+"Ev","8","28","2.04","() Iesu filii dei ()."
+"Ev","8","29","2.04","()"
+"Ev","8","30","2.04","() legio ()."
+"Ev","8","31","2.04","(depetebant veniam) () abyssum ()."
+"Ev","8","32","2.04","(denique impetraverunt)."
+"Ev","8","33","2.04","()"
+"Ev","8","34","2.04","()"
+"Ev","8","35","2.04","()"
+"Ev","8","36","2.04","()"
+"Ev","8","37","2.04","()"
+"Ev","8","38","2.04","()"
+"Ev","8","39","2.04","()"
+"Ev","8","43","2.04","() femina () (quae sanguine fluitabat) ()"
+"Ev","8","44","2.04","() tetigit vestimentum eius ()."
+"Ev","8","45","2.04","() quis me tetigit? (excusantibus discipulis)."
+"Ev","8","46","2.04","() tetigit me aliquis sensi enim virtutem ex me profectam."
+"Ev","8","47","2.04","()"
+"Ev","8","48","2.04","() fides tua te salvam fecit."
+"Ev","9","01","2.04","()"
+"Ev","9","02","2.04","(dimittit discipulos ad praedicandum dei regnum) ()."
+"Ev","9","03","2.04","(prohibet eos victui aut vestitui quid in viam ferre)."
+"Ev","9","05","2.04","(in eos a quibus excepti non fuissent) () pulverem de pedibus () excutite () in testimonium."
+"Ev","9","06","2.04","()"
+"Ev","9","07","2.04","() Herodes () Ioannes ()"
+"Ev","9","08","2.04","() Helias () (unus aliquis ex veteribus prophetis suscitatus est)."
+"Ev","9","09","2.04","()"
+"Ev","9","12","2.04","() in solitudine ()."
+"Ev","9","13","2.04","() (panis et piscis) ()."
+"Ev","9","14","2.04","() circiter viri quinque milia ()."
+"Ev","9","15","2.04","()"
+"Ev","9","16","2.04","()"
+"Ev","9","17","2.04","() (exuberare) ()."
+"Ev","9","18","2.04","() interrogavit () (quisnam videor) ()."
+"Ev","9","19","2.04","()"
+"Ev","9","20","2.04","() Petrus () respondit tu es Christus."
+"Ev","9","21","2.04","ille autem () praecepit ne cui hoc dicerent."
+"Ev","9","22","2.04","() oportet filium hominis multa pati et reprobari a presbyteris et scribis et sacerdotibus et interfici et post tertium diem resurgere."
+"Ev","9","24","2.04","qui voluerit animam suam salvam facere perdet illam et qui perdiderit eam propter me salvam faciet eam."
+"Ev","9","26","2.04","qui confusus mei fuerit et ego confundar eius."
+"Ev","9","28","2.04","() (tres de discentibus) () (in montem secedit)."
+"Ev","9","29","2.04","(vestitus eius refulsit)."
+"Ev","9","30","2.04","() (cum illis loqui)"
+"Ev","9","31","2.04","(in claritatis praerogativa)."
+"Ev","9","32","2.04","() Petrus () (stantes)"
+"Ev","9","33","2.04","() (discesserunt) () bonum est nos hic esse et faciamus hic tria tabernacula unum tibi et Moysi unum et Heliae unum nesciens quid diceret."
+"Ev","9","34","2.04","() nubes () obumbravit ()"
+"Ev","9","35","2.04","(vox de [caelo]) hic est filius meus dilectus hunc audite."
+"Ev","9","36","2.04","()"
+"Ev","9","37","2.04","()"
+"Ev","9","38","2.04","()"
+"Ev","9","39","2.04","()"
+"Ev","9","40","2.04","()"
+"Ev","9","41","2.04","() o genitura incredula quousque ero apud vos quousque sustinebo vos? ()"
+"Ev","9","42","2.04","()"
+"Ev","9","43a","2.04","()"
+"Ev","9","44","2.04","()"
+"Ev","9","46","2.04","()"
+"Ev","9","47","2.04","()"
+"Ev","9","48","2.04","() (Christus diligit parvulos tales esse docens debere qui semper maiores velint esse) ()."
+"Ev","9","51","2.04","()"
+"Ev","9","52","2.04","() (viculum Samaritarum) ()."
+"Ev","9","53","2.04","()"
+"Ev","9","54","2.04","(repraesentat creator ignium plagam Helia postulante in illo pseudopropheta)."
+"Ev","9","55","2.04","(agnosco iudicis severitatem e contrario Christi lenitatem increpantis eandem animadversionem destinantes discipulos super illum viculum Samaritarum)."
+"Ev","9","56","2.04","()"
+"Ev","9","57","2.04","() sequar te quocunque ieris."
+"Ev","9","58","2.04","(humanissimus deus cur recusat eum)."
+"Ev","9","59","2.04","(illi autem causato patris sepulturam)."
+"Ev","9","60","2.04","() sine mortui sepeliant mortuos suos tu autem vade et annuntia regnum dei."
+"Ev","9","61","2.04","(tertium illum prius suis valedicere parantem)"
+"Ev","9","62","2.04","(prohibet retro respectare)."
+"Ev","10","01","2.04","() adlegit et alios septuaginta apostolos super duodecim ()."
+"Ev","10","04","2.04","(virgam) () (calciamenta portare vetuit) () neminem per viam salutaveritis."
+"Ev","10","05","2.04","(in quam introisset domum pacem ei dicere)."
+"Ev","10","07","2.04","() dignus () operarius mercede sua."
+"Ev","10","08","2.04","()"
+"Ev","10","09","2.04","() (medicina) () (regnum dei) (iubet annuntiari appropinquasse)."
+"Ev","10","10","2.04","(ut eis qui illos non recepissent diceret)"
+"Ev","10","11","2.04","(pulverem iubet excuti in illos in testificationem et haerentia terrae eorum) scitote tamen appropinquasse regnum dei."
+"Ev","10","16","2.04","() qui vos spernit me spernit ()."
+"Ev","10","17","2.04","()"
+"Ev","10","19","2.04","(dat potestatem calcandi super colubros et scorpios)."
+"Ev","10","21","2.04","() gratias ago et confiteor domine caeli quod ea quae erant abscondita sapientibus et prudentibus revelaveris parvulis ()."
+"Ev","10","22","2.04","omnia mihi tradita [sunt] a patre. nemo scit qui sit pater nisi filius et qui sit filius nisi pater et cuicunque filius revelaverit."
+"Ev","10","23","2.04","beati oculi qui vident quae videtis."
+"Ev","10","24","2.04","dico enim vobis quia prophetae non viderunt quae vos videtis."
+"Ev","10","25","2.04","() legis doctor () quid faciens vitam consequar?"
+"Ev","10","26","2.04","(dominus respondit) () in lege ()."
+"Ev","10","27","2.04","() diliges dominum deum tuum ex toto corde tuo et ex tota anima tua et totis viribus tuis."
+"Ev","10","28","2.04","()"
+"Ev","11","01","2.04","(cum in quodam loco orasset) () quidam ex discipulis () domine doce nos orare sicut et Ioannes discipulos suos docuit."
+"Ev","11","02","2.04","() pater [veniat] spiritus sanctus. veniat regnum tuum."
+"Ev","11","03","2.04","panem () cotidianum da."
+"Ev","11","04","2.04","() dimitte delicta (). ne sinas nos deduci in temptationem."
+"Ev","11","05","2.04","(similitudo) () (amicus) () (nocturnus panis petitor)."
+"Ev","11","06","2.04","()"
+"Ev","11","07","2.04","() (ad eum pulsat) () (cuius ianuam norat) (). (cubantem iam cum infantibus) ()."
+"Ev","11","08","2.04","(is et exsurgit et dat etsi iam non quasi amico) () (sed quasi molesto)."
+"Ev","11","09","2.04","() petite (ut accipies) quaerite (ut invenias) pulsate (ut aperiatur vobis)."
+"Ev","11","11","2.04","(non serpentem pro pisce) ()"
+"Ev","11","12","2.04","(nec scorpium pro ovo)."
+"Ev","11","13","2.04","(et spiritum sanctum is dabit apud quem est et non sanctus) ()."
+"Ev","11","14","2.04","(cum surdum daemonium expulisset)"
+"Ev","11","15","2.04","() in Beelzebub () eicit daemonia ()."
+"Ev","11","16","2.04","()"
+"Ev","11","17","2.04","()"
+"Ev","11","18","2.04","(non posse satanam dividi adversus semetipsum)."
+"Ev","11","19","2.04","si ego in Beelzebub eicio daemonia filii vestri in quo eiciunt?"
+"Ev","11","20","2.04","quodsi ego in digito dei expello daemonia ergone appropinquavit in vos regnum dei."
+"Ev","11","21","2.04","(parabola fortis illius armati"
+"Ev","11","22","2.04","(quem validior alius oppresit () (superasse) () (validior)."
+"Ev","11","27","2.04","() (exclamat) () mulier de turba () beatus uterus qui te portavit et ubera quae."
+"Ev","11","28","2.04","() immo beati qui sermonem dei audiunt et faciunt."
+"Ev","11","29","2.04","() (ipse signum petentibus non dat)."
+"Ev","11","33","2.04","(negat lucernam abstrudendam sed confirmat super candelabrum proponendam ut omnibus luceat)."
+"Ev","11","37","2.04","() (pharisaeus qui illum vocaret ad prandium)"
+"Ev","11","38","2.04","(retractabat penes se cur non prius tinctus esset quam recubuisset)."
+"Ev","11","39","2.04","() exteriora calicis lavatis interiora autem vestra non emundatis."
+"Ev","11","40","2.04","() nonne qui exteriora fecit et interiora fecit?"
+"Ev","11","41","2.04","() date quae habetis eleemosynam et omnia munda erunt vobis."
+"Ev","11","42","2.04","() vae vobis pharisaeis () (mentam) () (rutam) () (holuscula decimantes vocationem et dilectionem dei praetereuntes)."
+"Ev","11","43","2.04","() vae vobis pharisaeis () (primatum captentes locorum et honorem salutationum incusat)."
+"Ev","11","45","2.04","()"
+"Ev","11","46","2.04","() vobis doctoribus legis vae () oneratis alios importabilibus oneribus (quae ipsi ne digito quidem aggredi audetis)."
+"Ev","11","47","2.04","vae [vobis] (quod aedificarent prophetis monimenta interemptis a patribus eorum)."
+"Ev","11","48","2.04","(se non consentire factis patrum)."
+"Ev","11","52","2.04","vae vobis doctoribus legis () clavem agnitionis () (neque ipsi adibant neque alios admittebant)."
+"Ev","12","01","2.04","() (discipulis) () cavete a fermento pharisaeorum quod est hypocrisis."
+"Ev","12","02","2.04","nihil autem opertum quod non patefiet et nihil absconditum quod non dinoscetur."
+"Ev","12","03","2.04","(quae inter se mussitarent vel tractarent) () (in ore hominum futura)."
+"Ev","12","04","2.04","dico autem vobis amicis nolite terreri ab eis qui vos solummodo occidere possunt nec post hoc ullam in vobis habent potestatem."
+"Ev","12","05","2.04","demonstrabo autem vobis quem timeatis. timete eum qui postquam occiderit potestatem habet mittendi in gehennam. itaque dico vobis hunc timete."
+"Ev","12","08","2.04","dico enim vobis omnis qui confitebitur in me coram hominibus confitebor in illo coram deo."
+"Ev","12","09","2.04","et omnis qui negaverit me coram hominibus denegabitur coram deo."
+"Ev","12","10","2.04","qui dixerit in filium hominis remittetur illi qui autem dixerit in spiritum sanctum non remittetur ei."
+"Ev","12","11","2.04","(perductos ad potestates prohibet ad interrogationem cogitare de responsione)."
+"Ev","12","12","2.04","sanctus enim spiritus docebit vos ipse hora quid eloqui debeatis."
+"Ev","12","13","2.04","() quidam () (postulat inter illum et fratrem ipsius de dividunda haereditate)."
+"Ev","12","14","2.04","() quis me iudicem constituit super vos?"
+"Ev","12","16","2.04","() parabola () (dives blandiens sibi de proventu agrorum suorum)."
+"Ev","12","17","2.04","()"
+"Ev","12","18","2.04","()"
+"Ev","12","19","2.04","()"
+"Ev","12","20","2.04","dixit () illi deus stulte hac nocte animam tuam reposcent. quae autem parasti cuius erunt?"
+"Ev","12","22","2.04","(non vult curam nos agere animae de victu et corpori de vestitu)."
+"Ev","12","23","2.04","(substantia ipsius animae) () (potior esca et materia ipsius corporis) () (potior tunica)."
+"Ev","12","24","2.04","() corvi () non serunt nec metunt nec in apothecas condunt (et tamen aluntur ab ipso)."
+"Ev","12","27","2.04","() lilia () non texunt nec nent et Salomon gloriosissimus (nec ullo tamen flosculo cultior)"
+"Ev","12","28a","2.04","() foenum () (et tamen vestiuntur ab ipso) 
+12,28b,04TS,(ut crederent haec illum ultro generi humano subministrare nec de eis cogitarent) (illos modicae fidei incusat). 
+12,29,04TS,() 
+12,30,04TS,haec enim nationes mundi quaerunt. scit autem pater opus esse haec vobis. 
+12,31,04TS,quaerite regnum dei et haec vobis adicientur. 
+12,32,04TS,() 
+12,35,04TS,(servi) () (succingere debemus lumbos lucernas ardentes habere) 
+12,36,04TS,(expectare dominum redeuntem a nuptiis). 
+12,37,04TS,() 
+12,38,04TS,() 
+12,39,04TS,(fur) () (cuius horae si pater familiae sciret non sineret suffodi domum suam). 
+12,40,04TS,() (filius hominis qui quando venturus sit ignoremus). 
+12,41,04TS,(Petrus interrogavit in illos an et in omnes parabolam dixisset). 
+12,42,04TS,(actores) () (quorum qui bene tractaverit conservos). 
+12,43,04TS,() (reverso eo) () 
+12,44,04TS,() (omnibus bonis praeponetur) 
+12,45,04TS,(qui vero secus egerit) 
+12,46,04TS,(reverso domino qua die non putaverit hora qua non scierit segregabitur et pars eius cum infidelibus ponetur). 
+12,47,04TS,(caedens servos multis plagis) 
+12,48a,04TS,(aut paucis plagis) 
+12,48b,04TS,(prout commisit illis ita et exigit ab eis). 
+12,49,04TS,ignem veni mittere in terram. 
+12,51,04TS,putatis venisse me pacem mittere in terram? non dico vobis sed separationem. 
+12,53,04TS,dividetur pater in filium et filius in patrem et mater in filiam et filia in matrem et nurus in socrum et socrus in nurum. 
+12,56,04TS,hypocritae (caeli quidem et terrae faciem probantes tempus vero illud non dinoscentes). 
+12,57,04TS,(exprobrat quod iustum non a semetipsis iudicarent). 
+12,58,04TS,() (iudex) (mittit in carcerem). 
+12,59,04TS,(nec ducit inde nisi soluto etiam novissimo quadrante). 
+13,10,04TS,(sabbato) 
+13,11,04TS,() 
+13,12,04TS,() 
+13,13,04TS,(facta curatio). 
+13,14,04TS,() 
+13,15,04TS,() unusquisque vestrum sabbatis non solvit asinum aut bovem suum a praesepi et ducit ad potum? 
+13,16,04TS,() 
+13,18,04TS,() simile est regnum dei 
+13,19,04TS,grano sinapis quod accepit homo et seminavit in horto suo (). 
+13,20,04TS,() (simile est regnum dei) 
+13,21,04TS,fermento (). 
+13,22,04TS,() 
+13,23,04TS,() 
+13,24,04TS,() 
+13,25,04TS,cum surrexerit pater familiae et cluserit ostium (quibus pulsantibus) respondebit nescio unde sitis. 
+13,26,04TS,(enumerantibus quod coram illo ederint et biberint et in plateis eorum docuerit). 
+13,27,04TS,() recedite a me omnes operarii iniquitatis. 
+13,28,04TS,illic erit fletus et frendor dentium cum videbitis iustos introeuntes in regnum dei vos vero detineri foris. 
+14,12,04TS,() (ad prandium vel ad coenam quales vocari iubet). 
+14,13,04TS,() 
+14,14,04TS,(humanitatis vicem Christus captari vetat in resurrectione eam repromittens). 
+14,16,04TS,() homo quidam fecit coenam et vocavit multos. 
+14,17,04TS,(is mittit) () (ad ante vocatos) 
+14,18,04TS,(excusant se invitati) () agrum emi () 
+14,19,04TS,() (boves mercatus sum) () 
+14,20,04TS,() uxorem duxi (). 
+14,21,04TS,(hoc ut patrifamiliae renuntiatum est) (motus) () (mandat de plateis et vicis civitatis facere sublectionem). 
+14,22,04TS,(loco abundante) 
+14,23,04TS,(praecepit etiam de viis et sepibus colligi) 
+14,24,04TS,(illos gustaturos negat dominus). 
+15,03,04TS,() parabola () 
+15,04,04TS,(ovis) (perdita) () (habuit) () (perdidit) (requisivit) 
+15,05,04TS,() (invenit) () (exultavit) (). 
+15,06,04TS,() 
+15,07,04TS,(exultare illius est de paenitentiae peccatoris). 
+15,08,04TS,() (dragma perdita) (). 
+15,09,04TS,() 
+15,10,04TS,() 
+16,01,04TS,(servi illius exemplum) 
+16,02,04TS,(qui ab actu summotus) 
+16,03,04TS,() 
+16,04,04TS,() 
+16,05,04TS,(dominicos debitores deminutis cautionibus relevat in subsidium sibi). 
+16,06,04TS,() 
+16,07,04TS,() 
+16,09,04TS,et ego dico vobis facite vobis amicos de mammona iniustitiae. 
+16,11,04TS,si in mammona iniusto fideles non extitistis quod verum est quis vobis credet? 
+16,12,04TS,et si in alieno fideles inventi non estis meum quis dabit vobis? 
+16,13,04TS,(duobus dominis negat posse serviri quia alterum offendi est necesse alterum defendi) non potestis deo servire et mammonae. 
+16,14,04TS,(pharisaei pecuniae cupidi irridebant) 
+16,15,04TS,() (iustificantes se coram hominibus) scit autem deus corda vestra. quod elatum est apud homines perosum est deo. 
+16,16,04TS,lex et prophetae usque ad Ioannem ex quo regnum dei annuntiatur (). 
+16,17,04TS,(transit caelum et terra citius) quam unus apex verborum [meorum]. 
+16,18,04TS,qui dimiserit uxorem suam et aliam duxerit adulterium committit qui dimissam a viro duxerit aeque adulter est. 
+16,19,04TS,() dives () 
+16,20,04TS,() pauper () 
+16,21,04TS,() 
+16,22,04TS,() sinus Abrahae () 
+16,23,04TS,(inferi) (adlevavit oculos) () de longinquo () in sinu (Abrahae) (). 
+16,24,04TS,() 
+16,25,04TS,() (refrigerium) (tormentum). 
+16,26,04TS,(magnum intercidit regiones istas profundum et transitum utrinque prohibet). 
+16,27,04TS,() 
+16,28,04TS,() 
+16,29,04TS,() habent illic Moysen et prophetas illos audiant. 
+16,30,04TS,() 
+16,31,04TS,() 
+17,01,04TS,() ad discipulos () vae (auctori scandalorum). 
+17,02,04TS,expediebat ei si natus non fuisset aut (si molino saxo ad collum deligato praecipitatus esset in profundum quam unum ex illis modicis scandalizasset). 
+17,03b,04TS,(peccantem fratrem iubet corripi). 
+17,04,04TS,(veniam des fratri in te delinquenti iubet etiam septies). 
+17,11,04TS,() (in Samariae regionibus) (). 
+17,12,04TS,() decem leprosi (). 
+17,13,04TS,() 
+17,14,04TS,() (praecepit) ite ostendite vos sacerdotibus () (in itinere purgavit). 
+17,15,04TS,(unus ex decem solutus gratiam deo reddidit) 
+17,16,04TS,() Samarites 
+17,17,04TS,() 
+17,18,04TS,(gloriam deo reddens). 
+17,19,04TS,() fides tua te salvum fecit. 
+04,27,04TS,(multi leprosi erant apud Israelem in diebus Helisaei prophetae et nemo eorum purgatus est nisi Naaman Syrus). 
+17,20,04TS,(pharisaei de dei regno consuluerunt dominum quando venturum sit). () non venit regnum dei cum observatione 
+17,21,04TS,nec dicunt ecce hic ecce illic. ecce enim regnum dei intra vos est. 
+17,22,04TS,() 
+17,25,04TS,(dicens filium hominis ante multa pati et reprobari oportere). 
+17,26,04TS,() (dies Loth) () 
+17,27,04TS,(). 
+17,28,04TS,() (dies Noah) () 
+17,29,04TS,(). 
+17,32,04TS,(admonet meminisse uxoris Loth). 
+18,01,04TS,(parabolam ponit orandi perseverantiam et instantiam mandans). 
+18,02,04TS,() (iudex) 
+18,03,04TS,(coactus audire viduam). 
+18,04,04TS,() 
+18,05,04TS,() 
+18,06,04TS,() 
+18,07,04TS,(deus facturus vindictam electorum suorum clamantium ad eum die et nocte). 
+18,09,04TS,() 
+18,10,04TS,(duo adorantes) () (templum) () phariseus () publicanus. 
+18,11,04TS,() 
+18,12,04TS,() 
+18,13,04TS,() 
+18,14,04TS,(alter reprobatus) (alter iustificatus descenderunt). 
+18,15,04TS,() 
+18,16,04TS,() 
+18,17,04TS,() 
+18,18,04TS,interrogavit quidam () praeceptor optime quid faciens vitam aeternam possidebo? 
+18,19,04TS,() quis optimus nisi unus deus? 
+18,20,04TS,(expostulavit) preacepta scis (non occidendi non adulterandi non furandi non falsum testandi diligendi patrem et matrem)? 
+18,21,04TS,() observavi ab adulescentia. 
+18,22,04TS,() unum tibi deest. omnia quaecunque habes vende et da pauperibus et habebis thesaurum in caelo et veni sequere me. 
+18,35,04TS,() caecus () 
+18,36,04TS,() 
+18,37,04TS,() (cum praetereuntem Iesum audisset) () 
+18,38,04TS,() exclamavit () Iesu fili David miserere mei. 
+18,39,04TS,() (antecedentes increpabant caecum uti taceret). 
+18,40,04TS,() 
+18,41,04TS,() 
+18,42,04TS,() fides tua te salvum fecit. 
+18,43,04TS,() et omnis populus laudes referebat deo. 
+19,02,04TS,() Zachaeus () 
+19,03,04TS,() 
+19,04,04TS,() 
+19,05,04TS,(domo sua exceptum pascens dominum). 
+19,06,04TS,() 
+19,07,04TS,() 
+19,08,04TS,() (dimidium substantiae offerens) et si cui quid per calumniam eripui quadruplum reddo. 
+19,09,04TS,() hodie salus huic domui (). 
+19,10,04TS,venit enim filius hominis salvum facere quod periit. 
+19,11,04TS,() parabola () 
+19,13,04TS,(servi) 
+19,14,04TS,() 
+19,15,04TS,(qui secundum rationem fereratae pecuniae dominicae diiudicantur). 
+19,16,04TS,() 
+19,17,04TS,() 
+19,18,04TS,() 
+19,19,04TS,() 
+19,20,04TS,() 
+19,21,04TS,() austerus () 
+19,22,04TS,() (tollens quod non posuerit et metentem quod non severii). 
+19,24,04TS,() 
+19,25,04TS,() 
+19,26,04TS,(auferre quod quis videatur habuisse). 
+19,28,04TS,() 
+20,01,04TS,() pharisaei () 
+20,02,04TS,() 
+20,03,04TS,() 
+20,04,04TS,(baptisma Ioannis unde) 
+20,05,04TS,() de caelis () quare non credidistis ei? 
+20,06,04TS,() (humanum) () (lapidibus elisi). 
+20,07,04TS,() 
+20,08,04TS,() et ego non dico vobis in qua virtute haec facio. 
+20,19,04TS,() 
+20,20,04TS,() 
+20,21,04TS,() 
+20,22,04TS,() 
+20,23,04TS,() 
+20,24,04TS,() (imago) () ([Caesaris]) (). 
+20,25,04TS,() reddite quae Caesaris Caesari et quae sunt dei deo. 
+20,27,04TS,() Sadducaei (resurrectionis negatores) () interrogaverunt (). 
+20,28,04TS,() (ex lege) () 
+20,29,04TS,(mulier) () (quae septem fratribus ex ordine defunctis nupsisset). 
+20,30,04TS,() 
+20,31,04TS,() 
+20,32,04TS,() 
+20,33,04TS,(cuius viri deputanda esset in resurrectione). 
+20,34,04TS,() filii huius aevi nubunt et nubuntur 
+20,35,04TS,quos vero dignatus est deus illius aevi possessione et resurrectione a mortuis neque nubunt neque nubuntur 
+20,36,04TS,quia nec morituri iam sunt cum similes angelorum fiunt dei resurrectionis filii facti. 
+20,39,04TS,() scribae () magister bene dixisti. 
+20,41,04TS,() (scribae) () Christum () filius David (). 
+20,42,04TS,() 
+20,43,04TS,() 
+20,44,04TS,(ipse David) () (dominum eum appellat) (). 
+21,07,04TS,(interrogatio discipulorum). 
+21,08,04TS,() multi () venient in nomine meo dicentes ego sum Christus. () tempus () (prohibet eos recipi). 
+21,09,04TS,() bella () oportet () haec fieri 
+21,10,04TS,() regnum super regnum et gens super gentem 
+21,11,04TS,pestis et fames () terrae motus () formidines () prodigia de caelo (). 
+21,12,04TS,ante haec autem () (persecutiones et passiones) 
+21,13,04TS,() in martyrium et in salutem. 
+21,14,04TS,(cohibuit praecogitationem). 
+21,15,04TS,() sapientia (ipsa cui nemo resisteret). 
+21,16,04TS,(a proximis quoque persecutiones) 
+21,17,04TS,(odium nominis). 
+21,19,04TS,sed per tolerantiam salvos facietis vosmetipsos. 
+21,20,04TS,(cum coepisset vallari exercitibus Hierusalem tempus excidii). 
+21,25,04TS,(solis et lunae siderumque prodigia) et in terra angustia nationum obstupescentium (a sonitu maris fluctuantis). 
+21,26,04TS,(pro expectatione imminentium orbi et ipsae vires caelorum concuti habeant) 
+21,27,04TS,et tunc videbunt filium hominis venientem de caelis cum plurima virtute. 
+21,28,04TS,cum autem haec flent errigetis vos et levabitis capita quoniam appropinquavit redemptio vestra. 
+21,29,04TS,() parabola () aspice ficum et arbores omnes. 
+21,30,04TS,cum fructum protulerint intellegunt homines aestatem appropinquasse. 
+21,31,04TS,sic et vos cum videritis haec fieri scitote in proximo esse regnum dei. 
+21,32,04TS,() non transiet caelum et terra nisi omnia peragantur. 
+21,33,04TS,terra et caelum transiet verbum autem meum manet in aevum. 
+21,34,04TS,(admonentur discipuli) ne quando graventur corda vestra crapula et ebrietate et saecularibus curis et insistat vobis repentinus dies ille 
+21,35,04TS,velut laqueus. 
+21,37,04TS,() per diem in templo docebat ad noctem vero (in elaeonem secedebat). 
+21,38,04TS,(auditorium) () (diluculo conveniendum erat). 
+22,01,04TS,() festus () pascha () 
+22,03,04TS,() ([Iudas]) 
+22,04,04TS,() 
+22,05,04TS,() (praemium) (). 
+22,07,04TS,() 
+22,08,04TS,() 
+22,14,04TS,() 
+22,15,04TS,() concupiscentia concupivi pascha edere vobiscum antequam patiar. 
+22,19,04TS,(acceptum panem et distributum discipulis) () hoc est corpus meum (tradere) pro vobis. 
+22,20,04TS,() (in calicis mentione testamentum constituens sanguine suo obsignatum). 
+22,22b,04TS,vae per quem traditur filius hominis. 
+22,33,04TS,(Petrum praesumptorie aliquid) 
+22,34,04TS,(elocutum negationi) (destinavit). 
+22,41,04TS,() 
+22,47,04TS,() 
+22,48,04TS,(osculo tradi). 
+22,63,04TS,() 
+22,64,04TS,() 
+22,66,04TS,(perductus in consessum). 
+22,67,04TS,(an ipse esset Christus interrogatur) () si dixero vobis non credetis. 
+22,69,04TS,abhinc erit filius hominis sedens ad dexteram virtutis dei. 
+22,70,04TS,() ergo tu filius dei es? () vos dicitis. 
+23,01,04TS,(perductum illum ad Pilatum) 
+23,02,04TS,(onerare coeperunt quod) () (se regem diceret Christum). 
+23,03,04TS,() Pilatus (interrogavit) tu es Christus? () tu dicis. 
+23,04,04TS,(summi sacerdotes). 
+23,06,04TS,() 
+23,07,04TS,(a Pilato Herodi missus). 
+23,08,04TS,(delectatus est Herodes viso Iesu). 
+23,09,04TS,(nec vocem ullam ab eo audivit). 
+23,10,04TS,() 
+23,11,04TS,() 
+23,12,04TS,() 
+23,18,04TS,(Barrabas) 
+23,19,04TS,() 
+23,20,04TS,() 
+23,21,04TS,() 
+23,22,04TS,() 
+23,23,04TS,() 
+23,24,04TS,() 
+23,25,04TS,(quidem nocentissimus vita ut bonus donatur Christus vero iustissimus ut homicida morti expostulatur). 
+23,32,04TS,(sed et duo scelesti circumfiguntur illi). 
+23,33,04TS,() scelesti (). 
+23,34a,04TS,() 
+23,44,04TS,(hora sexta) (caelum luminibus floruisset magis sol radiis insultasset) 
+23,45,04TS,(scissum est et templi velum) 
+23,46,04TS,(vociferatur ad patrem) (tricesimo psalmo). (hoc dicto) expiravit. 
+23,50,04TS,() Ioseph () 
+23,51,04TS,(qui non consenserat in scelere Iudaeis) 
+23,52,04TS,(caro) () (de Pilato postulatum) 
+23,53,04TS,(de patibulo detractum sindone involutum sepulcro novo conditum). 
+23,55,04TS,(mulieres) 
+23,56,04TS,(). 
+24,01,04TS,(mulieres) () (quae ante lucem convenerunt ad sepulcrum cum odorum paratura) 
+24,03,04TS,(corpore non invenio). 
+24,04,04TS,(mulieres illae) () (inter dolorem et spem) (et duo ibidem angeli apparuerunt) (). 
+24,05,04TS,() 
+24,06,04TS,() rememoramini quae locutus sit vobis in Galilaea 
+24,07,04TS,dicens quod oportet tradi filium hominis et crucifigi et tertia die resurgere. 
+24,09,04TS,revertentes quoque a sepulcro (ad renuntiandam scilicet domini resurrectionem) 
+24,10,04TS,(discipuli). 
+24,11,04TS,(incredulitas discipulorum perseverabat). 
+24,13,04TS,(duo ex illis iter agebant) 
+24,14,04TS,() 
+24,15,04TS,(et dominus eis adhaerebant). 
+24,16,04TS,(non comparens quod ipse esset). 
+24,17,04TS,() 
+24,18,04TS,() 
+24,19,04TS,() 
+24,20,04TS,() 
+24,21,04TS,nos autem putabamus ipsum esse redemptorem Israelis. 
+24,25,04TS,() o insensati et tardi corde in non credendo omnibus quae locutus est ad vos. 
+24,26,04TS,() 
+24,28,04TS,() 
+24,29,04TS,() 
+24,30,04TS,() 
+24,31,04TS,() 
+24,33,04TS,() 
+24,34,04TS,() 
+24,35,04TS,() 
+24,36,04TS,() 
+24,37,04TS,() (haesitantibus eis ne phantasma esset). 
+24,38,04TS,() quid turbati estis et quid cogitationes subeunt in corda vestra? 
+24,39,04TS,videte manus meas et pedes quia ego ipse sum quoniam spiritus ossa non habet sicut me videtis habere. et scitote quia ego sum. 
+24,41,04TS,(atquin adhuc eis non credentibus propterea cibum desideravit). 
+24,42,04TS,() 
+24,43,04TS,() 
+24,44,04TS,() 
+24,45,04TS,() 
+24,46,04TS,() 
+24,47,04TS,(apostolos mittens ad praedicandum universis nationibus). 
+24,48,04TS,() 
+24,49,04TS,() 
+24,50,04TS,() 
+24,51,04TS,() 
+24,52,04TS,() 
+24,53,04TS,()"
