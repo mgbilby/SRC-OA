@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<teiHeader xml:lang="eng"> 
+<fileDesc><titleStmt><title></title></titleStmt><publicationStmt><p>now</p></publicationStmt><sourceDesc><p>me</p></sourceDesc></fileDesc>
+<encodingDesc> 
+			<!--<tagsDecl> 
+ <rendition id="large"> </rendition> 
+ <rendition id="blockquote"> </rendition> 
+ <rendition id="header"> </rendition> 
+ <tagUsage render="header" gi="head"> </tagUsage> 
+ <tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage> 
+ <tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage> 
+ </tagsDecl>--> 
+	<refsDecl n="CTS"> 
+		<cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"><p>This pointer pattern extracts chapter and verse</p></cRefPattern> 
+		<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"><p>This pointer pattern extracts chapter</p></cRefPattern> 
+	</refsDecl> 
+</encodingDesc> 
+	<profileDesc> 
+		<langUsage> 
+			<language ident="grc">Greek</language> 
+			<language ident="eng">English</language> 
+		</langUsage> 
+	</profileDesc> 
+</teiHeader> 
+<text xml:lang="grc"> 
+	<body> 
+<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.01-grc1"> 
+<pb n="403"/> 
+<div type="textpart" subtype="book" n="Ev"> 
+	<head>ΕΥΑΓΓΕΛΙΟΝ ΤΟΥ ΚΥΡΙΟΥ</head> 
+<div type="textpart" subtype="chapter" n="3"> 
+<div type="textpart" subtype="verse" n="1"> 
+<p><milestone unit="para"/> 
+	Ἐν ἔτει πεντεκαιδεκάτῳ τῆς ἡγεμονίας Τιβερίου Καίσαρος [] 
+</p></div></div> 
+<div type="textpart" subtype="chapter" n="4"> 
+<div type="textpart" subtype="verse" n="31"> 
+<p>ὁ θεὸς κατῆλθεν εἰς Καπερναοὺμ, πόλιν τῆς Γαλιλαίας, καὶ ἦν διδάσκων ἐν τοῖς σάββασι.</p></div> 
+<div type="textpart" subtype="verse" n="32"> 
+<p>Καὶ ἐξεπλήσσοντο ἐπὶ τῇ διδαχῇ αὐτοῦ· 
+<pb n="404"/>ὅτι ἐν ἐξουσίᾳ ἦν ὁ λόγος αὐτοῦ.</p></div> 
+<div type="textpart" subtype="verse" n="33"><p>				 
+Καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου ἀκαθάρτου, καὶ ἀνέκραξε φωνῇ μεγάλῃ.</p></div> 
+<div type="textpart" subtype="verse" n="34"> 
+<p>Λέγων· ἔα, τί ἡμῖν καὶ σοὶ, Ἰησοῦ; ἦλθες ἀπολέσαι ἡμᾶς· οἶδά σε τίς εἶ, ὁ ἅγιος τοῦ θεοῦ.</p></div> 
+<div type="textpart" subtype="verse" n="35"> 
+<p>Καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ. καὶ ῥῖψαν αὐτὸν τὸ δαιμόνιον εἰς μέσον ἐξῆλθεν ἀπ᾽ αὐτοῦ μηδὲν βλάψαν αὐτόν.</p></div> 
+<div type="textpart" subtype="verse" n="36"> 
+<p>Καὶ ἐγένετο θάμβος ἐπὶ πάντας, καὶ συνελάλουν πρὸς ἀλλήλους λέγοντες· τίς ὁ λόγος οὗτος, ὅτι ἐν ἐξουσίᾳ καὶ δυνάμει ἐπιτάσσει τοῖς ἀκαθάρτοις πνεύμασιν, καὶ ἐξέρχονται;</p></div> 
+<div type="textpart" subtype="verse" n="37"> 
+<p>Καὶ ἐξεπορεύετο ἦχος περὶ αὐτοῦ εἰς πάντα τόπον τῆς περιχώρου.</p></div> 
+<div type="textpart" subtype="verse" n="38"> 
+<p>Ἀναστὰς δὲ ἐκ τῆς συναγωγῆς εἰσῆλθεν εἰς τὴν οἰκίαν Σίμωνος· πενθερὰ δὲ τοῦ Σίμωνος ἦν συνεχομένη πυρετῷ μεγάλῳ, καὶ ἐρώτησαν αὐτὸν περὶ αὐτῆς.</p></div> 
+<div type="textpart" subtype="verse" n="39"> 
+<p>Καὶ ἐπιστὰς ἐπάνω αὐτῆς ἐπετίμησε τῷ πυρετῷ, καὶ ἀφῆκεν αὐτήν. παραχρῆμα δὲ ἀναστᾶσα διηκόνει αὐτοῖς.</p></div> 
+<div type="textpart" subtype="verse" n="16"> 
+<p>Καὶ ἦλθεν εἰς τὴν Ναζαρὲτ, καὶ εἰσῆλθεν εἰς τὴν συναγωγήν.</p></div> 
+<div type="textpart" subtype="verse" n="20"> 
+<p>Καὶ ἐκάθισε· καὶ πάντων ἐν τῇ συναγωγῇ οἱ ὀφθαλμοὶ ἦσαν ἀτενίζοντες αὐτῷ.</p></div> 
+<div type="textpart" subtype="verse" n="21"> 
+<p>Ἤρξατο δὲ λέγειν πρὸς αὐτούς.</p></div> 
+<div type="textpart" subtype="verse" n="22"> 
+<p>Καὶ πάντες ἐθαύμαζον ἐπὶ τοῖς λόγοις τοῖς ἐκπορευομένοις 
+<pb n="405"/>ἐκ τοῦ στόματος αὐτοῦ.</p></div> 
+<div type="textpart" subtype="verse" n="23"> 
+<p>Καὶ εἶπε πρὸς αὐτούς· πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· ἰατρὲ, θεράπευσον σεαυτόν· ὅσα ἠκούσαμεν γενόμενα εἰς Καφαρναοὺμ, ποίησον καὶ ὧδε.</p></div> 
+<div type="textpart" subtype="verse" n="28"> 
+<p>Καὶ ἐπλήσθησαν πάντες θυμοῦ ἐν τῇ συναγωγῇ ἀκούοντες ταῦτα.</p></div> 
+<div type="textpart" subtype="verse" n="29"> 
+<p>Καὶ ἀναστάντες ἐξέβαλον αὐτὸν ἔξω τῆς πόλεως· καὶ ἤγαγον αὐτὸν ἕως τῆς ὀφρύος τοῦ ὄρους, ἐφ᾽ οὗ ἡ πόλις αὐτῶν ᾠκοδόμητο, ὥστε κατακρημνίσαι αὐτόν.</p></div> 
+<div type="textpart" subtype="verse" n="30"> 
+<p>Αὐτὸς δὲ διελθὼν διὰ μέσου αὐτῶν ἐπορεύετο.</p></div> 
+<div type="textpart" subtype="verse" n="40"> 
+<p>Δύνοντος δὲ τοῦ ἡλίου πάντες, ὅσοι εἶχον ἀσθενοῦντας νόσοις ποικίλαις, ἤγαγον αὐτοὺς πρὸς αὐτόν· ὁ δὲ ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν αὐτούς.</p></div> 
+<div type="textpart" subtype="verse" n="41"> 
+<p>Ἐξήρχετο δὲ καὶ δαιμόνια ἀπὸ πολλῶν κράζοντα καὶ λέγοντα· ὅτι σὺ εἶ ὁ υἱὸς τοῦ θεοῦ. καὶ ἐπιτιμῶν οὐκ εἴα αὐτὰ λαλεῖν, ὅτι ᾔδεισαν τὸν Χριστὸν αὐτὸν εἶναι.</p></div> 
+<div type="textpart" subtype="verse" n="42"> 
+<p>Γενομένης δὲ ἡμέρας ἐξελθὼν ἐπορεύθη εἰς ἔρημον τόπον· καὶ οἱ ὄχλοι ἐπεζήτουν αὐτὸν, καὶ ἦλθον ἕως αὐτοῦ, καὶ κατεῖχον αὐτὸν τοῦ μὴ πορεύεσθαι ἀπ᾽ αὐτῶν.</p></div> 
+<div type="textpart" subtype="verse" n="43"> 
+<p>Ὁ δὲ εἶπε πρὸς αὐτούς· ὅτι καὶ ταῖς ἑτέραις πόλεσιν εὐαγγελίσασθαί με δεῖ τὴν βασιλείαν τοῦ θεοῦ, ὅτι εἰς τοῦτο ἀπέσταλμαι.</p></div> 
+<div type="textpart" subtype="verse" n="44"> 
+<p>Καὶ ἦν κηρύσσων ἐν ταῖς συναγωγαῖς τῆς Γαλιλαίας.</p></div></div><pb n="406"/> 
+<div type="textpart" subtype="chapter" n="5"> 
+<div type="textpart" subtype="verse" n="1"> 
+<milestone unit="para"/><p>Ἐγένετο δὲ ἐν τῷ τὸν ὄχλον ἐπικεῖσθαι αὐτῷ καὶ ἀκούειν τὸν λόγον τοῦ θεοῦ, καὶ αὐτὸς ἦν ἑστὼς παρὰ τὴν λίμνην Γεννησαρέτ·</p></div> 
+<div type="textpart" subtype="verse" n="2"> 
+<p>Καὶ εἶδε δύο πλοῖα ἑστῶτα παρὰ τὴν λίμνην· οἱ δὲ ἁλιεῖς ἀποβάντες ἀπ᾽ αὐτῶν ἀπέπλυναν τὰ δίκτυα.</p></div> 
+</div></div></div></body></text></TEI> 
