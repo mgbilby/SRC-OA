@@ -392,7 +392,7 @@
 "Ev","18","37","2.05","ἀπαγγέλλω@viap3s δέ@cc αὐτός@rpdms ὅτι@cs Ἰησοῦς@nnmsp παρέρχομαι@vipm3s" 
 "Ev","18","38","2.05","καί@cc βοάω@viia3s Ἰησοῦς@nvmsp υἱός@nvmsc Δαυίδ@ngmsp ἐλεέω@vdaa2s ἐγώ@rpa-s" 
 "Ev","18","39","2.05","καί@cc ὁ@dnmp προάγω@vppanmp ἐπιτιμάω@viia3p αὐτός@rpdms ἵνα@cs σιγάω@vsaa3s ()" 
-"Ev","18","40","2.05","ἵστημι@vpapnms δέ@cc ἐκέλευσεν αὐτὸν ἀχθῆναι (πρὸς αὐτόν) ἐγγίσαντος δὲ αὐτοῦ ἐπηρώτησεν αὐτόν" 
+"Ev","18","40","2.05","ἵστημι@vpapnms δέ@cc κελεύω@viaa3s αὐτός@rpams ἄγω@vnap (πρός@pa αὐτός@rpams) ἐγγίζω@vpaagms δέ@cc αὐτός@rpgms ἐπερωτάω@viaa3s αὐτός@rpams" 
 "Ev","18","41","2.05","τίς@rqans σύ@rpd-s θέλω@vipa2s ποιέω@vsaa1s ὁ@dnms δέ@cc λέγω@viaa3s κύριος@nvmsc ἵνα@cs ἀναβλέπω@vsaa1s" 
 "Ev","18","42","2.05","καί@cc ἀποκρίνομαι@vpapnms λέγω@viaa3s ὁ@dnms Ἰησοῦς@nnmsp ἀναβλέπω@vdaa2s ὁ@dnfs πίστις@nnfsc σύ@rpg-s σῴζω@vixa3s σύ@rpa-s" 
 "Ev","18","43","2.05","καί@cc παραχρῆμα@b ἀναβλέπω@viaa3s () καί@cc πᾶς@ainmsn ὁ@dnms λαός@nnmsc ὁράω@vpaanms δίδωμι@viaa3s αἶνος@namsc ὁ@ddms θεός@ndmsc" 
