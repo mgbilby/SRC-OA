@@ -322,7 +322,7 @@
 "Ev","12","59","2.02","[λέγω@vipa1s σύ@rpd-s οὐ@b μή@x ἐξέρχομαι@vsaa2s ἐκεῖθεν@b ἕως@cs] καί@b ὁ@dams ἔσχατος@anamsn κοδράντης@namsc [ἀποδίδωμι@vsaa2s]" 
 "Ev","13","10","2.02","[εἰμί@viia3s δέ@cc διδάσκω@vppanms ἐν@pd εἷς@acdfsn ὁ@dgfp συναγωγή@ngfpc ἐν@pd ὁ@ddnp σάββατον@ndnpc]" 
 "Ev","13","11","2.02","[καί@cc ἰδού@i γυνή@nnfsc πνεῦμα@nansc ἔχω@vppanfs ἀσθένεια@ngfsc ἔτος@nanpc δεκαοκτώ@ac---n καί@cc εἰμί@viia3s συγκύπτω@vppanfs καί@cc μή@x δύναμαι@vppmnfs ἀνακύπτω@vnaa εἰς@pa ὁ@dans παντελής@anansn]" 
-"Ev","13","12","2.02","[ὁράω@vpaanms δέ@cc αὐτός@rpafs ὁ@dnms Ἰησοῦς@nnmsp προσφωνέω@viaa3s καί@cc λέγω@viaa3s viaa3s αὐτός@rpdfs γυνή@nvfsc ἀπολύω@vixp2s ἀπό@pg ὁ@dgfs ἀσθένεια@ngfsc σύ@rpg-s]" 
+"Ev","13","12","2.02","[ὁράω@vpaanms δέ@cc αὐτός@rpafs ὁ@dnms Ἰησοῦς@nnmsp προσφωνέω@viaa3s καί@cc λέγω@viaa3s αὐτός@rpdfs γυνή@nvfsc ἀπολύω@vixp2s ἀπό@pg ὁ@dgfs ἀσθένεια@ngfsc σύ@rpg-s]" 
 "Ev","13","13","2.02","[καί@cc ἐπιτίθημι@viaa3s αὐτός@rpdfs ὁ@dafp χείρ@nafpc καί@cc παραχρῆμα@b ἀνορθόω@viap3s καί@cc δοξάζω@viia3s ὁ@dams θεός@namsc]" 
 "Ev","13","14","2.02","[ἀποκρίνομαι@vpapnms δέ@cc ὁ@dnms ἀρχισυνάγωγος@nnmsc ἀγανακτέω@vppanms ὅτι@cs ὁ@ddns σάββατον@ndnsc θεραπεύω@viaa3s ὁ@dnms Ἰησοῦς@nnmsp λέγω@viia3s ὁ@ddms ὄχλος@ndmsc ὅτι@cs ἕξ@ac---n ἡμέρα@nnfpc εἰμί@vipa3p ἐν@pd ὅς@rrdfp δεῖ@vipa3s ἐργάζομαι@vnpm ἐν@pd αὐτός@rpdfp οὖν@cc ἔρχομαι@vppmnmp θεραπεύω@vdpp2p καί@cc μή@x ὁ@ddfs ἡμέρα@ndfsc ὁ@dgns σάββατον@ngnsc]" 
 "Ev","13","15","2.02","[ἀποκρίνομαι@viap3s δέ@cc αὐτός@rpdms ὁ@dnms κύριος@nnmsc καί@cc λέγω@viaa3s ὑποκριτής@nvmpc ἕκαστος@ainmsn σύ@rpg-p ὁ@ddns σάββατον@ndnsc οὐ@b λύω@vipa3s ὁ@dams βοῦς@namsc αὐτός@rpgms ἤ@cc ὁ@dams ὄνος@namsc ἀπό@pg ὁ@dgfs φάτνη@ngfsc καί@cc ἀπάγω@vpaanms ποτίζω@vipa3s]" 
