@@ -117,7 +117,7 @@
 "Ev","8","18","2.05","βλέπω@vdpa2p πῶς@b ἀκούω@vipa2p ὅς@rrnms ἄν@x ἔχω@vspa3s δίδωμι@vifp3s αὐτός@rpdms ὅς@rrnms ἄν@x μή@x ἔχω@vspa3s καί@b ὅς@rrans δοκέω@vipa3s ἔχω@vnpa αἴρω@vifp3s ἀπό@pg αὐτός@rpgms" 
 "Ev","8","20","2.05","ἀπαγγέλλω@viap3s δέ@cc αὐτός@rpdms ὁ@dnfs μήτηρ@nnfsc σύ@rpg-s καί@cc ὁ@dnmp ἀδελφός@nnmpc σύ@rpg-s ἵστημι@vixa3p ἔξω@b ὁράω@vnaa θέλω@vppanmp σύ@rpa-s" 
 "Ev","8","21","2.05","ὁ@dnms δέ@cc ἀποκρίνομαι@vpapnms λέγω@viaa3s πρός@pa αὐτός@rpamp τίς@rqnfs ἐγώ@rpd-s μήτηρ@nnfsc καί@cc τίς@rqnmp ἐγώ@rpd-s ἀδελφός@nnmpc οὗτος@rdnmp εἰμί@vipa3p ὁ@dnmp ἀκούω@vipa3p ὁ@damp λόγος@nampc ἐγώ@rpg-s καί@cc ποιέω@vipa3p αὐτός@rpamp" 
-"Ev","8","22","2.05","γίνομαι@viam3s δέ@cc () [cc αὐτός@rtnms ἐμβαίνω@viaa3s εἰς@pa πλοῖον@nansc καί@cc ὁ@dnmp μαθητής@nnmpc αὐτός@rpgms ()]" 
+"Ev","8","22","2.05","γίνομαι@viam3s δέ@cc () [αὐτός@rtnms ἐμβαίνω@viaa3s εἰς@pa πλοῖον@nansc καί@cc ὁ@dnmp μαθητής@nnmpc αὐτός@rpgms ()]" 
 "Ev","8","23","2.05","[καί@cc] πλέω@vppagmp αὐτός@rpgmp ἀφυπνόω@viaa3s [καί@cc καταβαίνω@viaa3s λαῖλαψ@nnfsc ἄνεμος@ngmsc ()]" 
 "Ev","8","24","2.05","[() διεγείρω@viaa3p αὐτός@rpams ()] ὁ@dnms δέ@cc ἐγείρω@vpapnms ἐπιτιμάω@viaa3s ὁ@ddms ἄνεμος@ndmsc καί@cc ὁ@ddfs θάλασσα@ndfsc καί@cc παύω@viam3p καί@cc γίνομαι@viam3s γαλήνη@nnfsc" 
 "Ev","8","25","2.05","() θαυμάζω@viaa3p λέγω@vppanmp πρός@pa ἀλλήλων@reamp τίς@rqnms ἄρα@x οὗτος@rdnms εἰμί@vipa3s ὅς@rrnms καί@b ὁ@ddmp ἄνεμος@ndmpc ἐπιτάσσω@vipa3s καί@cc ὁ@ddfs θάλασσα@ndfsc" 
