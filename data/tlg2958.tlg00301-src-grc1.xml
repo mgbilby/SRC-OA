@@ -24,27 +24,27 @@
 	</publicationStmt> 
  <sourceDesc> 
  <biblStruct> 
-					<analytic> 
-					<author ref="https://viaf.org/viaf/59890715">Willem Christiaan van Manen</author> 
-					<title level="a">Marcion's brief van Paulus aan de Galatiërs</title> 
-					<idno type="ARK">13960/s28vzsvnnq4</idno> 
-					<ref target="https://n2t.net/ark:/13960/s28vzsvnnq4">https://n2t.net/ark:/13960/s28vzsvnnq4</ref> 
- </analytic> 
-					<monogr> 
- <title level="j">Theologisch Tijdschrift</title> 
- <idno type="LC">19007136</idno> 
- <respStmt> 
- <resp>Onder Redactie Van</resp> 
- <name>F. W. B. van Bell</name> 
- <name>H. P. Berlage</name> 
-							<name>S. Hoekstra Bz.</name> 
-							<name>Ph. R. Hugenholtz</name> 
-							<name>A. Kuenen</name> 
-							<name>A. D. Loman</name> 
-							<name>H. Oort</name> 
-							<name>L. W. E. Rauwenhoff</name> 
-							<name>C. P. Tiele</name> 
- </respStmt> 
+	<analytic> 
+		<author ref="https://viaf.org/viaf/59890715">Willem Christiaan van Manen</author> 
+		<title level="a">Marcion's brief van Paulus aan de Galatiërs</title> 
+		<idno type="ARK">13960/s28vzsvnnq4</idno> 
+		<ref target="https://n2t.net/ark:/13960/s28vzsvnnq4">https://n2t.net/ark:/13960/s28vzsvnnq4</ref> 
+ 	</analytic> 
+	<monogr> 
+ 		<title level="j">Theologisch Tijdschrift</title> 
+		<idno type="LC">19007136</idno> 
+		<respStmt> 
+			<resp>Onder Redactie Van</resp> 
+				<name>F. W. B. van Bell</name> 
+				<name>H. P. Berlage</name> 
+				<name>S. Hoekstra Bz.</name> 
+				<name>Ph. R. Hugenholtz</name> 
+				<name>A. Kuenen</name> 
+				<name>A. D. Loman</name> 
+				<name>H. Oort</name> 
+				<name>L. W. E. Rauwenhoff</name> 
+				<name>C. P. Tiele</name> 
+		</respStmt> 
  <imprint> 
  <pubPlace>Leiden</pubPlace> 
  <publisher>S. C. van Doesburgh</publisher> 

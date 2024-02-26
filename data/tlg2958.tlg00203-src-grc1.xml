@@ -25,14 +25,14 @@
 	<sourceDesc> 
 		<biblStruct> 
 			<analytic> 
-				<author ref="https://viaf.org/viaf/9886393/">Adolf von Harnack</author> 
+				<author ref="https://viaf.org/viaf/9886393">Adolf von Harnack</author> 
 				<title level="m">Marcion: Das Evangelium vom Fremden Gott</title> 
 				<idno type="ARK">13960/t3611sv4v</idno> 
 				<ref target="https://n2t.net/ark:/13960/t3611sv4v">https://n2t.net/ark:/13960/t3611sv4v</ref> 
 			</analytic> 
 			<monogr> 
 				<title level="m">Marcion: Das Evangelium vom Fremden Gott</title> 
-				<idno type="OCLC" ref="https://worldcat.org/title/4964885">4964885</idno> 
+				<idno type="LC">4964885</idno> 
 				<respStmt>
 					<resp>von</resp>
 					<name>Adolf von Harnack</name> 
@@ -70,13 +70,12 @@
 	</profileDesc> 
 </teiHeader> 
 <text xml:lang="grc"> 
-	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00203-src-grc1"> 
-
+	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00203-src-grc1">
 <div type="textpart" subtype="book" n="Ev"> 
 <pb n="183*"/>
 <head>ΕΥΑΓΓΕΛΙΟΝ.</head>
-<div type="textpart" subtype="chapter" n="3"> 
 <milestone unit="para"/>
+<div type="textpart" subtype="chapter" n="3">
 <div type="textpart" subtype="verse" n="1">
 <p>Ἐν τῷ ιε' ἔτει Τιβερίου Καίσαρος ἐπι τῶν χρόνων Πιλάτου</p></div>
 </div><div type="textpart" subtype="chapter" n="4"> 

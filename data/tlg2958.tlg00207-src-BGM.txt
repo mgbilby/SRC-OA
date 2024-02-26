@@ -1,5 +1,4 @@
 "book","chapter","verse","edition","text" 
-"Ev","1","00","2.07","εὐαγγέλιον@nnnsc" 
 "Ev","3","01","2.07","ἐν@pd ἔτος@ndnsc δέ@cc πεντεκαιδέκατος@aodnsn ὁ@dgfs ἡγεμονία@ngfsc Τιβέριος@ngmsp Καῖσαρ@ngmsp" 
 "Ev","4","31","2.07","ὁ@dnms Ἰησοῦς@nnmsp κατέρχομαι@viaa3s εἰς@pa Καφαρναούμ@nafsp πόλις@nafsc ὁ@dgfs Γαλιλαία@ngfsp ὁ@dafs παραθαλάσσιος@anafsn ἐν@pd ὅριον@ndnpc Ζαβουλών@ngmsp καί@cc Νεφθαλίμ@ngmsp καί@cc εἰμί@viia3s διδάσκω@vppanms αὐτός@rpamp ἐν@pd ὁ@ddnp σάββατον@ndnpc" 
 "Ev","4","32","2.07","καί@cc πᾶς@ainmpn ἐκπλήσσω@viip3p ἐπί@pd ὁ@ddfs διδαχή@ndfsc αὐτός@rpgms ὅτι@cs ἐν@pd ἐξουσία@ndfsc εἰμί@viia3s ὁ@dnms λόγος@nnmsc αὐτός@rpgms" 
