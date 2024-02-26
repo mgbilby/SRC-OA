@@ -71,7 +71,7 @@
 </teiHeader> 
 <text xml:lang="grc"> 
 	<body>
-		<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg002.08-grc1"> 
+		<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00208-src-grc1"> 
 <pb n="2"/>
 <div type="textpart" subtype="book" n="Ev"> 
 <head>Εὐαγγέλιον</head>
