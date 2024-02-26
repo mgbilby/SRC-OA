@@ -45,21 +45,19 @@
 				<name>L. W. E. Rauwenhoff</name> 
 				<name>C. P. Tiele</name> 
 		</respStmt> 
- <imprint> 
- <pubPlace>Leiden</pubPlace> 
- <publisher>S. C. van Doesburgh</publisher> 
- <date>1887</date> 
- </imprint> 
-						<biblScope unit="volume">21</biblScope> 
-						<biblScope unit="page">451-533</biblScope>						 
- </monogr> 
- 
+ 		<imprint> 
+			<pubPlace>Leiden</pubPlace> 
+			<publisher>S. C. van Doesburgh</publisher> 
+			<date>1887</date> 
+		</imprint> 
+		<biblScope unit="volume">21</biblScope> 
+		<biblScope unit="page">451-533</biblScope>						 
+	</monogr> 
  </biblStruct> 
- </sourceDesc> 
- </fileDesc> 
- 
- <encodingDesc> 
- <!--<tagsDecl> 
+</sourceDesc> 
+</fileDesc> 
+<encodingDesc> 
+			<!--<tagsDecl> 
  <rendition id="large"> </rendition> 
  <rendition id="blockquote"> </rendition> 
  <rendition id="header"> </rendition> 
@@ -67,43 +65,33 @@
  <tagUsage render="blockquote" gi="q"> poetical language within the running text </tagUsage> 
  <tagUsage render="large" gi="quote"> material quoted from other biblical texts </tagUsage> 
  </tagsDecl>--> 
- 
- <refsDecl n="CTS"> 
- <cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"> 
- <p>This pointer pattern extracts chapter and verse</p> 
- </cRefPattern> 
- <cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"> 
- <p>This pointer pattern extracts chapter</p> 
- </cRefPattern> 
- </refsDecl> 
- 
- </encodingDesc> 
- 
- <profileDesc> 
- <langUsage> 
- <language ident="grc">Greek</language> 
- <language ident="eng">English</language> 
- </langUsage> 
- </profileDesc> 
- 
- </teiHeader> 
- 
+	<refsDecl n="CTS"> 
+		<cRefPattern n="verse" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"><p>This pointer pattern extracts chapter and verse</p></cRefPattern> 
+		<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"><p>This pointer pattern extracts chapter</p></cRefPattern> 
+	</refsDecl> 
+</encodingDesc> 
+	<profileDesc> 
+		<langUsage> 
+			<language ident="grc">Greek</language> 
+			<language ident="eng">English</language> 
+		</langUsage> 
+	</profileDesc> 
+</teiHeader>  
  <text xml:lang="grc"> 
- <body> 
- <div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00301-src-grc1"> 
- 
-<pb n="528"></pb> 
+ 	<body> 
+		<div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00301-src-grc1"> 
+<pb n="528"/> 
 <div type="textpart" subtype="book" n="Gal">
 <head>ΠΡΟΣ ΓΑΛΑΤΑΣ</head>  
 <div type="textpart" subtype="chapter" n="1"> 
 <div type="textpart" subtype="verse" n="1"> 
 <milestone unit="para"/> 
-<p>Παῦλος ἀπόστολος οὐκ ἀπ᾽ ἀνθρώπων οὐδὲ δι᾽ ἀνθρώπου, ἀλλὰ διὰ Ἰησοῦ Χριστοῦ τοῦ ἐγείραντος αὑτὸν ἐκ νεκρῶν, </p></div> 
+<p>Παῦλος ἀπόστολος οὐκ ἀπ᾽ ἀνθρώπων οὐδὲ δι᾽ ἀνθρώπου, ἀλλὰ διὰ Ἰησοῦ Χριστοῦ τοῦ ἐγείραντος αὑτὸν ἐκ νεκρῶν,</p></div> 
 <div type="textpart" subtype="verse" n="2"> 
 <p>καὶ οἱ σὺν ἐμοὶ πάντες ἀδελφοί ταῖς ἐκκλησίαις τῆς Γαλατίας·</p></div> 
 <div type="textpart" subtype="verse" n="3">
 <p>Χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ.</p></div>
- <pb n="529"/> 
+<pb n="529"/> 
 <div type="textpart" subtype="verse" n="6"> 
 <milestone unit="para"/>
 <p>θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε, ἀπὸ τοῦ καλέσαντος ὑμᾶς εἰς (τὴν) χάριν, εἰς ἕτερον εὐαγγέλιον,</p></div> 
@@ -148,7 +136,7 @@
 <p>οὐδὲ πρὸς ὥραν εἴξαμεν τῇ ὑποταγῇ, ἵνα ἡ ἀλήθεια τοῦ εὐαγγελίου διαμείνῃ πρὸς ὑμᾶς.</p></div> 
 <div type="textpart" subtype="verse" n="6"> 
 <p>ἀπὸ δὲ τῶν δοκούντων εἶναί τι (). ὁποῖοί ποτε ἦσαν οὐδέν μοι διαφέρει· πρόσωπον θεὸς οὐ λαμβάνει. ἐμοὶ γὰρ οὐδὲν προσανέθεντο</p></div> 
-<pb n="530"></pb> 
+<pb n="530"/> 
 <div type="textpart" subtype="verse" n="7"> 
 <p>ἀλλὰ τοὐναντίον, ἰδόντες ὅτι πεπίστευμαι τὸ εὐαγγέλιον τῆς ἀκροβυστίας</p></div> 
 <div type="textpart" subtype="verse" n="9"> 
@@ -193,7 +181,7 @@
 <p>ὁ δὲ νόμος οὐκ ἔστιν ἐκ πίστεως· ὁ δὲ ποιήσας αὐτὰ ζήσεται ἐν αὐτοῖς.</p></div> 
 <div type="textpart" subtype="verse" n="13"> 
 <p>Χριστὸς ἡμᾶς ἐξηγόρασεν 
-<pb n="531"></pb>ἐκ τῆς κατάρας τοῦ νόμου, γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου.</p></div> 
+<pb n="531"/>ἐκ τῆς κατάρας τοῦ νόμου, γενόμενος ὑπὲρ ἡμῶν κατάρα, ὅτι· Ἐπικατάρατος πᾶς ὁ κρεμάμενος ἐπὶ ξύλου.</p></div> 
 <div type="textpart" subtype="verse" n="14"> 
 <p>ἐλάβομεν οὖν τὴν εὐλογίαν τοῦ πνεύματος διὰ τῆς πίστεως.</p></div> 
 <div type="textpart" subtype="verse" n="26"> 
@@ -241,7 +229,7 @@
 <p>γέγραπται γὰρ ὅτι Ἀβραὰμ δύο υἱοὺς ἔσχεν, ἕνα ἐκ τῆς παιδίσκης καὶ ἕνα ἐκ τῆς ἐλευθέρας.</p></div> 
 <div type="textpart" subtype="verse" n="23"> 
 <p>ἀλλὰ ὁ ἐκ τῆς παιδίσκης κατὰ σάρκα γεγέννηται, ὁ δὲ ἐκ τῆς ἐλευθέρας 
-<pb n="532"></pb> 
+<pb n="532"/> 
 διὰ τῆς ἐπαγγελίας.</p></div> 
 <div type="textpart" subtype="verse" n="24"> 
 <p>ἅτινά ἐστιν ἀλληγορούμενα. αὗται γάρ εἰσι δύο διαθῆκαι, μία μὲν ἀπὸ ὄρους Σινᾶ εἰς τὴν συναγωγὴν τῶν Ἰουδαίων, κατὰ νόμον, εἰς δουλείαν γεννῶσα,</p></div> 
@@ -254,8 +242,8 @@
 <div type="textpart" subtype="chapter" n="4"> 
 <div type="textpart" subtype="verse" n="26"> 
 <p>ἥτις ἐστὶν μήτηρ ἡμῶν.</p></div> 
-</div><div type="textpart" subtype="verse" n="31"> 
-<p>διό, ἀδελφοί, οὐκ ἐσμὲν παιδίσκης τέκνα, ἀλλὰ τῆς ἐλευθέρας.</p></div> 
+<div type="textpart" subtype="verse" n="31"> 
+<p>διό, ἀδελφοί, οὐκ ἐσμὲν παιδίσκης τέκνα, ἀλλὰ τῆς ἐλευθέρας.</p></div></div>
 <div type="textpart" subtype="chapter" n="5"> 
 <div type="textpart" subtype="verse" n="1"> 
 <milestone unit="para"/>
@@ -299,7 +287,7 @@
 <p>εἰδωλολατρία, φαρμακεία, ἔχθραι, ἔρεις, ζῆλοι, θυμοί, ἐριθείαι, διχοστασίαι, αἱρέσεις,</p></div> 
 <div type="textpart" subtype="verse" n="21"> 
 <p>φθόνοι, μέθαι, κῶμοι· ἃ προλέγω ὑμῖν καθὼς καὶ προεῖπον, ὅτι οἱ τὰ τοιαῦτα πράσσοντες 
-<pb n="533"></pb> 
+<pb n="533"/> 
 βασιλείαν θεοῦ οὐ κληρονομέσουσιν.</p></div> 
 <div type="textpart" subtype="verse" n="22"> 
 <p>ὁ δὲ καρπὸς τοῦ πνεύματός ἐστιν ἀγάπη, χαρά, εἰρήνη, μακροθυμία, χρηστότης, ἀγαθωσύνη, πίστις,</p></div> 

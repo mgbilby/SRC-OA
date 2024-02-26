@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?> 
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?> 
 <TEI xmlns="http://www.tei-c.org/ns/1.0"> 
 <teiHeader xml:lang="eng"> 
@@ -71,6 +71,7 @@
 </teiHeader> 
 <text xml:lang="grc"> 
 	<body><div type="edition" xml:lang="grc" n="urn:cts:greekLit:tlg2958.tlg00203-src-grc1">
+	
 <div type="textpart" subtype="book" n="Ev"> 
 <pb n="183*"/>
 <head>ΕΥΑΓΓΕΛΙΟΝ.</head>
