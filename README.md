@@ -8,7 +8,6 @@ The Scripture Restoration Collective Open Access Repo contains the open access r
 
 Licenses for re-use vary by dataset. The more restrictive licenses are based on negotiated agreements with the copyright holders of the print works. Copyright of the datasets is held by Mark G. Bilby, together with co-authors when noted. Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our research team.
 
-<br>
 | author                | title                 | language | date      | cts_urn           | article_doi               | dataset_doi               | license       |
 |-----------------------|-----------------------|----------|-----------|-------------------|--------------------------|--------------------------|---------------|
 | Augustus Hahn         | Evangelium Marcionis | Greek    | 1832      | tlg2958.tlg00201  | [doi.org/10.5334/johd.63](https://doi.org/10.5334/johd.63) | [doi.org/10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
@@ -22,7 +21,7 @@ Licenses for re-use vary by dataset. The more restrictive licenses are based on 
 | Willem Christiaan van Manen | Apostolos Marcionis | Greek | 1887 | tlg2958.tlg00301 | [doi.org/10.5334/johd.122](https://doi.org/10.5334/johd.122) | [doi.org/10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
 | Theodor Zahn          | Apostolos Marcionis | Greek    | 1892      | tlg2958.tlg00302  | [doi.org/10.5334/johd.122](https://doi.org/10.5334/johd.122) | [doi.org/10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
 | Adolf von Harnack     | Apostolos Marcionis | Greek    | 1924      | tlg2958.tlg00303  | [doi.org/10.5334/johd.122](https://doi.org/10.5334/johd.122) | [doi.org/10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
-<br>
+
 
 ## Bibliography
 
