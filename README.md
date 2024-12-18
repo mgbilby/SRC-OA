@@ -8,19 +8,19 @@ The Scripture Restoration Collective Open Access Repo contains the open access r
 
 Licenses for re-use vary by dataset. The more restrictive licenses are based on negotiated agreements with the copyright holders of the print works. Copyright of the datasets is held by Mark G. Bilby, together with co-authors when noted. Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our research team.
 
-| author                | title                 | language | date      | cts_urn           | article_doi               | dataset_doi               | license       |
+| author                | title                 | lang | date      | cts_urn           | article_doi               | dataset_doi               | license       |
 |-----------------------|-----------------------|----------|-----------|-------------------|--------------------------|--------------------------|---------------|
-| Augustus Hahn         | Evangelium Marcionis | Greek    | 1832      | tlg2958.tlg00201  | [10.5334/johd.63](https://doi.org/10.5334/johd.63) | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
-| Theodor Zahn          | Evangelium Marcionis | Greek    | 1892      | tlg2958.tlg00202  | [10.5334/johd.63](https://doi.org/10.5334/johd.63) | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
-| Adolf von Harnack     | Evangelium Marcionis | Greek    | 1924      | tlg2958.tlg00203  | [10.5334/johd.47](https://doi.org/10.5334/johd.47) | [10.7910/DVN/5TEA5A](https://doi.org/10.7910/DVN/5TEA5A) | CC0 1.0       |
-| Kenji Tsutsui         | Evangelium Marcionis | Latin    | 1992      | tlg2958.tlg00204  | N/A                      | N/A                      | CC BY-NC-ND 4.0 |
-| Jason BeDuhn          | Evangelium Marcionis | Greek    | 2013/2023 | tlg2958.tlg00205  | [10.5334/johd.126](https://doi.org/10.5334/johd.126) | [10.7910/DVN/UQVGW6](https://doi.org/10.7910/DVN/UQVGW6) | CC BY-NC-ND 4.0 |
-| Dieter Roth           | Evangelium Marcionis | Greek    | 2015      | tlg2958.tlg00206  | [10.5334/johd.57](https://doi.org/10.5334/johd.57) | [10.7910/DVN/BYPOOR](https://doi.org/10.7910/DVN/BYPOOR) | CC BY-NC-ND 4.0 |
-| Andrea Nicolotti      | Evangelium Marcionis | Greek    | 2019      | tlg2958.tlg00207  | [10.5334/johd.70](https://doi.org/10.5334/johd.70) | [10.7910/DVN/JGL7LB](https://doi.org/10.7910/DVN/JGL7LB) | CC BY-NC-ND 4.0 |
-| Matthias Klinghardt   | Evangelium Marcionis | Greek    | 2015/2021 | tlg2958.tlg00208  | [10.5334/johd.70](https://doi.org/10.5334/johd.70) | [10.7910/DVN/BVEOEX](https://doi.org/10.7910/DVN/BVEOEX) | CC BY-NC-ND 4.0 |
-| Willem Christiaan van Manen | Apostolos Marcionis | Greek | 1887 | tlg2958.tlg00301 | [10.5334/johd.122](https://doi.org/10.5334/johd.122) | [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
-| Theodor Zahn          | Apostolos Marcionis | Greek    | 1892      | tlg2958.tlg00302  | [10.5334/johd.122](https://doi.org/10.5334/johd.122) | [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
-| Adolf von Harnack     | Apostolos Marcionis | Greek    | 1924      | tlg2958.tlg00303  | [10.5334/johd.122](https://doi.org/10.5334/johd.122) | [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
+| Augustus Hahn         | Evangelium Marcionis | grc    | 1832      | tlg2958.tlg00201  | [10.5334/johd.63](https://doi.org/10.5334/johd.63) | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
+| Theodor Zahn          | Evangelium Marcionis | grc    | 1892      | tlg2958.tlg00202  | [10.5334/johd.63](https://doi.org/10.5334/johd.63) | [10.7910/DVN/BYNHX6](https://doi.org/10.7910/DVN/BYNHX6) | CC0 1.0       |
+| Adolf von Harnack     | Evangelium Marcionis | grc    | 1924      | tlg2958.tlg00203  | [10.5334/johd.47](https://doi.org/10.5334/johd.47) | [10.7910/DVN/5TEA5A](https://doi.org/10.7910/DVN/5TEA5A) | CC0 1.0       |
+| Kenji Tsutsui         | Evangelium Marcionis | lat    | 1992      | tlg2958.tlg00204  | N/A                      | N/A                      | CC BY-NC-ND 4.0 |
+| Jason BeDuhn          | Evangelium Marcionis | grc    | 2023 | tlg2958.tlg00205  | [10.5334/johd.126](https://doi.org/10.5334/johd.126) | [10.7910/DVN/UQVGW6](https://doi.org/10.7910/DVN/UQVGW6) | CC BY-NC-ND 4.0 |
+| Dieter Roth           | Evangelium Marcionis | grc    | 2015      | tlg2958.tlg00206  | [10.5334/johd.57](https://doi.org/10.5334/johd.57) | [10.7910/DVN/BYPOOR](https://doi.org/10.7910/DVN/BYPOOR) | CC BY-NC-ND 4.0 |
+| Andrea Nicolotti      | Evangelium Marcionis | grc    | 2019      | tlg2958.tlg00207  | [10.5334/johd.70](https://doi.org/10.5334/johd.70) | [10.7910/DVN/JGL7LB](https://doi.org/10.7910/DVN/JGL7LB) | CC BY-NC-ND 4.0 |
+| Matthias Klinghardt   | Evangelium Marcionis | grc    | 2021 | tlg2958.tlg00208  | [10.5334/johd.70](https://doi.org/10.5334/johd.70) | [10.7910/DVN/BVEOEX](https://doi.org/10.7910/DVN/BVEOEX) | CC BY-NC-ND 4.0 |
+| Willem C. van Manen   | Apostolos Marcionis | grc | 1887 | tlg2958.tlg00301 | [10.5334/johd.122](https://doi.org/10.5334/johd.122) | [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
+| Theodor Zahn          | Apostolos Marcionis | grc    | 1892      | tlg2958.tlg00302  | [10.5334/johd.122](https://doi.org/10.5334/johd.122) | [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
+| Adolf von Harnack     | Apostolos Marcionis | grc    | 1924      | tlg2958.tlg00303  | [10.5334/johd.122](https://doi.org/10.5334/johd.122) | [10.7910/DVN/ZUVKQW](https://doi.org/10.7910/DVN/ZUVKQW) | CC BY 4.0     |
 
 
 ## Bibliography
