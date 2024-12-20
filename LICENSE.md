@@ -2,7 +2,7 @@
 
 ## Licenses & Terms of Re-Use
 
-All data and code are copyright © 2024 by Mark G. Bilby unless otherwise noted in the files. A blanket Creative Commons 4.0 BY-NC-ND international license (https://creativecommons.org/licenses/by-nc-nd/4.0/) applies to all files in this repo, which represent further corrections and refinements beyond the datasets published in the *Journal of Open Humanites Data* and deposited in the Harvard Dataverse. Use of the datasets archived in the Harvard Dataverse remains subject to the license terms elaborated in those respective locations. All other rights reserved.
+All data and code in this repo are copyright © 2024 by Mark G. Bilby unless otherwise noted in the files. A blanket Creative Commons BY-NC-ND 4.0 international license (https://creativecommons.org/licenses/by-nc-nd/4.0/) applies to all files in this repo, which represent further corrections and refinements beyond the datasets published in the *Journal of Open Humanites Data* and deposited in the Harvard Dataverse. Use of the datasets archived in the Harvard Dataverse remains subject to the license terms elaborated in those respective locations. All other rights reserved.
 
 The openly licensed (CC 1.0) allow for generous usage. The more restrictive licenses (CC BY-NC or CC BY-NC-ND) are based on negotiated agreements with the copyright holders of the print works and are applied to protect our research team's work in progress. Copyright of all datasets is held by Mark G. Bilby, together with co-authors when noted. Please reach out if you have any questions, are requesting permissions for certain uses, or would like to join or collaborate with our research team.
 
